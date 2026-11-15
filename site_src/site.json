@@ -30,7 +30,7 @@
    "India's 2026 monsoon vs normal"
   ],
   [
-   "378",
+   "2,526",
    "land species profiled"
   ]
  ],
@@ -50,6 +50,7 @@
    "title": "Earth's Land",
    "desc": "How continents, mountains, plateaus, deserts, ice and every kind of land region formed and what lives there.",
    "pages": [
+    "natural-regions-of-the-world",
     "how-land-forms",
     "mountains-and-plateaus",
     "deserts-of-the-world",
@@ -235,6 +236,36 @@
      "coll": "places",
      "theirs": "country",
      "label": "💧 Waterfalls, dams & caves"
+    },
+    {
+     "type": "backname",
+     "coll": "regions",
+     "theirs": "countries",
+     "label": "🧭 Natural regions"
+    },
+    {
+     "type": "text",
+     "coll": "climates",
+     "mine": "climate",
+     "label": "🌦 Climate zones"
+    },
+    {
+     "type": "text",
+     "coll": "crops",
+     "mine": "crops",
+     "label": "🌾 Crops"
+    },
+    {
+     "type": "text",
+     "coll": "fruits",
+     "mine": "crops",
+     "label": "🥭 Fruits"
+    },
+    {
+     "type": "backname",
+     "coll": "species",
+     "theirs": "where",
+     "label": "🐾 Species found here"
     }
    ],
    "visual": {
@@ -331,9 +362,175 @@
      "coll": "countries",
      "theirs": "continent",
      "label": "🗺 Countries"
+    },
+    {
+     "type": "backname",
+     "coll": "regions",
+     "theirs": "continent",
+     "label": "🧭 Regions"
     }
    ],
    "prompt": "Photorealistic satellite view of the continent of {name} from orbit, natural colours, 16:9, no text"
+  },
+  {
+   "id": "regions",
+   "icon": "🧭",
+   "title": "Regions of the World",
+   "short": "99 natural regions with climate, soil & life",
+   "noun": "regions",
+   "desc": "Every major natural region, from the Indo-Gangetic Plain, Western Ghats and Thar to the Sahara, Amazon, Siberian taiga and Outback: climate, rainfall, temperature, soils, landscape, vegetation, wildlife, crops, people and threats, all linked to the matching countries, climate zones, soils, landforms, species and crops.",
+   "file": "data/regions.json",
+   "name_key": "name",
+   "sub_key": "rtype",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "glance": true,
+   "facts": [
+    [
+     "rtype",
+     "Type"
+    ],
+    [
+     "continent",
+     "Continent"
+    ],
+    [
+     "countries",
+     "Countries"
+    ],
+    [
+     "climate",
+     "Climate"
+    ],
+    [
+     "rainfall_mm",
+     "Rainfall (mm/yr)"
+    ],
+    [
+     "temp",
+     "Temperature"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ],
+    [
+     "landscape",
+     "Landscape"
+    ],
+    [
+     "soils",
+     "Soils"
+    ],
+    [
+     "vegetation",
+     "Vegetation"
+    ],
+    [
+     "wildlife",
+     "Wildlife"
+    ],
+    [
+     "crops",
+     "Crops & fruits"
+    ],
+    [
+     "people",
+     "People & history"
+    ],
+    [
+     "threats",
+     "Threats & changes"
+    ]
+   ],
+   "columns": [
+    [
+     "rtype",
+     "Type"
+    ],
+    [
+     "continent",
+     "Continent"
+    ],
+    [
+     "rainfall_mm",
+     "Rain mm"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Regions by continent group"
+    },
+    {
+     "type": "count",
+     "key": "rtype",
+     "title": "Regions by type"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "countries",
+     "mine": "countries",
+     "label": "🗺 Countries"
+    },
+    {
+     "type": "text",
+     "coll": "climates",
+     "mine": "climate",
+     "label": "🌦 Climate zones"
+    },
+    {
+     "type": "text",
+     "coll": "soils",
+     "mine": "soils",
+     "label": "🟤 Soils"
+    },
+    {
+     "type": "text",
+     "coll": "landforms",
+     "mine": "landscape",
+     "label": "⛰ Landforms"
+    },
+    {
+     "type": "text",
+     "coll": "species",
+     "mine": "wildlife",
+     "label": "🐾 Species"
+    },
+    {
+     "type": "text",
+     "coll": "crops",
+     "mine": "crops",
+     "label": "🌾 Crops"
+    },
+    {
+     "type": "text",
+     "coll": "fruits",
+     "mine": "crops",
+     "label": "🥭 Fruits"
+    },
+    {
+     "type": "rmatch",
+     "coll": "continents",
+     "mine": "continent",
+     "theirs": "name",
+     "label": "🌍 Continent"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Photorealistic wide landscape photograph of the {name} ({landscape}), showing its typical vegetation and farmland, golden hour, 16:9, no text"
   },
   {
    "name_key": "name",
@@ -427,6 +624,18 @@
      "coll": "countries",
      "label": "🗺 Countries",
      "mine": "country"
+    },
+    {
+     "type": "backname",
+     "coll": "regions",
+     "theirs": "landscape",
+     "label": "🧭 Regions"
+    },
+    {
+     "type": "backname",
+     "coll": "species",
+     "theirs": "where",
+     "label": "🐾 Species"
     }
    ],
    "prompt": "Photorealistic landscape photograph of {name}, dramatic natural light, wide angle, 16:9, no text"
@@ -435,9 +644,9 @@
    "id": "species",
    "icon": "🐾",
    "title": "Land Species Atlas",
-   "short": "378 animals, plants & fungi",
+   "short": "2,526 animals, plants & fungi",
    "noun": "species",
-   "desc": "Land animals, birds, reptiles, amphibians, insects, trees, flowers and fungi. Each profile has a real photo, where it lives, habitat, diet, IUCN status, what it sounds like (played automatically where a recording exists), the full live Wikipedia article and the latest research.",
+   "desc": "2,526 land animals, birds, reptiles, amphibians, insects, trees, flowers and fungi. Each profile has a real photo, where it lives, habitat, diet, IUCN status, what it sounds like (played automatically where a recording exists), the full live Wikipedia article and the latest research.",
    "file": "data/species.json",
    "name_key": "name",
    "sub_key": "scientific",
@@ -537,6 +746,24 @@
      "coll": "protected",
      "theirs": "known_for",
      "label": "🛡 Protected areas famous for it"
+    },
+    {
+     "type": "text",
+     "coll": "regions",
+     "mine": "where",
+     "label": "🧭 Regions"
+    },
+    {
+     "type": "backname",
+     "coll": "regions",
+     "theirs": "wildlife",
+     "label": "🧭 Regions where it is a signature species"
+    },
+    {
+     "type": "text",
+     "coll": "landforms",
+     "mine": "where",
+     "label": "⛰ Landforms"
     }
    ],
    "source_tpl": [
@@ -731,6 +958,12 @@
      "coll": "countries",
      "mine": "country",
      "label": "🗺 Country"
+    },
+    {
+     "type": "text",
+     "coll": "regions",
+     "mine": "state",
+     "label": "🧭 Region"
     }
    ],
    "source_tpl": [
@@ -806,7 +1039,21 @@
      "title": "Fertility classes"
     }
    ],
-   "prompt": "Photorealistic close-up soil profile cross-section of {name}, showing horizons and texture, natural light, 16:9, no text"
+   "prompt": "Photorealistic close-up soil profile cross-section of {name}, showing horizons and texture, natural light, 16:9, no text",
+   "links": [
+    {
+     "type": "backname",
+     "coll": "regions",
+     "theirs": "soils",
+     "label": "🧭 Regions with this soil"
+    },
+    {
+     "type": "text",
+     "coll": "crops",
+     "mine": "crops",
+     "label": "🌾 Crops it supports"
+    }
+   ]
   },
   {
    "name_key": "name",
@@ -877,7 +1124,21 @@
      "title": "Climate groups"
     }
    ],
-   "prompt": "Photorealistic landscape typical of a {name} climate, 16:9, no text"
+   "prompt": "Photorealistic landscape typical of a {name} climate, 16:9, no text",
+   "links": [
+    {
+     "type": "backname",
+     "coll": "regions",
+     "theirs": "climate",
+     "label": "🧭 Regions with this climate"
+    },
+    {
+     "type": "backname",
+     "coll": "countries",
+     "theirs": "climate",
+     "label": "🗺 Countries"
+    }
+   ]
   },
   {
    "name_key": "name",
@@ -968,6 +1229,18 @@
      "coll": "countries",
      "label": "🗺 Main growing countries",
      "mine": "top_producer"
+    },
+    {
+     "type": "backname",
+     "coll": "regions",
+     "theirs": "crops",
+     "label": "🧭 Regions that grow it"
+    },
+    {
+     "type": "backname",
+     "coll": "countries",
+     "theirs": "crops",
+     "label": "🗺 Countries that grow it"
     }
    ],
    "prompt": "Photorealistic photograph of a field of {name} ({scientific}) ready for harvest, 16:9, no text"
@@ -1047,6 +1320,18 @@
      "coll": "countries",
      "label": "🗺 Main growing countries",
      "mine": "top_producer"
+    },
+    {
+     "type": "backname",
+     "coll": "regions",
+     "theirs": "crops",
+     "label": "🧭 Regions that grow it"
+    },
+    {
+     "type": "backname",
+     "coll": "countries",
+     "theirs": "crops",
+     "label": "🗺 Countries that grow it"
     }
    ],
    "prompt": "Photorealistic photograph of ripe {name} ({scientific}) fruit growing on the plant, 16:9, no text"
@@ -1243,6 +1528,10 @@
    "title": "Countries"
   },
   {
+   "id": "regions",
+   "title": "Regions"
+  },
+  {
    "id": "species",
    "title": "Species"
   },
@@ -1261,10 +1550,6 @@
   {
    "id": "crops",
    "title": "Crops"
-  },
-  {
-   "id": "climate",
-   "title": "Climate"
   }
  ],
  "prompt_style": "Photorealistic documentary photograph, natural light, 16:9, no text or labels"

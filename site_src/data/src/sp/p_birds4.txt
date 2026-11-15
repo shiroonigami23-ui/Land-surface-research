@@ -1,0 +1,212 @@
+# Birds|🐦
+Indian scimitar babbler|Pomatorhinus horsfieldii|India|Forest|Insects|LC|A curved-billed babbler.
+Wynaad laughingthrush|Pterorhinus delesserti|India (Western Ghats)|Forest|Insects|LC|Noisy flocks in the Ghats.
+Nilgiri laughingthrush|Montecincla cachinnans|India (Nilgiris)|Shola forest|Insects|EN|A sky-island endemic.
+Nilgiri flycatcher|Eumyias albicaudatus|India (Western Ghats)|Shola forest|Insects|NT|A blue flycatcher of the hills.
+White-bellied blue flycatcher|Cyornis pallidipes|India (Western Ghats)|Rainforest|Insects|LC|Endemic to the Ghats.
+Malabar parakeet|Psittacula columboides|India (Western Ghats)|Forest|Fruit|LC|Blue-winged parakeet.
+Sri Lanka blue magpie|Urocissa ornata|Sri Lanka|Rainforest|Insects|VU|A striking endemic magpie.
+Rufous babbler|Argya subrufa|India (Western Ghats)|Forest|Insects|LC|A skulking endemic babbler.
+Yellow-throated bulbul|Pycnonotus xantholaemus|India (Deccan)|Rocky hills|Fruit|VU|Endemic to the Deccan hills.
+Nilgiri pipit|Anthus nilghiriensis|India (Western Ghats)|Montane grassland|Insects|VU|A grassland endemic.
+Broad-tailed grassbird|Schoenicola platyurus|India (Western Ghats)|Grassland|Insects|VU|A secretive grass warbler.
+Finn's weaver|Ploceus megarhynchus|India (Terai)|Tall grassland|Seeds|EN|A yellow weaver of the terai.
+Bristled grassbird|Schoenicola striatus|India; Nepal|Grassland|Insects|VU|Lives in tall grass.
+Swamp francolin|Ortygornis gularis|India; Nepal|Grassland|Seeds|VU|A terai gamebird.
+Rufous-necked hornbill|Aceros nipalensis|Northeast India; Bhutan|Forest|Fruit|VU|A colourful Himalayan hornbill.
+Fire-tailed myzornis|Myzornis pyrrhoura|Himalaya|Rhododendron forest|Nectar|LC|A green bird with a red tail.
+Fire-tailed sunbird|Aethopyga ignicauda|Himalaya|Forest|Nectar|LC|A long-tailed red sunbird.
+Mrs Gould's sunbird|Aethopyga gouldiae|Himalaya|Forest|Nectar|LC|A jewel of colours.
+Crimson sunbird|Aethopyga siparaja|South and Southeast Asia|Gardens|Nectar|LC|National bird of Singapore.
+Loten's sunbird|Cinnyris lotenius|South India; Sri Lanka|Gardens|Nectar|LC|A long-billed sunbird.
+Little spiderhunter|Arachnothera longirostra|South and Southeast Asia|Forest|Nectar|LC|Steals spiders.
+Thick-billed flowerpecker|Dicaeum agile|South Asia|Gardens|Mistletoe|LC|Spreads mistletoe seeds.
+Oriental white-eye|Zosterops palpebrosus|South Asia|Gardens|Insects|LC|A white eye-ring.
+Black-hooded oriole|Oriolus xanthornus|South Asia|Woodland|Fruit|LC|Yellow with a black hood.
+Ashy drongo|Dicrurus leucophaeus|Asia|Forest|Insects|LC|A grey drongo.
+Long-tailed shrike|Lanius schach|Asia|Open land|Insects|LC|Impales prey on thorns.
+Bay-backed shrike|Lanius vittatus|South Asia|Scrub|Insects|LC|A small 'butcher bird'.
+Red-backed shrike|Lanius collurio|Europe|Scrub|Insects|LC|Keeps a thorn larder.
+Common woodshrike|Tephrodornis pondicerianus|South Asia|Woodland|Insects|LC|A grey songbird.
+Small minivet|Pericrocotus cinnamomeus|South Asia|Woodland|Insects|LC|A tiny orange minivet.
+Scarlet minivet|Pericrocotus speciosus|South and Southeast Asia|Forest|Insects|LC|Flocks of red and yellow.
+Large cuckooshrike|Coracina javensis|South Asia|Woodland|Insects|LC|A grey cuckooshrike.
+Black-naped monarch|Hypothymis azurea|South and Southeast Asia|Forest|Insects|LC|An azure flycatcher.
+Yellow-browed bulbul|Acritillas indica|South India; Sri Lanka|Forest|Fruit|LC|A bright yellow bulbul.
+Square-tailed bulbul|Hypsipetes ganeesa|South India; Sri Lanka|Forest|Fruit|LC|A black bulbul.
+Grey-headed canary-flycatcher|Culicicapa ceylonensis|South and Southeast Asia|Forest|Insects|LC|A yellow flycatcher.
+Blue-throated barbet|Psilopogon asiaticus|Himalaya; Southeast Asia|Forest|Fruit|LC|A colourful barbet.
+White-cheeked barbet|Psilopogon viridis|India (Western Ghats)|Forest|Fruit|LC|Loud 'kutroo' call.
+Heart-spotted woodpecker|Hemicircus canente|India; Southeast Asia|Forest|Insects|LC|Heart-shaped spots.
+Speckled piculet|Picumnus innominatus|South and Southeast Asia|Forest|Insects|LC|A tiny woodpecker.
+Crested treeswift|Hemiprocne coronata|South Asia|Woodland|Insects|LC|Nests on a bare twig.
+Sri Lanka frogmouth|Batrachostomus moniliger|India; Sri Lanka|Rainforest|Insects|LC|A wide-mouthed nocturnal bird.
+Great eared nightjar|Lyncornis macrotis|Northeast India; Southeast Asia|Forest|Insects|LC|Has ear-like tufts.
+Asian emerald dove|Chalcophaps indica|South and Southeast Asia|Forest|Seeds|LC|A green-winged dove.
+Mountain imperial pigeon|Ducula badia|South and Southeast Asia|Forest|Fruit|LC|A large fruit pigeon.
+Pin-tailed green pigeon|Treron apicauda|Himalaya|Forest|Fruit|LC|A long-tailed pigeon.
+Snow pigeon|Columba leuconota|Himalaya|Alpine cliffs|Seeds|LC|A white high-altitude pigeon.
+Tibetan snowfinch|Montifringilla henrici|Tibet|Plateau|Seeds|LC|Nests in pika burrows.
+Horned lark|Eremophila alpestris|Northern Hemisphere; Himalaya|Open ground|Seeds|LC|Has 'horn' feathers.
+Wallcreeper|Tichodroma muraria|Alps; Himalaya|Cliffs|Insects|LC|Flicks crimson wings on cliffs.
+Alpine accentor|Prunella collaris|Eurasian mountains|Alpine|Insects|LC|Lives above the tree line.
+Grandala|Grandala coelicolor|Himalaya|Alpine|Insects|LC|Shining blue flocks.
+Ibisbill|Ibidorhyncha struthersii|Himalaya; Central Asia|Shingle rivers|Insects|LC|A unique wader of mountain rivers.
+Solitary snipe|Gallinago solitaria|Himalaya|Mountain streams|Worms|LC|A high-altitude snipe.
+Tibetan sandgrouse|Syrrhaptes tibetanus|Tibet; Ladakh|Plateau|Seeds|LC|Feathered feet.
+Chestnut-bellied sandgrouse|Pterocles exustus|Africa; India|Desert|Seeds|LC|Carries water in belly feathers.
+Painted sandgrouse|Pterocles indicus|India|Scrub|Seeds|LC|Patterned plumage.
+Lesser whitethroat|Curruca curruca|Eurasia; winters India|Scrub|Insects|LC|A small warbler.
+Desert wheatear|Oenanthe deserti|North Africa; Asia|Desert|Insects|LC|A sandy wheatear.
+Isabelline wheatear|Oenanthe isabellina|Central Asia|Steppe|Insects|LC|A pale wheatear.
+Variable wheatear|Oenanthe picata|Central Asia; India|Rocky desert|Insects|LC|Has several colour forms.
+Hypocolius|Hypocolius ampelinus|Middle East; Gujarat|Desert scrub|Fruit|LC|A unique grey bird in Kutch.
+Sind sparrow|Passer pyrrhonotus|Pakistan; India|Riverine scrub|Seeds|LC|A small Indus sparrow.
+Yellow-throated sparrow|Gymnoris xanthocollis|South Asia|Dry woodland|Seeds|LC|Has a yellow throat spot.
+Black-throated weaver|Ploceus benghalensis|South Asia|Reedbeds|Seeds|LC|Builds nests in reeds.
+Streaked weaver|Ploceus manyar|South Asia|Wetlands|Seeds|LC|A streaky weaver.
+Red bishop|Euplectes orix|Africa|Grassland|Seeds|LC|Males are red and black.
+Village weaver|Ploceus cucullatus|Africa|Villages|Seeds|LC|Colonies of hanging nests.
+Sociable weaver|Philetairus socius|Southern Africa|Kalahari|Seeds|LC|Builds giant apartment nests.
+Red-billed quelea|Quelea quelea|Africa|Savanna|Seeds|LC|The most numerous wild bird.
+Superb starling|Lamprotornis superbus|East Africa|Savanna|Insects|LC|Iridescent blue and orange.
+Lilac-breasted roller|Coracias caudatus|East and southern Africa|Savanna|Insects|LC|Kenya's unofficial bird.
+Hamerkop|Scopus umbretta|Africa|Wetlands|Frogs|LC|Builds a huge domed nest.
+Grey go-away-bird|Crinifer concolor|Southern Africa|Savanna|Fruit|LC|Calls 'go-away'.
+Great blue turaco|Corythaeola cristata|Central Africa|Rainforest|Fruit|LC|A large blue turaco.
+Knysna turaco|Tauraco corythaix|South Africa|Forest|Fruit|LC|Red flight feathers.
+Helmeted guineafowl|Numida meleagris|Africa|Savanna|Seeds|LC|Ancestor of domestic guineafowl.
+Vulturine guineafowl|Acryllium vulturinum|East Africa|Dry bush|Seeds|LC|Cobalt-blue plumage.
+Malachite kingfisher|Corythornis cristatus|Africa|Rivers|Fish|LC|A tiny jewel kingfisher.
+African hoopoe|Upupa africana|Africa|Savanna|Insects|LC|Darker than the Eurasian hoopoe.
+Yellow-billed hornbill|Tockus leucomelas|Southern Africa|Savanna|Insects|LC|The 'flying banana'.
+Trumpeter hornbill|Bycanistes bucinator|Africa|Forest|Fruit|LC|Calls like a crying baby.
+Greater honeyguide|Indicator indicator|Africa|Woodland|Beeswax|LC|Leads humans to bees' nests.
+Ostrich (Somali)|Struthio molybdophanes|Horn of Africa|Dry savanna|Plants|VU|Blue-necked ostrich.
+Wattled crane|Grus carunculata|Southern Africa|Wetlands|Tubers|VU|Africa's largest crane.
+African jacana|Actophilornis africanus|Africa|Lily ponds|Insects|LC|Walks on lily pads.
+Fischer's lovebird|Agapornis fischeri|Tanzania|Savanna|Seeds|NT|A small colourful parrot.
+Rosy-faced lovebird|Agapornis roseicollis|Namibia|Desert|Seeds|LC|Popular pet.
+Cape sugarbird|Promerops cafer|South Africa|Fynbos|Nectar|LC|Long tail, sips protea nectar.
+Bokmakierie|Telophorus zeylonus|South Africa|Scrub|Insects|LC|Duet-singing bushshrike.
+Common ostrich (red-necked)|Struthio camelus camelus|Sahel|Savanna|Plants|LC|North African ostrich.
+Atlas flycatcher|Ficedula speculigera|Morocco; Algeria|Forest|Insects|LC|Atlas Mountain breeder.
+Hoopoe lark|Alaemon alaudipes|Sahara|Desert|Insects|LC|Long curved bill.
+Dupont's lark|Chersophilus duponti|Spain; North Africa|Steppe|Insects|VU|A secretive lark.
+Spanish imperial eagle|Aquila adalberti|Spain; Portugal|Woodland|Rabbits|VU|Recovered with Iberian lynx.
+European roller|Coracias garrulus|Europe; Africa|Open land|Insects|LC|Turquoise migrant.
+Great grey shrike|Lanius excubitor|Northern Hemisphere|Open land|Rodents|LC|Impales prey.
+Bohemian waxwing|Bombycilla garrulus|Northern Hemisphere|Taiga|Berries|LC|Irrupts into cities.
+Common crossbill|Loxia curvirostra|Northern Hemisphere|Conifers|Seeds|LC|Crossed bill opens cones.
+Bullfinch|Pyrrhula pyrrhula|Eurasia|Woodland|Buds|LC|A rosy finch.
+Hawfinch|Coccothraustes coccothraustes|Eurasia|Woodland|Seeds|LC|Cracks cherry stones.
+Yellowhammer|Emberiza citrinella|Europe|Farmland|Seeds|LC|'Little bit of bread and no cheese'.
+Corn bunting|Emberiza calandra|Europe|Farmland|Seeds|LC|Jangling song.
+Reed bunting|Emberiza schoeniclus|Eurasia|Reedbeds|Seeds|LC|Black-headed male.
+Snow bunting|Plectrophenax nivalis|Arctic|Tundra|Seeds|LC|White Arctic bird.
+Lapland longspur|Calcarius lapponicus|Arctic|Tundra|Seeds|LC|Breeds on tundra.
+Dunnock|Prunella modularis|Europe|Gardens|Insects|LC|Complex mating system.
+Goldcrest|Regulus regulus|Eurasia|Conifers|Insects|LC|Europe's smallest bird.
+Firecrest|Regulus ignicapilla|Europe|Woodland|Insects|LC|Orange crest stripe.
+Long-tailed tit|Aegithalos caudatus|Eurasia|Woodland|Insects|LC|Feathered dome nests.
+Bearded reedling|Panurus biarmicus|Eurasia|Reedbeds|Seeds|LC|Moustached male.
+Sedge warbler|Acrocephalus schoenobaenus|Europe|Reedbeds|Insects|LC|Mimics other birds.
+Marsh warbler|Acrocephalus palustris|Europe|Scrub|Insects|LC|Mimics 70+ species.
+Blackcap|Sylvia atricapilla|Europe|Woodland|Insects|LC|Rich song.
+Willow warbler|Phylloscopus trochilus|Eurasia|Woodland|Insects|LC|Migrates to Africa.
+Spotted flycatcher|Muscicapa striata|Europe|Woodland|Insects|LC|Sallies for insects.
+Pied flycatcher|Ficedula hypoleuca|Europe|Woodland|Insects|LC|Nests in boxes.
+Black redstart|Phoenicurus ochruros|Eurasia|Towns|Insects|LC|Sings from rooftops.
+Northern wheatear|Oenanthe oenanthe|Northern Hemisphere|Open land|Insects|LC|Migrates from Alaska to Africa.
+Whinchat|Saxicola rubetra|Europe|Meadows|Insects|LC|A streaky chat.
+Mistle thrush|Turdus viscivorus|Europe|Parks|Berries|LC|Sings in storms.
+Fieldfare|Turdus pilaris|Europe|Fields|Berries|LC|Winter flocks.
+Redwing|Turdus iliacus|Europe|Woodland|Berries|LC|Red underwing.
+Ring ouzel|Turdus torquatus|Europe|Mountains|Berries|LC|A white-bibbed thrush.
+Eurasian treecreeper|Certhia familiaris|Eurasia|Woodland|Insects|LC|Spirals up trunks.
+Eurasian nuthatch|Sitta europaea|Eurasia|Woodland|Seeds|LC|Walks head-first down trees.
+Middle spotted woodpecker|Dendrocoptes medius|Europe|Oak woods|Insects|LC|Red-capped woodpecker.
+Black woodpecker|Dryocopus martius|Eurasia|Forest|Ants|LC|Europe's largest woodpecker.
+Common nighthawk|Chordeiles minor|Americas|Open land|Insects|LC|Booms in dives.
+Eastern whip-poor-will|Antrostomus vociferus|USA|Woodland|Insects|NT|Calls its name.
+Chimney swift|Chaetura pelagica|Americas|Chimneys|Insects|VU|Roosts in chimneys.
+Belted kingfisher|Megaceryle alcyon|North America|Rivers|Fish|LC|Rattling call.
+Pileated woodpecker|Dryocopus pileatus|North America|Forest|Ants|LC|The model for Woody Woodpecker.
+Red-headed woodpecker|Melanerpes erythrocephalus|USA|Open woods|Insects|LC|Fully red head.
+Downy woodpecker|Dryobates pubescens|North America|Woodland|Insects|LC|The smallest US woodpecker.
+Scarlet tanager|Piranga olivacea|Americas|Forest|Insects|LC|Red with black wings.
+Western tanager|Piranga ludoviciana|Western USA|Conifers|Insects|LC|Red head, yellow body.
+Painted bunting|Passerina ciris|USA; Mexico|Thickets|Seeds|LC|Rainbow-coloured.
+Indigo bunting|Passerina cyanea|Americas|Fields|Seeds|LC|Navigates by stars.
+Rose-breasted grosbeak|Pheucticus ludovicianus|Americas|Woodland|Seeds|LC|Red breast patch.
+Evening grosbeak|Hesperiphona vespertina|North America|Conifers|Seeds|VU|Big-billed finch.
+Dark-eyed junco|Junco hyemalis|North America|Forest|Seeds|LC|'Snowbird'.
+Song sparrow|Melospiza melodia|North America|Thickets|Seeds|LC|Many dialects.
+White-crowned sparrow|Zonotrichia leucophrys|North America|Scrub|Seeds|LC|Song dialects studied for decades.
+Eastern towhee|Pipilo erythrophthalmus|USA|Thickets|Seeds|LC|'Drink your tea'.
+Eastern meadowlark|Sturnella magna|Americas|Grassland|Insects|NT|A yellow-breasted songbird.
+Western meadowlark|Sturnella neglecta|Western USA|Grassland|Insects|LC|State bird of six states.
+Brown-headed cowbird|Molothrus ater|North America|Fields|Seeds|LC|A brood parasite.
+Cedar waxwing|Bombycilla cedrorum|North America|Woodland|Berries|LC|Passes berries along a line.
+Northern mockingbird|Mimus polyglottos|USA|Gardens|Insects|LC|Mimics hundreds of sounds.
+Gray catbird|Dumetella carolinensis|North America|Thickets|Insects|LC|Mews like a cat.
+Brown thrasher|Toxostoma rufum|USA|Thickets|Insects|LC|Knows 1,000+ songs.
+Carolina wren|Thryothorus ludovicianus|USA|Woodland|Insects|LC|A loud little wren.
+House wren|Troglodytes aedon|Americas|Gardens|Insects|LC|Widespread wren.
+Tufted titmouse|Baeolophus bicolor|USA|Woodland|Seeds|LC|A grey crested bird.
+White-breasted nuthatch|Sitta carolinensis|North America|Woodland|Seeds|LC|Walks down trunks.
+Yellow warbler|Setophaga petechia|Americas|Thickets|Insects|LC|'Sweet sweet I'm so sweet'.
+Kirtland's warbler|Setophaga kirtlandii|USA (Michigan)|Jack pine|Insects|NT|Recovered from fewer than 200 pairs.
+American redstart|Setophaga ruticilla|Americas|Forest|Insects|LC|Flashes orange tail.
+Common yellowthroat|Geothlypis trichas|Americas|Marshes|Insects|LC|Black-masked warbler.
+Blackburnian warbler|Setophaga fusca|Americas|Conifers|Insects|LC|Flame-orange throat.
+Prothonotary warbler|Protonotaria citrea|USA|Swamps|Insects|LC|Golden swamp warbler.
+Purple martin|Progne subis|Americas|Open land|Insects|LC|Nests in human-made houses.
+Tree swallow|Tachycineta bicolor|North America|Wetlands|Insects|LC|Iridescent blue back.
+Eastern bluebird|Sialia sialis|USA|Fields|Insects|LC|Saved by nest boxes.
+Mountain bluebird|Sialia currucoides|Western USA|Open mountains|Insects|LC|Sky-blue thrush.
+Wood thrush|Hylocichla mustelina|USA|Forest|Insects|NT|Flute-like song.
+Hermit thrush|Catharus guttatus|North America|Forest|Insects|LC|Spiralling song.
+Clark's nutcracker|Nucifraga columbiana|Western USA|Mountains|Pine seeds|LC|Caches 30,000 seeds a year.
+Steller's jay|Cyanocitta stelleri|Western North America|Conifers|Nuts|LC|Black-crested jay.
+Florida scrub-jay|Aphelocoma coerulescens|USA (Florida)|Oak scrub|Acorns|VU|Florida's only endemic bird.
+Black-billed magpie|Pica hudsonia|Western North America|Open land|Anything|LC|Long tail.
+Wild turkey (Ocellated)|Meleagris ocellata|Mexico; Guatemala|Forest|Seeds|NT|A colourful Maya turkey.
+Greater prairie-chicken|Tympanuchus cupido|USA|Tallgrass prairie|Seeds|VU|Booms on leks.
+Northern bobwhite|Colinus virginianus|USA|Farmland|Seeds|NT|Calls 'bob-white'.
+California quail|Callipepla californica|USA|Scrub|Seeds|LC|A teardrop topknot.
+Sandhill crane|Antigone canadensis|North America|Wetlands|Grain|LC|Half a million stage on the Platte River.
+Killdeer|Charadrius vociferus|Americas|Fields|Insects|LC|Fakes a broken wing.
+American woodcock|Scolopax minor|North America|Woodland|Earthworms|LC|Sky-dance display.
+Great blue heron|Ardea herodias|North America|Wetlands|Fish|LC|America's largest heron.
+Roseate spoonbill|Platalea ajaja|Americas|Coasts|Shrimp|LC|Pink spoonbill.
+Wood stork|Mycteria americana|Americas|Swamps|Fish|LC|America's only native stork.
+Anhinga|Anhinga anhinga|Americas|Swamps|Fish|LC|Spears fish underwater.
+Limpkin|Aramus guarauna|Americas|Swamps|Apple snails|LC|Wailing cries.
+Purple gallinule|Porphyrio martinica|Americas|Marshes|Plants|LC|Walks on lily pads.
+Jabiru|Jabiru mycteria|Central and South America|Wetlands|Fish|LC|The tallest flying bird in South America.
+Southern screamer|Chauna torquata|South America|Marshes|Plants|LC|Very loud calls.
+Red-legged seriema|Cariama cristata|South America|Grassland|Snakes|LC|Bashes prey on the ground.
+Andean flamingo|Phoenicoparrus andinus|Andes|Salt lakes|Algae|VU|Lives at high altitude.
+Torrent duck|Merganetta armata|Andes|Rapids|Insects|LC|Swims in white water.
+Darwin's rhea|Rhea pennata|Patagonia|Steppe|Plants|LC|Lesser rhea.
+Magellanic woodpecker|Campephilus magellanicus|Chile; Argentina|Beech forest|Insects|LC|Red-headed giant woodpecker.
+Medium ground finch|Geospiza fortis|Galápagos|Islands|Seeds|LC|Darwin's finch studied for evolution in real time.
+Galápagos mockingbird|Mimus parvulus|Galápagos|Islands|Insects|LC|Inspired Darwin's thinking.
+Flightless cormorant|Nannopterum harrisi|Galápagos|Coasts|Fish|VU|Has stubby wings.
+Kagu|Rhynochetos jubatus|New Caledonia|Forest|Insects|EN|A ghostly grey bird.
+Laysan albatross|Phoebastria immutabilis|Hawaii|Atolls|Squid|NT|Wisdom, the oldest known wild bird, is one.
+Nene|Branta sandvicensis|Hawaii|Volcanic slopes|Plants|VU|Hawaii's state bird.
+Iiwi|Drepanis coccinea|Hawaii|Forest|Nectar|VU|A red honeycreeper threatened by malaria.
+Kiwi (great spotted)|Apteryx haastii|New Zealand|Alpine forest|Insects|VU|Largest kiwi.
+Australian magpie|Gymnorhina tibicen|Australia|Open land|Insects|LC|Famous for swooping in spring.
+Pied currawong|Strepera graculina|Australia|Woodland|Anything|LC|A loud black bird.
+Noisy miner|Manorina melanocephala|Australia|Suburbs|Nectar|LC|Aggressive honeyeater.
+Regent honeyeater|Anthochaera phrygia|Australia|Woodland|Nectar|CR|Forgetting its song as numbers fall.
+Splendid fairywren|Malurus splendens|Australia|Scrub|Insects|LC|Brilliant blue males.
+Rainbow bee-eater|Merops ornatus|Australia|Open land|Bees|LC|Australia's bee-eater.
+Tawny frogmouth|Podargus strigoides|Australia|Woodland|Insects|LC|Camouflaged as a branch.
+Major Mitchell's cockatoo|Lophochroa leadbeateri|Australia|Arid woodland|Seeds|LC|Pink cockatoo.
+Red-tailed black cockatoo|Calyptorhynchus banksii|Australia|Woodland|Seeds|LC|A big black parrot.
+Eclectus parrot|Eclectus roratus|New Guinea; Australia|Rainforest|Fruit|LC|Males green, females red.
+Palm cockatoo|Probosciger aterrimus|New Guinea; Australia|Rainforest|Nuts|LC|Drums with a stick.

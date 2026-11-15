@@ -1,0 +1,124 @@
+# Birds|🐦
+Streaked spiderhunter|Arachnothera magna|Himalaya; Southeast Asia|Forest|Nectar|LC|Streaky spiderhunter.
+Sultan tit|Melanochlora sultanea|Himalaya; Southeast Asia|Forest|Insects|LC|A yellow-crested tit.
+Yellow-cheeked tit|Machlolophus spilonotus|Himalaya|Forest|Insects|LC|A crested yellow tit.
+Black-throated tit|Aegithalos concinnus|Himalaya; China|Forest|Insects|LC|A tiny masked tit.
+Green-tailed sunbird|Aethopyga nipalensis|Himalaya|Forest|Nectar|LC|Metallic green tail.
+White-crested laughingthrush|Garrulax leucolophus|Himalaya; Southeast Asia|Forest|Insects|LC|Laughs in groups.
+Spiny babbler|Turdoides nipalensis|Nepal|Scrub|Insects|LC|Nepal's only endemic bird.
+Blood pheasant|Ithaginis cruentus|Himalaya|Fir forest|Moss|LC|Sikkim's state bird.
+Tibetan eared pheasant|Crossoptilon harmani|Tibet|Scrub|Roots|NT|A grey eared pheasant.
+White eared pheasant|Crossoptilon crossoptilon|China; Tibet|Forest|Roots|NT|White and fluffy.
+Sclater's monal|Lophophorus sclateri|Arunachal; Myanmar|Alpine|Roots|VU|A rare monal.
+Rufous-throated partridge|Arborophila rufogularis|Himalaya|Forest|Insects|LC|A hill partridge.
+Hill partridge|Arborophila torqueola|Himalaya|Forest|Seeds|LC|A whistling partridge.
+Painted spurfowl|Galloperdix lunulata|India|Scrub|Seeds|LC|A colourful spurfowl.
+Red spurfowl|Galloperdix spadicea|India|Forest|Seeds|LC|Red-faced spurfowl.
+Painted francolin|Francolinus pictus|India|Grassland|Seeds|LC|A spotted francolin.
+Malabar pied hornbill|Anthracoceros coronatus|India; Sri Lanka|Forest|Fruit|NT|Nests in big trees.
+Brown hornbill|Anorrhinus austeni|Northeast India|Forest|Fruit|NT|Breeds cooperatively.
+Black-and-orange flycatcher|Ficedula nigrorufa|India (Western Ghats)|Shola|Insects|NT|Endemic to Ghats sky islands.
+Nilgiri wood pigeon|Columba elphinstonii|India (Western Ghats)|Forest|Fruit|VU|A grey wood pigeon.
+Banasura laughingthrush|Montecincla jerdoni|India (Western Ghats)|Shola|Insects|EN|Found on a few peaks.
+Ashambu laughingthrush|Montecincla meridionalis|India (Western Ghats)|Shola|Insects|NT|Southernmost laughingthrush.
+White-bellied sholakili|Sholicola albiventris|India (Western Ghats)|Shola|Insects|NT|A shortwing.
+Grey-headed bulbul|Brachypodius priocephalus|India (Western Ghats)|Forest|Fruit|NT|A shy endemic bulbul.
+Andaman woodpecker|Dryocopus hodgei|India (Andamans)|Forest|Insects|VU|Endemic to the Andamans.
+Andaman serpent eagle|Spilornis elgini|India (Andamans)|Forest|Snakes|VU|Island eagle.
+Nicobar megapode|Megapodius nicobariensis|India (Nicobars)|Coastal forest|Insects|VU|Builds mound nests.
+Andaman crake|Rallina canningi|India (Andamans)|Swamps|Insects|LC|A chestnut rail.
+Manipur bush quail|Perdicula manipurensis|India (Manipur, Assam)|Grassland|Seeds|EN|Rediscovered in 2006.
+Rusty-throated wren-babbler|Spelaeornis badeigularis|Arunachal Pradesh|Forest|Insects|VU|Known from a few records.
+Bugun liocichla|Liocichla bugunorum|Arunachal Pradesh|Forest edge|Insects|CR|Discovered in 2006; about 14–20 birds.
+Himalayan quail|Ophrysia superciliosa|India (Uttarakhand)|Grassy slopes|Seeds|CR|Not seen since 1876.
+Tibetan lark|Melanocorypha maxima|Tibet; Ladakh|Wet meadows|Seeds|LC|A large lark.
+Hume's groundpecker|Pseudopodoces humilis|Tibet|Steppe|Insects|LC|A tit that lives in burrows.
+White-bellied heron|Ardea insignis|Bhutan; Northeast India; Myanmar|Rivers|Fish|CR|Fewer than 60 left.
+Masked finfoot|Heliopais personatus|Southeast Asia; Sundarbans|Mangroves|Fish|EN|A secretive water bird.
+Grey parrot (Timneh)|Psittacus timneh|West Africa|Forest|Seeds|EN|A smaller grey parrot.
+Black-crowned crane|Balearica pavonina|Sahel|Wetlands|Insects|VU|National bird of Nigeria.
+Northern bald ibis|Geronticus eremita|Morocco|Cliffs|Insects|EN|Once worshipped in Egypt.
+Saddle-billed stork|Ephippiorhynchus senegalensis|Africa|Wetlands|Fish|LC|Colourful bill.
+Goliath heron|Ardea goliath|Africa; South Asia|Wetlands|Fish|LC|The largest heron.
+Black heron|Egretta ardesiaca|Africa|Wetlands|Fish|LC|Makes an umbrella with its wings.
+Abdim's stork|Ciconia abdimii|Africa|Savanna|Insects|LC|'Rain bird'.
+Yellow-billed oxpecker|Buphagus africanus|Africa|Savanna|Ticks|LC|Rides on buffalo.
+Red-billed oxpecker|Buphagus erythrorynchus|Africa|Savanna|Ticks|LC|Also drinks blood.
+African grey hornbill|Lophoceros nasutus|Africa|Savanna|Insects|LC|A grey hornbill.
+Southern carmine bee-eater|Merops nubicoides|Southern Africa|Rivers|Insects|LC|Nests in big colonies.
+White-backed vulture|Gyps africanus|Africa|Savanna|Carrion|CR|Poisoned by poachers.
+Rüppell's vulture|Gyps rueppelli|Africa|Cliffs|Carrion|CR|Highest-flying bird (11,300 m).
+Hooded vulture|Necrosyrtes monachus|Africa|Towns|Carrion|CR|A small town vulture.
+Verreaux's eagle|Aquila verreauxii|Africa|Cliffs|Hyraxes|LC|Black eagle of cliffs.
+Pel's fishing owl|Scotopelia peli|Africa|Riverine forest|Fish|LC|A ginger fish owl.
+Verreaux's eagle-owl|Ketupa lactea|Africa|Savanna|Mammals|LC|Pink eyelids.
+African pygmy kingfisher|Ispidina picta|Africa|Woodland|Insects|LC|A tiny kingfisher.
+Purple-crested turaco|Gallirex porphyreolophus|Southern Africa|Forest|Fruit|LC|National bird of Eswatini.
+Long-tailed widowbird|Euplectes progne|Southern Africa|Grassland|Seeds|LC|Very long display tail.
+Pin-tailed whydah|Vidua macroura|Africa|Grassland|Seeds|LC|A brood parasite.
+Guanay cormorant|Leucocarbo bougainvilliorum|Peru; Chile|Coasts|Anchovy|NT|Produces guano.
+Inca tern|Larosterna inca|Peru; Chile|Coasts|Fish|NT|Has a white moustache.
+Peruvian booby|Sula variegata|Peru; Chile|Coasts|Anchovy|LC|Guano bird.
+Humboldt penguin|Spheniscus humboldti|Peru; Chile|Coasts|Fish|VU|A warm-climate penguin.
+Magellanic penguin|Spheniscus magellanicus|Patagonia|Coasts|Fish|LC|Huge colonies at Punta Tombo.
+Chilean flamingo|Phoenicopterus chilensis|South America|Salt lakes|Algae|NT|A pink flamingo.
+James's flamingo|Phoenicoparrus jamesi|Andes|Salt lakes|Algae|NT|Thought extinct until 1956.
+Horned coot|Fulica cornuta|Andes|High lakes|Plants|NT|Builds islands of stones.
+Giant coot|Fulica gigantea|Andes|High lakes|Plants|LC|Nests on floating platforms.
+Puna ibis|Plegadis ridgwayi|Andes|Wetlands|Insects|LC|A high-altitude ibis.
+Andean goose|Oressochen melanopterus|Andes|Wetlands|Grass|LC|A white highland goose.
+Diademed sandpiper-plover|Phegornis mitchellii|Andes|Bogs|Insects|NT|A rare wader.
+Scarlet tanager (Brazilian)|Ramphocelus bresilius|Brazil|Atlantic Forest|Fruit|LC|Bright red tanager.
+Paradise tanager|Tangara chilensis|Amazon|Rainforest|Fruit|LC|Seven colours.
+Green honeycreeper|Chlorophanes spiza|Central and South America|Rainforest|Nectar|LC|A turquoise bird.
+Red-legged honeycreeper|Cyanerpes cyaneus|Central and South America|Forest|Nectar|LC|Bright blue with red legs.
+Brazilian merganser|Mergus octosetaceus|Brazil|Rivers|Fish|CR|Fewer than 250 remain.
+Lear's macaw|Anodorhynchus leari|Brazil|Caatinga cliffs|Palm nuts|EN|Recovering indigo macaw.
+Golden conure|Guaruba guarouba|Brazil|Amazon|Fruit|VU|Brazil's 'national colours' parrot.
+Amazonian umbrellabird|Cephalopterus ornatus|Amazon|Rainforest|Fruit|LC|Has an umbrella crest.
+Oilbird|Steatornis caripensis|South America|Caves|Fruit|LC|Echolocates like a bat.
+Potoo (common)|Nyctibius griseus|Central and South America|Forest|Insects|LC|Looks like a branch stump.
+Horned screamer|Anhima cornuta|South America|Wetlands|Plants|LC|A horn on its head.
+Sunbittern|Eurypyga helias|Central and South America|Streams|Fish|LC|Flashes sunburst wings.
+# Hoofed mammals|🦌
+Bontebok|Damaliscus pygargus|South Africa|Fynbos|Grass|NT|Saved from about 17 animals.
+Black wildebeest|Connochaetes gnou|South Africa|Grassland|Grass|LC|White-tailed gnu.
+Blesbok|Damaliscus pygargus phillipsi|South Africa|Grassland|Grass|LC|A white-faced antelope.
+Steenbok|Raphicerus campestris|Southern and East Africa|Savanna|Leaves|LC|A small antelope.
+Common duiker|Sylvicapra grimmia|Africa|Savanna|Leaves|LC|Dives into bushes.
+Blue duiker|Philantomba monticola|Central and southern Africa|Forest|Fruit|LC|A tiny forest antelope.
+Zebra duiker|Cephalophus zebra|West Africa|Rainforest|Fruit|VU|Striped back.
+Royal antelope|Neotragus pygmaeus|West Africa|Rainforest|Leaves|LC|The smallest antelope.
+Mountain nyala|Tragelaphus buxtoni|Ethiopia|Highland forest|Leaves|EN|Endemic to Ethiopia.
+Lesser kudu|Tragelaphus imberbis|East Africa|Dry bush|Leaves|NT|Shy striped antelope.
+Bushbuck|Tragelaphus scriptus|Africa|Forest|Leaves|LC|Spotted and striped.
+Beisa oryx|Oryx beisa|East Africa|Semi-desert|Grass|EN|Long straight horns.
+Hirola|Beatragus hunteri|Kenya; Somalia|Grassland|Grass|CR|The rarest antelope.
+Puku|Kobus vardonii|Zambia|Floodplains|Grass|NT|Golden floodplain antelope.
+Kob (Uganda)|Kobus kob thomasi|Uganda|Savanna|Grass|LC|On Uganda's coat of arms.
+Nile lechwe|Kobus megaceros|South Sudan|Swamps|Grass|EN|Lives in the Sudd.
+Dibatag|Ammodorcas clarkei|Somalia; Ethiopia|Dry bush|Leaves|VU|Holds its tail upright.
+Speke's gazelle|Gazella spekei|Somalia|Dry plains|Grass|EN|Inflates its nose.
+Arabian gazelle|Gazella arabica|Arabia|Desert|Grass|VU|Arabia's gazelle.
+Sand gazelle|Gazella marica|Arabia|Desert|Grass|VU|Pale desert gazelle.
+Red forest duiker|Cephalophus natalensis|Southern Africa|Forest|Fruit|LC|A red duiker.
+Aoudad|Ammotragus lervia|North Africa|Desert mountains|Grass|VU|Barbary sheep.
+Tur (East Caucasian)|Capra cylindricornis|Caucasus|Mountains|Grass|NT|Curved horns.
+Snow sheep|Ovis nivicola|Siberia|Mountains|Grass|LC|A Siberian sheep.
+Dall sheep|Ovis dalli|Alaska; Canada|Mountains|Grass|LC|White wild sheep.
+Gaur (Malayan seladang)|Bos gaurus hubbacki|Malaysia|Rainforest|Grass|VU|The Malaysian gaur.
+Red brocket deer|Mazama americana|South America|Rainforest|Fruit|DD|A small forest deer.
+Taruca|Hippocamelus antisensis|Andes|Highlands|Grass|VU|North Andean deer.
+Bawean deer|Axis kuhlii|Indonesia (Bawean)|Forest|Leaves|CR|Found on one island.
+Calamian deer|Axis calamianensis|Philippines|Grassland|Grass|EN|A Philippine hog deer.
+Philippine spotted deer|Rusa alfredi|Philippines|Rainforest|Leaves|EN|A small spotted deer.
+Tufted deer|Elaphodus cephalophus|China; Myanmar|Forest|Leaves|NT|Has fangs and a hair tuft.
+Siberian musk deer|Moschus moschiferus|Siberia|Taiga|Lichens|VU|Fangs and musk gland.
+Kashmir musk deer|Moschus cupreus|Kashmir; Afghanistan|Alpine forest|Leaves|EN|Poached for musk.
+Javan rusa|Rusa timorensis|Java; Bali|Grassland|Grass|VU|Introduced across the Pacific.
+Philippine mouse-deer|Tragulus nigricans|Philippines (Balabac)|Forest|Leaves|EN|A tiny island chevrotain.
+Somali wild ass|Equus africanus somaliensis|Ethiopia; Eritrea|Desert|Grass|CR|Striped legs.
+Kulan|Equus hemionus kulan|Kazakhstan; Turkmenistan|Steppe|Grass|NT|Turkmen wild ass.
+Wild horse (Tarpan)|Equus ferus ferus|Europe|Steppe|Grass|EX|Extinct European wild horse.
+Javan warty pig|Sus verrucosus|Java|Forest|Roots|EN|A warty wild pig.
+Chacoan peccary|Catagonus wagneri|Gran Chaco|Dry forest|Cacti|EN|Known only from fossils until 1975.

@@ -1,0 +1,164 @@
+# Birds of prey|🦅
+Himalayan vulture|Gyps himalayensis|Himalaya; Tibet|Mountains|Carrion|NT|One of the largest Old World vultures.
+Egyptian vulture|Neophron percnopterus|Africa; Asia; Europe|Cliffs|Carrion, eggs|EN|Uses stones to crack ostrich eggs.
+Red-headed vulture|Sarcogyps calvus|South Asia|Open land|Carrion|CR|The 'king vulture' of India.
+Slender-billed vulture|Gyps tenuirostris|North India; Southeast Asia|Open land|Carrion|CR|Devastated by diclofenac.
+Bearded vulture|Gypaetus barbatus|Himalaya; Alps; Africa|Mountains|Bones|NT|Drops bones to crack them and eats the marrow.
+Cinereous vulture|Aegypius monachus|Eurasia|Mountains|Carrion|NT|Among the largest flying birds.
+Lappet-faced vulture|Torgos tracheliotos|Africa|Savanna|Carrion|EN|Dominant at carcasses.
+Turkey vulture|Cathartes aura|Americas|Open land|Carrion|LC|Finds carcasses by smell.
+California condor|Gymnogyps californianus|USA; Mexico|Mountains|Carrion|CR|Fell to 22 birds in 1987.
+King vulture|Sarcoramphus papa|Central and South America|Rainforest|Carrion|LC|Has a colourful head.
+Osprey|Pandion haliaetus|Worldwide|Rivers, coasts|Fish|LC|Plunges feet-first for fish.
+White-tailed eagle|Haliaeetus albicilla|Eurasia|Coasts|Fish|LC|Reintroduced to Scotland and England.
+Pallas's fish eagle|Haliaeetus leucoryphus|Central and South Asia|Lakes|Fish|EN|Breeds in Assam.
+African fish eagle|Haliaeetus vocifer|Africa|Lakes|Fish|LC|Its call is 'the voice of Africa'.
+Steller's sea eagle|Haliaeetus pelagicus|Russia; Japan|Coasts|Salmon|VU|The heaviest eagle.
+Brahminy kite|Haliastur indus|South Asia; Australia|Coasts, towns|Fish, scraps|LC|Sacred to Vishnu as Garuda.
+Black-winged kite|Elanus caeruleus|Africa; Asia|Grassland|Rodents|LC|Hovers like a kestrel.
+Red kite|Milvus milvus|Europe|Farmland|Carrion|LC|Saved in Wales and reintroduced in England.
+Changeable hawk-eagle|Nisaetus cirrhatus|South Asia|Forest|Birds, mammals|LC|Has crested and uncrested forms.
+Mountain hawk-eagle|Nisaetus nipalensis|Himalaya|Forest|Pheasants|LC|A powerful forest eagle.
+Bonelli's eagle|Aquila fasciata|Mediterranean; South Asia|Cliffs|Birds|LC|Hunts in pairs.
+Tawny eagle|Aquila rapax|Africa; India|Savanna|Anything|VU|Steals food from other raptors.
+Eastern imperial eagle|Aquila heliaca|Eurasia|Steppe|Ground squirrels|VU|Winters in North India.
+Greater spotted eagle|Clanga clanga|Eurasia|Wetlands|Frogs|VU|Winters around Indian wetlands.
+Short-toed snake eagle|Circaetus gallicus|Eurasia; India|Open land|Snakes|LC|Swallows snakes whole.
+Bateleur|Terathopius ecaudatus|Africa|Savanna|Anything|EN|Tumbles in flight like an acrobat.
+Martial eagle|Polemaetus bellicosus|Africa|Savanna|Mammals|EN|Africa's largest eagle.
+Crowned eagle|Stephanoaetus coronatus|Africa|Forest|Monkeys|NT|Kills prey ten times its weight.
+Wedge-tailed eagle|Aquila audax|Australia|Open land|Rabbits|LC|Australia's largest raptor.
+Northern goshawk|Accipiter gentilis|Northern Hemisphere|Forest|Birds|LC|Prized by falconers.
+Eurasian sparrowhawk|Accipiter nisus|Eurasia|Woodland|Small birds|LC|Ambushes songbirds.
+Cooper's hawk|Astur cooperii|North America|Woodland|Birds|LC|Hunts at bird feeders.
+Red-tailed hawk|Buteo jamaicensis|North America|Open land|Rodents|LC|Its scream is used for eagles in films.
+Common buzzard|Buteo buteo|Eurasia|Farmland|Rodents|LC|Europe's commonest raptor.
+Rough-legged buzzard|Buteo lagopus|Arctic|Tundra|Lemmings|LC|Feathered legs.
+Pied harrier|Circus melanoleucos|East Asia; India|Grassland|Rodents|LC|Elegant black-and-white harrier.
+Western marsh harrier|Circus aeruginosus|Eurasia|Reedbeds|Birds|LC|Glides low over reeds.
+Pallid harrier|Circus macrourus|Central Asia; India|Grassland|Rodents|NT|Winters in Indian grasslands.
+Common kestrel|Falco tinnunculus|Eurasia; Africa|Open land|Voles|LC|Hovers with fanned tail.
+American kestrel|Falco sparverius|Americas|Open land|Insects|LC|The smallest American falcon.
+Saker falcon|Falco cherrug|Central Asia|Steppe|Ground squirrels|EN|Prized in Arab falconry.
+Gyrfalcon|Falco rusticolus|Arctic|Tundra|Ptarmigan|LC|The largest falcon.
+Laggar falcon|Falco jugger|South Asia|Dry plains|Birds|NT|India's resident desert falcon.
+Red-necked falcon|Falco chicquera|India; Africa|Palm savanna|Birds|NT|Hunts in pairs.
+Eurasian hobby|Falco subbuteo|Eurasia|Woodland|Dragonflies|LC|Catches swifts in flight.
+Crested caracara|Caracara plancus|Americas|Open land|Carrion|LC|A falcon that walks on the ground.
+Great horned owl|Bubo virginianus|Americas|Varied|Mammals|LC|Kills skunks and other owls.
+Brown fish owl|Ketupa zeylonensis|South Asia|Rivers|Fish|LC|Hunts fish at night.
+Blakiston's fish owl|Ketupa blakistoni|Russia; Japan|Riverine forest|Salmon|EN|The largest owl.
+Mottled wood owl|Strix ocellata|India|Mango groves|Rodents|LC|Its call is an eerie quaver.
+Tawny owl|Strix aluco|Eurasia|Woodland|Rodents|LC|Gives the classic 'twit-twoo'.
+Ural owl|Strix uralensis|Eurasia|Taiga|Voles|LC|Fierce defender of its nest.
+Great grey owl|Strix nebulosa|Northern forests|Taiga|Voles|LC|Hears voles under snow.
+Spotted owl|Strix occidentalis|USA; Mexico|Old-growth forest|Flying squirrels|NT|Symbol of old-growth logging battles.
+Collared scops owl|Otus bakkamoena|South Asia|Woodland|Insects|LC|A small eared owl.
+Burrowing owl|Athene cunicularia|Americas|Grassland|Insects|LC|Lives in burrows.
+Little owl|Athene noctua|Eurasia|Farmland|Insects|LC|Symbol of Athena.
+Elf owl|Micrathene whitneyi|USA; Mexico|Desert|Insects|LC|Nests in saguaro holes.
+Northern saw-whet owl|Aegolius acadicus|North America|Forest|Mice|LC|A tiny owl that 'toots'.
+Short-eared owl|Asio flammeus|Worldwide|Grassland|Voles|LC|Hunts by day.
+Long-eared owl|Asio otus|Northern Hemisphere|Woodland|Voles|LC|Roosts in groups in winter.
+Jungle owlet|Glaucidium radiatum|India|Forest|Insects|LC|Calls by day.
+# Birds|🐦
+Greylag goose|Anser anser|Eurasia|Wetlands|Grass|LC|Ancestor of most farm geese.
+Greater white-fronted goose|Anser albifrons|Arctic|Tundra, fields|Grass|LC|Laughing calls.
+Snow goose|Anser caerulescens|North America|Tundra|Grass|LC|Gathers in hundreds of thousands.
+Canada goose|Branta canadensis|North America; introduced|Parks|Grass|LC|Common in city parks.
+Red-breasted goose|Branta ruficollis|Siberia; Black Sea|Tundra|Grass|VU|Nests near peregrines for protection.
+Mute swan|Cygnus olor|Eurasia|Lakes|Plants|LC|Can weigh 15 kg.
+Whooper swan|Cygnus cygnus|Eurasia|Lakes|Plants|LC|National bird of Finland.
+Black swan|Cygnus atratus|Australia|Lakes|Plants|LC|Proof that 'all swans are white' was wrong.
+Ruddy shelduck|Tadorna ferruginea|Central Asia; India|Lakes|Plants|LC|The 'Brahminy duck'.
+Common shelduck|Tadorna tadorna|Eurasia|Estuaries|Snails|LC|A big black-and-white duck.
+Lesser whistling duck|Dendrocygna javanica|South Asia|Ponds|Plants|LC|Whistles in flight.
+Knob-billed duck|Sarkidiornis melanotos|Africa; South Asia|Wetlands|Plants|LC|Males have a knob on the bill.
+Cotton pygmy goose|Nettapus coromandelianus|South Asia|Lily ponds|Plants|LC|One of the smallest waterfowl.
+Indian spot-billed duck|Anas poecilorhyncha|South Asia|Wetlands|Plants|LC|A resident Indian duck.
+Mallard|Anas platyrhynchos|Northern Hemisphere|Wetlands|Plants|LC|Ancestor of most domestic ducks.
+Northern pintail|Anas acuta|Northern Hemisphere|Wetlands|Plants|LC|An elegant long-tailed duck.
+Garganey|Spatula querquedula|Eurasia; winters India|Wetlands|Plants|LC|Arrives in India in huge numbers.
+Northern shoveler|Spatula clypeata|Northern Hemisphere|Wetlands|Plankton|LC|A spoon-shaped bill.
+Eurasian wigeon|Mareca penelope|Eurasia|Wetlands|Grass|LC|Whistling males.
+Red-crested pochard|Netta rufina|Eurasia; India|Lakes|Plants|LC|Males have red heads.
+Common pochard|Aythya ferina|Eurasia|Lakes|Plants|VU|Declining diving duck.
+Baer's pochard|Aythya baeri|East Asia|Lakes|Plants|CR|Fewer than 1,000 remain.
+Tufted duck|Aythya fuligula|Eurasia|Lakes|Mussels|LC|A crested diving duck.
+Pink-headed duck|Rhodonessa caryophyllacea|India; Myanmar|Swamps|Plants|CR|Probably extinct since the 1940s.
+White-winged duck|Asarcornis scutulata|Northeast India; Southeast Asia|Forest pools|Plants|EN|State bird of Assam.
+Mandarin duck|Aix galericulata|East Asia|Wooded ponds|Seeds|LC|A symbol of love in China.
+Wood duck|Aix sponsa|North America|Wooded swamps|Seeds|LC|Chicks leap from tree holes.
+Harlequin duck|Histrionicus histrionicus|Arctic|Rapids|Insects|LC|Rides whitewater.
+Common merganser|Mergus merganser|Northern Hemisphere|Rivers|Fish|LC|A saw-billed fishing duck.
+Muscovy duck|Cairina moschata|Latin America|Wetlands|Plants|LC|Wild ancestor of domestic Muscovies.
+Magpie goose|Anseranas semipalmata|Australia|Wetlands|Grass|LC|A primitive waterfowl.
+Grey francolin|Ortygornis pondicerianus|South Asia|Scrub|Seeds|LC|Loud 'ka-tee-tar' calls.
+Black francolin|Francolinus francolinus|South Asia; Middle East|Grassland|Seeds|LC|State bird of Haryana.
+Chukar partridge|Alectoris chukar|Central Asia; Himalaya|Rocky slopes|Seeds|LC|National bird of Pakistan.
+Common quail|Coturnix coturnix|Eurasia; Africa|Fields|Seeds|LC|Migrates at night.
+Rain quail|Coturnix coromandelica|South Asia|Fields|Seeds|LC|Calls after monsoon rains.
+Jungle bush quail|Perdicula asiatica|India|Scrub|Seeds|LC|Lives in coveys.
+Grey junglefowl|Gallus sonneratii|India|Forest|Seeds|LC|India's endemic junglefowl.
+Sri Lanka junglefowl|Gallus lafayettii|Sri Lanka|Forest|Seeds|LC|National bird of Sri Lanka.
+Kalij pheasant|Lophura leucomelanos|Himalaya|Forest|Insects|LC|A glossy black pheasant.
+Cheer pheasant|Catreus wallichii|Western Himalaya|Grassy slopes|Roots|VU|A long-tailed pheasant.
+Koklass pheasant|Pucrasia macrolopha|Himalaya|Forest|Leaves|LC|Crows loudly at dawn.
+Satyr tragopan|Tragopan satyra|Himalaya|Forest|Leaves|NT|Inflates blue lappets in display.
+Blyth's tragopan|Tragopan blythii|Northeast India|Forest|Leaves|VU|State bird of Nagaland.
+Mrs Hume's pheasant|Syrmaticus humiae|Manipur; Mizoram; Myanmar|Pine forest|Seeds|NT|State bird of Manipur.
+Grey peacock-pheasant|Polyplectron bicalcaratum|Northeast India; Southeast Asia|Forest|Insects|LC|State bird of Mizoram.
+Snow partridge|Lerwa lerwa|Himalaya|Alpine|Plants|LC|Lives near the snow line.
+Himalayan snowcock|Tetraogallus himalayensis|Himalaya|Alpine|Plants|LC|A large high-altitude gamebird.
+Common pheasant|Phasianus colchicus|Asia; introduced worldwide|Farmland|Seeds|LC|Introduced across Europe and North America.
+Golden pheasant|Chrysolophus pictus|China|Mountain forest|Seeds|LC|A blaze of red and gold.
+Lady Amherst's pheasant|Chrysolophus amherstiae|China; Myanmar|Forest|Seeds|LC|White-and-black cape.
+Green peafowl|Pavo muticus|Southeast Asia|Forest|Seeds|EN|A green relative of India's peacock.
+Congo peafowl|Afropavo congensis|DR Congo|Rainforest|Fruit|VU|Africa's only peafowl.
+Western capercaillie|Tetrao urogallus|Europe|Conifer forest|Pine needles|LC|Displays with clicks and pops.
+Black grouse|Lyrurus tetrix|Eurasia|Moorland|Shoots|LC|Males lek at dawn.
+Greater sage-grouse|Centrocercus urophasianus|USA|Sagebrush|Sage|NT|Puffs up air sacs in display.
+Rock ptarmigan|Lagopus muta|Arctic; Alps|Tundra|Buds|LC|Turns white in winter.
+Willow ptarmigan|Lagopus lagopus|Arctic|Tundra|Willow|LC|State bird of Alaska.
+Australian brushturkey|Alectura lathami|Australia|Rainforest|Insects|LC|Incubates eggs in compost mounds.
+Malleefowl|Leipoa ocellata|Australia|Mallee scrub|Seeds|VU|Builds giant mound nests.
+Maleo|Macrocephalon maleo|Indonesia (Sulawesi)|Forest, beaches|Fruit|CR|Buries eggs in volcanic sand.
+Plains-wanderer|Pedionomus torquatus|Australia|Grassland|Seeds|CR|A unique quail-like bird.
+Greater rhea|Rhea americana|South America|Grassland|Plants|NT|The largest bird in the Americas.
+Southern cassowary|Casuarius casuarius|Australia; New Guinea|Rainforest|Fruit|LC|Has a dagger-like claw.
+Great tinamou|Tinamus major|Central and South America|Rainforest|Fruit|NT|Lays glossy blue eggs.
+Takahe|Porphyrio hochstetteri|New Zealand|Alpine grassland|Grass|VU|Rediscovered in 1948.
+Weka|Gallirallus australis|New Zealand|Forest edge|Anything|NT|A bold flightless rail.
+Rock wren (NZ)|Xenicus gilviventris|New Zealand|Alpine|Insects|EN|A tiny alpine bird.
+Tui|Prosthemadera novaeseelandiae|New Zealand|Forest|Nectar|LC|Has two voice boxes.
+Kererū|Hemiphaga novaeseelandiae|New Zealand|Forest|Fruit|LC|A giant pigeon that spreads seeds.
+Kingfisher (sacred)|Todiramphus sanctus|Australia; NZ|Woodland|Insects|LC|A turquoise kingfisher.
+Emperor penguin|Aptenodytes forsteri|Antarctica|Sea ice|Fish, krill|NT|Breeds through the Antarctic winter.
+King penguin|Aptenodytes patagonicus|Subantarctic islands|Beaches|Fish|LC|Huge colonies on South Georgia.
+Adélie penguin|Pygoscelis adeliae|Antarctica|Coasts|Krill|LC|Builds nests from pebbles.
+Galápagos penguin|Spheniscus mendiculus|Galápagos|Lava coasts|Fish|EN|The only penguin near the equator.
+Little penguin|Eudyptula minor|Australia; NZ|Coasts|Fish|LC|The smallest penguin.
+Blue-footed booby|Sula nebouxii|Galápagos; Pacific coast|Islands|Fish|LC|Males show off blue feet.
+Magnificent frigatebird|Fregata magnificens|Tropical Americas|Coasts|Fish|LC|Males inflate red throat pouches.
+Red-billed tropicbird|Phaethon aethereus|Tropical oceans|Cliffs|Fish|LC|Long white tail streamers.
+Andean cock-of-the-rock|Rupicola peruvianus|Andes|Cloud forest|Fruit|LC|National bird of Peru.
+Guianan cock-of-the-rock|Rupicola rupicola|Guianas|Rainforest|Fruit|LC|Bright orange display bird.
+Bare-throated bellbird|Procnias nudicollis|Brazil|Atlantic Forest|Fruit|VU|One of the loudest birds.
+Three-wattled bellbird|Procnias tricarunculatus|Central America|Cloud forest|Fruit|VU|Its call carries 1 km.
+Long-tailed manakin|Chiroxiphia linearis|Central America|Forest|Fruit|LC|Males dance in pairs.
+Club-winged manakin|Machaeropterus deliciosus|Colombia; Ecuador|Cloud forest|Fruit|LC|Sings with its wings.
+Sword-billed hummingbird|Ensifera ensifera|Andes|Cloud forest|Nectar|LC|Bill longer than its body.
+Bee hummingbird|Mellisuga helenae|Cuba|Forest|Nectar|NT|The smallest bird, about 2 g.
+Giant hummingbird|Patagona gigas|Andes|Scrub|Nectar|LC|The largest hummingbird.
+Marvelous spatuletail|Loddigesia mirabilis|Peru|Cloud forest|Nectar|EN|Has two racket-tipped tail feathers.
+Rufous hummingbird|Selasphorus rufus|North America|Woodland|Nectar|LC|Migrates 6,000 km.
+Keel-billed toucan|Ramphastos sulfuratus|Central America|Rainforest|Fruit|LC|National bird of Belize.
+Collared aracari|Pteroglossus torquatus|Central America|Rainforest|Fruit|LC|A small toucan.
+Resplendent trogon (Malabar)|Harpactes fasciatus|India; Sri Lanka|Forest|Insects|LC|A red-bellied Indian trogon.
+Red-headed trogon|Harpactes erythrocephalus|Himalaya; Southeast Asia|Forest|Insects|LC|A crimson-headed trogon.
+Blue-crowned motmot|Momotus coeruleiceps|Mexico|Forest|Insects|LC|Swings its racket tail like a pendulum.
+Rufous hornero|Furnarius rufus|Argentina; Brazil|Open land|Insects|LC|Builds clay oven nests; national bird of Argentina.
+Southern lapwing|Vanellus chilensis|South America|Fields|Insects|LC|Very noisy and protective.
+Common loon|Gavia immer|North America|Lakes|Fish|LC|Its haunting wail echoes across lakes.
+Great crested grebe|Podiceps cristatus|Eurasia|Lakes|Fish|LC|Performs the 'weed dance'.
+Little grebe|Tachybaptus ruficollis|Eurasia; Africa|Ponds|Insects|LC|A tiny diving bird.

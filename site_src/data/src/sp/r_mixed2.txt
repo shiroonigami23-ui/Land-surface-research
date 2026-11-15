@@ -1,0 +1,95 @@
+# Reptiles|🐍
+Indian rock agama|Psammophilus dorsalis|India|Rocky hills|Insects|LC|Males turn red and black in breeding.
+Peninsular rock agama|Psammophilus blanfordanus|India|Rocks|Insects|LC|A boulder-loving agama.
+Kangra rock agama|Laudakia tuberculata|Himalaya|Rocks|Insects|LC|Basks on walls in the hills.
+Himalayan agama|Paralaudakia himalayana|Ladakh; Central Asia|Rocky slopes|Insects|LC|Lives at high altitude.
+Green forest lizard|Calotes calotes|South India; Sri Lanka|Forest|Insects|LC|Bright green with a red head.
+Horned lizard (Sri Lanka)|Ceratophora stoddartii|Sri Lanka|Montane forest|Insects|EN|Has a horn on its snout.
+Kangaroo lizard|Otocryptis wiegmanni|Sri Lanka|Rainforest|Insects|LC|Runs on its hind legs.
+Indian golden gecko|Calodactylodes aureus|India (Eastern Ghats)|Rocks|Insects|LC|A golden gecko of the Eastern Ghats.
+Termite hill gecko|Hemidactylus triedrus|India|Termite mounds|Insects|LC|Lives in termite mounds.
+Bark gecko (Indian)|Hemidactylus leschenaultii|South Asia|Trees|Insects|LC|Camouflaged on bark.
+Frog-eyed gecko|Teratoscincus scincus|Central Asia|Sand desert|Insects|LC|Scales make a rasping sound.
+Bronze grass skink|Eutropis macularia|South Asia|Grassland|Insects|LC|A small bronze skink.
+Snake-eyed lacerta|Ophisops jerdonii|India|Dry scrub|Insects|LC|Has no movable eyelids.
+Indian fringe-fingered lizard|Acanthodactylus cantoris|India; Pakistan|Sand desert|Insects|LC|Fringed toes for sand.
+Glass snake (Asian)|Dopasia gracilis|Himalaya; China|Forest|Insects|LC|A legless lizard.
+Sand fish|Scincus scincus|Sahara|Sand dunes|Insects|LC|'Swims' through sand.
+Ocellated lizard|Timon lepidus|Iberia; France|Scrub|Insects|NT|Europe's largest lacertid.
+Sand lizard|Lacerta agilis|Europe|Heath|Insects|LC|Males turn green in spring.
+Common wall lizard|Podarcis muralis|Europe|Walls|Insects|LC|Basks on old walls.
+Viviparous lizard|Zootoca vivipara|Eurasia|Moors|Insects|LC|Gives birth to live young.
+Armadillo girdled lizard|Ouroborus cataphractus|South Africa|Desert|Termites|NT|Bites its tail and rolls into a ball.
+Namaqua chameleon|Chamaeleo namaquensis|Namibia|Desert|Beetles|LC|A desert chameleon.
+Flap-necked chameleon|Chamaeleo dilepis|Africa|Savanna|Insects|LC|Has ear flaps.
+Parson's chameleon|Calumma parsonii|Madagascar|Rainforest|Insects|NT|One of the largest chameleons.
+Satanic leaf-tailed gecko|Uroplatus phantasticus|Madagascar|Rainforest|Insects|LC|Looks like a dead leaf.
+Mossy leaf-tailed gecko|Uroplatus sikorae|Madagascar|Rainforest|Insects|LC|Camouflaged as moss.
+Gargoyle gecko|Rhacodactylus auriculatus|New Caledonia|Forest|Fruit|LC|Has horned bumps.
+Pygmy blue-tongue skink|Tiliqua adelaidensis|Australia|Grassland|Insects|EN|Lives in spider burrows.
+Emerald tree monitor|Varanus prasinus|New Guinea|Rainforest|Insects|LC|A green tree monitor.
+Crocodile monitor|Varanus salvadorii|New Guinea|Rainforest|Birds|LC|Very long tail.
+Blue iguana|Cyclura lewisi|Cayman Islands|Dry forest|Plants|EN|Saved from about 20 animals.
+Fiji banded iguana|Brachylophus fasciatus|Fiji; Tonga|Forest|Leaves|EN|A Pacific iguana.
+Plumed basilisk|Basiliscus plumifrons|Central America|Rainforest|Insects|LC|The green 'Jesus lizard'.
+Brown anole|Anolis sagrei|Caribbean; invasive|Gardens|Insects|LC|An invasive anole.
+Knight anole|Anolis equestris|Cuba|Forest|Insects|LC|The largest anole.
+Giant girdled lizard|Smaug giganteus|South Africa|Grassland|Insects|VU|The 'sungazer'.
+Banded gecko (western)|Coleonyx variegatus|USA; Mexico|Desert|Insects|LC|Squeaks when handled.
+Western fence lizard|Sceloporus occidentalis|USA|Rocks|Insects|LC|Its blood kills Lyme bacteria in ticks.
+Desert spiny lizard|Sceloporus magister|USA; Mexico|Desert|Insects|LC|A spiny desert lizard.
+Short-horned lizard|Phrynosoma hernandesi|USA; Canada|Prairie|Ants|LC|Gives live birth.
+Six-lined racerunner|Aspidoscelis sexlineata|USA|Sand|Insects|LC|A fast striped lizard.
+New Mexico whiptail|Aspidoscelis neomexicanus|USA|Desert|Insects|LC|An all-female species.
+Indian bronzeback|Dendrelaphis tristis|South Asia|Trees|Lizards|LC|A fast tree snake.
+Striped keelback|Amphiesma stolatum|South Asia|Fields|Frogs|LC|A harmless striped snake.
+Banded racer|Platyceps plinii|South Asia|Scrub|Rodents|LC|A fast banded snake.
+Indian smooth snake|Coronella brachyura|India|Dry scrub|Lizards|LC|A rarely seen Deccan endemic.
+Forsten's cat snake|Boiga forsteni|India; Sri Lanka|Forest|Birds|LC|Large-eyed tree snake.
+Beddome's cat snake|Boiga beddomei|India|Forest|Lizards|LC|A nocturnal tree snake.
+Russell's kukri snake|Oligodon taeniolatus|South Asia|Gardens|Reptile eggs|LC|Slits eggs with kukri-like teeth.
+King cobra (Western Ghats)|Ophiophagus kaalinga|India (Western Ghats)|Rainforest|Snakes|NE|A separate king cobra species named in 2024.
+Sind krait|Bungarus sindanus|Pakistan; India|Desert|Snakes|LC|Very potent venom.
+Indian coral snake|Calliophis melanurus|India|Leaf litter|Snakes|LC|A tiny red-tailed coral snake.
+Striped coral snake|Calliophis intestinalis|Southeast Asia|Forest|Snakes|LC|Venom glands run down its body.
+Beaked sea snake|Hydrophis schistosus|Indian Ocean coasts|Coasts|Fish|LC|Causes most sea-snake bites.
+Yellow-lipped sea krait|Laticauda colubrina|Indo-Pacific|Coasts|Eels|LC|Comes ashore to digest.
+Arafura file snake|Acrochordus arafurae|Australia; New Guinea|Rivers|Fish|LC|Baggy skin.
+Elephant trunk snake|Acrochordus javanicus|Southeast Asia|Rivers|Fish|LC|Loose wrinkled skin.
+Tentacled snake|Erpeton tentaculatum|Southeast Asia|Rice paddies|Fish|LC|Has two snout tentacles.
+Dog-faced water snake|Cerberus rynchops|South and Southeast Asia|Mangroves|Fish|LC|Common in mangroves.
+Rhinoceros viper|Bitis nasicornis|Central Africa|Rainforest|Rodents|NT|Colourful horned viper.
+Saharan sand viper|Cerastes vipera|Sahara|Dunes|Lizards|LC|Buries itself in sand.
+Spider-tailed horned viper|Pseudocerastes urarachnoides|Iran|Rocky desert|Birds|LC|Lures birds with a spider-like tail.
+Levantine viper|Macrovipera lebetina|Middle East; Central Asia|Rocky hills|Rodents|LC|A large viper.
+Golden lancehead|Bothrops insularis|Brazil (Queimada Grande)|Island|Birds|CR|Lives on 'Snake Island' only.
+Massasauga|Sistrurus catenatus|USA|Wetlands|Rodents|LC|A small rattlesnake.
+Mojave rattlesnake|Crotalus scutulatus|USA; Mexico|Desert|Rodents|LC|Potent neurotoxic venom.
+Eastern diamondback rattlesnake|Crotalus adamanteus|USA|Pine woods|Rodents|LC|The heaviest venomous snake in the Americas.
+Milk snake|Lampropeltis triangulum|Americas|Varied|Rodents|LC|Mimics coral snakes.
+Indigo snake (eastern)|Drymarchon couperi|USA|Pine woods|Snakes|NT|The longest snake in the USA.
+Rough green snake|Opheodrys aestivus|USA|Shrubs|Insects|LC|A slim green snake.
+Rainbow boa|Epicrates cenchria|South America|Forest|Rodents|LC|Iridescent skin.
+Madagascar tree boa|Sanzinia madagascariensis|Madagascar|Forest|Birds|LC|A green boa.
+Round Island boa|Casarea dussumieri|Mauritius|Island|Lizards|VU|Recovered after goats and rabbits were removed.
+Leaf-nosed snake (Madagascar)|Langaha madagascariensis|Madagascar|Forest|Lizards|LC|Has a leaf-shaped nose.
+Cape file snake|Limaformosa capensis|Southern Africa|Savanna|Snakes|LC|Triangular body.
+African egg-eating snake|Dasypeltis scabra|Africa|Savanna|Eggs|LC|Swallows whole eggs.
+Boomslang|Dispholidus typus|Africa|Savanna|Chameleons|LC|A rear-fanged venomous tree snake.
+Twig snake|Thelotornis capensis|Africa|Savanna|Lizards|LC|Looks like a twig.
+Mole snake|Pseudaspis cana|Southern Africa|Grassland|Moles|LC|A burrowing hunter.
+Pancake tortoise|Malacochersus tornieri|Kenya; Tanzania|Rocky hills|Plants|CR|A flat, flexible shell.
+Speckled padloper|Chersobius signatus|South Africa|Rocky desert|Plants|EN|The smallest tortoise.
+Indian narrow-headed softshell|Chitra indica|India; Pakistan|Large rivers|Fish|EN|A giant softshell.
+Asian forest tortoise|Manouria emys|Northeast India; Southeast Asia|Rainforest|Plants|CR|Builds nests and guards them.
+Keeled box turtle|Cuora mouhotii|Northeast India; Southeast Asia|Forest|Fruit|EN|A flat-backed box turtle.
+Spotted pond turtle|Geoclemys hamiltonii|South Asia|Ponds|Snails|EN|Black with yellow spots.
+Indian roofed turtle|Pangshura tecta|South Asia|Ponds|Plants|LC|A domed shell.
+Crowned river turtle|Hardella thurjii|North India; Bangladesh|Rivers|Plants|VU|A large river turtle.
+Wood turtle|Glyptemys insculpta|USA; Canada|Streams|Worms|EN|Stomps to bring up worms.
+Bog turtle|Glyptemys muhlenbergii|USA|Bogs|Insects|CR|The smallest North American turtle.
+Blanding's turtle|Emydoidea blandingii|USA; Canada|Wetlands|Crayfish|EN|A yellow-chinned turtle.
+European pond turtle|Emys orbicularis|Europe|Ponds|Insects|NT|Europe's freshwater turtle.
+Twist-necked turtle|Platemys platycephala|Amazon|Forest pools|Insects|LC|Flattened shell.
+Eastern long-necked turtle|Chelodina longicollis|Australia|Swamps|Fish|LC|Neck as long as its shell.
+Fitzroy River turtle|Rheodytes leukops|Australia|River|Insects|VU|Breathes through its cloaca.

@@ -1,0 +1,186 @@
+# Insects & other invertebrates|🦋
+Tiger moth (garden)|Arctia caja|Eurasia|Gardens|Leaves|NE|Woolly bear caterpillars.
+Cinnabar moth|Tyria jacobaeae|Europe|Grassland|Ragwort|NE|Used to control ragwort.
+Peppered moth|Biston betularia|Europe|Woodland|Leaves|NE|Classic example of natural selection.
+Elephant hawk-moth|Deilephila elpenor|Europe; Asia|Gardens|Nectar|NE|Pink moth; caterpillar looks like a snake.
+Polyphemus moth|Antheraea polyphemus|North America|Forest|None as adult|NE|Big eyespots.
+Cecropia moth|Hyalophora cecropia|North America|Forest|None as adult|NE|North America's largest moth.
+Hercules moth|Coscinocera hercules|Australia; New Guinea|Rainforest|None as adult|NE|Largest wing area of any moth.
+White witch moth|Thysania agrippina|Central and South America|Rainforest|Unknown|NE|Longest wingspan of any insect.
+Owlet moth (vampire)|Calyptra thalictri|Eurasia|Woodland|Fruit, blood|NE|Some can pierce skin.
+Codling moth|Cydia pomonella|Worldwide|Orchards|Apples|NE|The worm in the apple.
+Diamondback moth|Plutella xylostella|Worldwide|Crops|Cabbage|NE|A resistant crop pest.
+Fall armyworm|Spodoptera frugiperda|Americas; invasive Africa, India|Maize fields|Maize|NE|Reached India in 2018.
+Pink bollworm|Pectinophora gossypiella|Worldwide|Cotton|Cotton|NE|Evolved resistance to Bt cotton in India.
+Cotton bollworm|Helicoverpa armigera|Old World|Crops|Many crops|NE|One of the worst crop pests.
+Brown planthopper|Nilaparvata lugens|Asia|Rice paddies|Rice sap|NE|Causes 'hopper burn'.
+Rice weevil|Sitophilus oryzae|Worldwide|Stored grain|Grain|NE|A grain store pest.
+Red flour beetle|Tribolium castaneum|Worldwide|Stored flour|Flour|NE|A model insect.
+Khapra beetle|Trogoderma granarium|South Asia|Grain stores|Grain|NE|A feared quarantine pest.
+Coffee berry borer|Hypothenemus hampei|Africa; worldwide|Coffee farms|Coffee beans|NE|The worst coffee pest.
+Mountain pine beetle|Dendroctonus ponderosae|Western North America|Pine forests|Pine|NE|Killed millions of hectares of pine.
+Emerald ash borer|Agrilus planipennis|Asia; invasive USA|Ash trees|Ash|NE|Killed hundreds of millions of ash trees.
+Asian longhorned beetle|Anoplophora glabripennis|China; invasive|Hardwoods|Wood|NE|An invasive tree killer.
+Stag beetle (giant Chilean)|Chiasognathus grantii|Chile|Forest|Sap|NE|Huge curved jaws.
+Violin beetle|Mormolyce phyllodes|Southeast Asia|Rainforest|Insects|NE|Shaped like a violin.
+Tiger beetle (green)|Cicindela campestris|Europe|Heath|Insects|NE|One of the fastest-running insects.
+Whirligig beetle|Gyrinus substriatus|Europe|Ponds|Insects|NE|Spins on the water surface.
+Great diving beetle|Dytiscus marginalis|Europe|Ponds|Tadpoles|NE|A fierce pond predator.
+Click beetle (eyed)|Alaus oculatus|USA|Woodland|Insects|NE|Flips itself into the air.
+Blister beetle|Lytta vesicatoria|Europe|Meadows|Leaves|NE|'Spanish fly'.
+Oil beetle|Meloe proscarabaeus|Europe|Grassland|Plants|NE|Larvae hitchhike on bees.
+Dung beetle (Indian)|Heliocopris dominus|India|Pasture|Dung|NE|A giant dung beetle.
+Tortoise beetle (golden)|Charidotella sexpunctata|USA|Gardens|Leaves|NE|Changes from gold to red.
+Giraffe weevil|Trachelophorus giraffa|Madagascar|Forest|Leaves|NE|A very long neck.
+Boll weevil|Anthonomus grandis|Americas|Cotton|Cotton|NE|Devastated US cotton in the 1920s.
+Mosquito (Culex)|Culex quinquefasciatus|Tropics|Towns|Blood|NE|Spreads filariasis.
+Sandfly|Phlebotomus argentipes|South Asia|Villages|Blood|NE|Spreads kala-azar.
+Black fly|Simulium damnosum|Africa|Rivers|Blood|NE|Spreads river blindness.
+Botfly (human)|Dermatobia hominis|Central and South America|Forest|None as adult|NE|Larvae grow under skin.
+Horse fly|Tabanus sudeticus|Europe|Pasture|Blood|NE|Painful bite.
+Robber fly|Promachus yesonicus|Asia|Grassland|Insects|NE|Catches insects in flight.
+Bee fly|Bombylius major|Europe|Gardens|Nectar|NE|A fluffy bee mimic.
+Stalk-eyed fly|Teleopsis dalmanni|Southeast Asia|Streams|Fungi|NE|Eyes on long stalks.
+Antlion|Myrmeleon formicarius|Eurasia|Sand|Ants|NE|Larvae dig pit traps.
+Owlfly|Libelloides coccajus|Europe|Grassland|Insects|NE|A colourful lacewing relative.
+Green lacewing|Chrysoperla carnea|Worldwide|Gardens|Aphids|NE|A biological pest control.
+Dobsonfly|Corydalus cornutus|USA|Streams|Insects|NE|Huge jaws.
+Scorpionfly|Panorpa communis|Europe|Hedgerows|Dead insects|NE|Scorpion-like tail.
+Snakefly|Raphidia notata|Europe|Woodland|Insects|NE|A long-necked insect.
+Caddisfly|Phryganea grandis|Europe|Ponds|Algae|NE|Larvae build cases of stones.
+Stonefly|Perla marginata|Europe|Streams|Insects|NE|Indicator of clean water.
+Migratory locust|Locusta migratoria|Africa; Asia|Grassland|Grass|NE|Forms huge swarms.
+Rainbow grasshopper|Dactylotum bicolor|USA; Mexico|Prairie|Plants|NE|Warning colours.
+Painted grasshopper (Indian)|Poekilocerus pictus|India|Calotropis|Calotropis|NE|Toxic and bright.
+Lubber grasshopper|Romalea microptera|USA|Fields|Plants|NE|Flightless and toxic.
+Weta (giant)|Deinacrida heteracantha|New Zealand|Islands|Leaves|VU|One of the heaviest insects.
+Cave cricket|Troglophilus neglectus|Europe|Caves|Detritus|NE|Long antennae.
+Giant water scorpion|Nepa cinerea|Europe|Ponds|Insects|NE|Breathes through a tail tube.
+Backswimmer|Notonecta glauca|Europe|Ponds|Insects|NE|Swims upside down.
+Bedbug|Cimex lectularius|Worldwide|Homes|Blood|NE|Making a comeback.
+Assassin bug|Reduvius personatus|Worldwide|Homes|Insects|NE|Covers itself in dust.
+Kissing bug|Triatoma infestans|South America|Houses|Blood|NE|Spreads Chagas disease.
+Thorn bug|Umbonia crassicornis|Americas|Trees|Sap|NE|Looks like a thorn.
+Froghopper|Philaenus spumarius|Worldwide|Meadows|Sap|NE|'Cuckoo spit' nymphs; the champion jumper.
+Mealybug|Planococcus citri|Worldwide|Greenhouses|Sap|NE|A cottony pest.
+Lac insect|Kerria lacca|India; Thailand|Trees|Sap|NE|Makes lac, used for shellac and bangles.
+Cochineal|Dactylopius coccus|Mexico; Peru|Cactus|Cactus sap|NE|Source of carmine red dye.
+Whitefly|Bemisia tabaci|Worldwide|Crops|Sap|NE|Spreads plant viruses.
+Thrips (onion)|Thrips tabaci|Worldwide|Crops|Sap|NE|Tiny fringe-winged pest.
+Book louse|Liposcelis bostrychophila|Worldwide|Homes|Mould|NE|An all-female species.
+Snow flea (springtail)|Hypogastrura nivicola|North America|Snow|Algae|NE|Has antifreeze proteins.
+Jumping bristletail|Petrobius maritimus|Europe|Coastal rocks|Algae|NE|An ancient insect.
+Zorapteran|Zorotypus hubbardi|USA|Rotting wood|Fungi|NE|One of the rarest insect orders.
+Velvet ant|Dasymutilla occidentalis|USA|Sand|Nectar|NE|A wingless wasp with a huge sting.
+Emerald cockroach wasp|Ampulex compressa|Tropics|Houses|Cockroaches|NE|Zombifies cockroaches.
+Potter wasp|Delta pyriforme|South Asia|Gardens|Caterpillars|NE|Builds clay pots.
+Mud dauber|Sceliphron caementarium|Worldwide|Buildings|Spiders|NE|Builds mud tubes.
+Giant ichneumon|Megarhyssa macrurus|USA|Forest|Wood wasps|NE|Drills wood with a long ovipositor.
+Asian hornet|Vespa velutina|Asia; invasive Europe|Varied|Honeybees|NE|Spreading through Europe.
+Greater banded hornet|Vespa tropica|South Asia|Forest|Wasps|NE|A large hornet.
+Leafcutter bee|Megachile centuncularis|Europe|Gardens|Nectar|NE|Lines nests with leaf discs.
+Mason bee|Osmia bicornis|Europe|Gardens|Nectar|NE|An efficient orchard pollinator.
+Sweat bee|Lasioglossum calceatum|Europe|Grassland|Nectar|NE|Drinks sweat.
+Blue-banded bee|Amegilla cingulata|Australia|Gardens|Nectar|NE|Buzz-pollinates tomatoes.
+Wallace's giant bee|Megachile pluto|Indonesia|Forest|Resin|VU|The largest bee; rediscovered in 2019.
+Ant (black garden)|Lasius niger|Europe|Gardens|Honeydew|NE|Queens live 29 years.
+Wood ant|Formica rufa|Europe|Forest|Insects|NE|Builds thatched mounds.
+Trap-jaw ant|Odontomachus bauri|Americas|Forest|Insects|NE|Fastest jaws in nature.
+Ghost ant|Tapinoma melanocephalum|Tropics|Homes|Sweets|NE|A tiny house ant.
+Crazy ant (yellow)|Anoplolepis gracilipes|Tropics|Islands|Insects|NE|Devastated Christmas Island crabs.
+Argentine ant|Linepithema humile|South America; invasive|Varied|Sweets|NE|Forms supercolonies across continents.
+Red velvet mite (Indian)|Trombidium grandissimum|India|Soil|Insects|NE|Appears after monsoon rains.
+Cattle tick|Rhipicephalus microplus|Tropics|Pasture|Blood|NE|Spreads cattle fever.
+Deer tick|Ixodes scapularis|USA|Woodland|Blood|NE|Spreads Lyme disease.
+Vinegaroon (Indian)|Thelyphonus indicus|India|Forest|Insects|NE|A whip scorpion.
+Pseudoscorpion|Chelifer cancroides|Worldwide|Books, homes|Mites|NE|A tiny tailless scorpion.
+Harvestman|Phalangium opilio|Worldwide|Gardens|Insects|NE|Not a spider.
+Bolas spider|Mastophora cornigera|Americas|Woodland|Moths|NE|Fishes for moths with a sticky ball.
+Net-casting spider|Deinopis spinosa|Americas|Shrubs|Insects|NE|Throws a net over prey.
+Trapdoor spider|Ummidia audouini|USA|Soil|Insects|NE|Ambushes from a burrow.
+Ornamental tree trunk spider|Herennia multipuncta|South Asia|Tree trunks|Insects|NE|Webs flat on bark.
+Giant crab spider (Indian)|Heteropoda kandiana|India|Forest|Insects|NE|A large huntsman.
+Spiny orb-weaver|Gasteracantha cancriformis|Americas|Gardens|Insects|NE|A crab-shaped spider.
+Black-and-yellow garden spider|Argiope aurantia|North America|Gardens|Insects|NE|Writes zig-zags in webs.
+Redback spider|Latrodectus hasselti|Australia|Gardens|Insects|NE|A venomous widow.
+Mouse spider|Missulena occatoria|Australia|Soil|Insects|NE|Red-headed males.
+Peacock tarantula (gooty)|Poecilotheria metallica|India (Andhra Pradesh)|Dry forest|Insects|CR|A blue tarantula from one forest patch.
+Indian black scorpion|Heterometrus fulvipes|India|Forest|Insects|NE|A large black scorpion.
+Bark scorpion|Centruroides sculpturatus|USA|Desert|Insects|NE|Most venomous scorpion in the USA.
+Giant desert hairy scorpion|Hadrurus arizonensis|USA|Desert|Insects|NE|The largest US scorpion.
+Bristly millipede|Polyxenus lagurus|Europe|Bark|Algae|NE|A tiny tufted millipede.
+Pill millipede (giant)|Sphaerotherium giganteum|Madagascar|Forest|Leaves|NE|Rolls into a ball.
+Train millipede|Parafontaria laminata|Japan|Forest|Leaves|NE|Swarms stop trains.
+Giant snail (Ghana tiger)|Achatina achatina|West Africa|Forest|Plants|NE|One of the largest land snails.
+Cuban painted snail|Polymita picta|Cuba|Forest|Lichens|NE|Brightly coloured.
+Tree snail (Hawaiian)|Achatinella mustelina|Hawaii|Forest|Fungi|CR|Hawaiian tree snails are mostly extinct.
+Velvet worm (Peripatus)|Epiperipatus biolleyi|Costa Rica|Forest|Insects|NE|A living fossil.
+Land planarian (hammerhead)|Bipalium kewense|Asia; invasive|Gardens|Earthworms|NE|Hammer-shaped head.
+Horsehair worm|Gordius robustus|Worldwide|Water|Parasite|NE|Drives crickets into water.
+Land leech (tiger)|Haemadipsa picta|Borneo|Rainforest|Blood|NE|A striped leech.
+Woodlouse (sea slater)|Ligia oceanica|Europe|Coastal rocks|Seaweed|NE|A large coastal isopod.
+Freshwater crab (Indian purple)|Gubernatoriana thackerayi|India (Western Ghats)|Streams|Detritus|NE|A colourful new crab species.
+# Flowers & other plants|🌸
+Jade vine|Strongylodon macrobotrys|Philippines|Rainforest|—|EN|Turquoise flowers pollinated by bats.
+Corpse lily (Rafflesia keithii)|Rafflesia keithii|Borneo|Rainforest|Parasite|NE|A giant parasitic flower.
+Hydnora|Hydnora africana|Southern Africa|Desert|Parasite|NE|An underground flower.
+Dodder|Cuscuta reflexa|South Asia|Hedges|Parasite|NE|A leafless parasitic vine.
+Mistletoe|Viscum album|Europe|Trees|Parasite|NE|Kissing tradition.
+Indian pipe|Monotropa uniflora|North America; Asia|Forest|Parasite|NE|A ghost-white plant without chlorophyll.
+Snow plant|Sarcodes sanguinea|USA|Conifer forest|Parasite|NE|Blood-red plant.
+Passion flower|Passiflora caerulea|South America|Gardens|—|NE|Symbol of the Passion of Christ.
+Bleeding heart|Lamprocapnos spectabilis|China|Gardens|—|NE|Heart-shaped flowers.
+Hellebore|Helleborus niger|Europe|Mountains|—|NE|Christmas rose.
+Anemone (wood)|Anemone nemorosa|Europe|Woodland|—|LC|Spring woodland flower.
+Columbine|Aquilegia vulgaris|Europe|Meadows|—|LC|Spurred flowers.
+Delphinium|Delphinium elatum|Europe; Asia|Mountains|—|NE|Tall blue spikes.
+Monkshood|Aconitum napellus|Europe|Mountains|—|LC|One of the most poisonous plants.
+Himalayan aconite|Aconitum heterophyllum|Himalaya|Alpine|—|NE|Medicinal 'atis'.
+Kutki|Picrorhiza kurroa|Himalaya|Alpine|—|EN|Overharvested medicinal herb.
+Jatamansi|Nardostachys jatamansi|Himalaya|Alpine|—|CR|Spikenard perfume plant.
+Rhubarb (Himalayan)|Rheum australe|Himalaya|Alpine|—|NE|Medicinal rhubarb.
+Glasshouse plant (Rheum nobile)|Rheum nobile|Himalaya|Alpine scree|—|NE|Grows its own greenhouse of bracts.
+Cobra lily (Himalayan)|Arisaema tortuosum|Himalaya|Forest|—|NE|A hooded arum.
+Himalayan balsam|Impatiens glandulifera|Himalaya; invasive Europe|Riverbanks|—|NE|Explosive seed pods.
+Balsam (Western Ghats)|Impatiens acaulis|India (Western Ghats)|Wet rocks|—|NE|One of 100+ Ghats balsams.
+Karvy|Strobilanthes callosa|India (Western Ghats)|Hills|—|NE|Flowers every 7–8 years.
+Kaas plateau sundew|Drosera indica|India; Africa; Australia|Wet rocks|Insects|NE|Grows on the Kaas flower plateau.
+Kaas ground orchid|Habenaria grandifloriformis|India|Laterite plateaus|—|NE|A white orchid of monsoon meadows.
+Smithia|Smithia bigemina|India (Western Ghats)|Plateaus|—|NE|Yellow carpets on Kaas plateau.
+Utricularia (Kaas)|Utricularia purpurascens|India (Western Ghats)|Wet rocks|Water fleas|NE|Purple bladderwort carpets.
+Gloriosa lily|Gloriosa superba|Africa; South Asia|Forest edges|—|LC|Tamil Nadu's state flower; poisonous.
+Spider lily|Hymenocallis littoralis|Americas; tropics|Coasts|—|NE|Spidery white flowers.
+Crinum lily|Crinum asiaticum|Asia|Coasts|—|NE|Large white flowers.
+Canna|Canna indica|Americas|Gardens|—|LC|Hard seeds used as shot.
+Heliconia|Heliconia rostrata|South America|Rainforest|—|NE|Lobster-claw bracts.
+Torch ginger|Etlingera elatior|Southeast Asia|Rainforest|—|NE|Huge pink flower torch.
+Shell ginger|Alpinia zerumbet|East Asia|Forest|—|NE|Porcelain-like buds.
+Anthurium|Anthurium andraeanum|Colombia|Rainforest|—|NE|Glossy red spathe.
+Monstera|Monstera deliciosa|Mexico|Rainforest|—|NE|Holes in its leaves.
+Peace lily|Spathiphyllum wallisii|Colombia|Rainforest|—|NE|A shade-loving plant.
+Bromeliad (tank)|Guzmania lingulata|Central and South America|Rainforest|—|NE|Holds pools that host frogs.
+Spanish moss|Tillandsia usneoides|Americas|Trees|—|LC|An air plant, not a moss.
+Queen of the Andes|Puya raimondii|Peru; Bolivia|Andes|—|EN|Flowers once after up to 100 years.
+Silversword|Argyroxiphium sandwicense|Hawaii (Haleakalā)|Volcano slopes|—|EN|A silver rosette that blooms once.
+Giant groundsel|Dendrosenecio kilimanjari|Kilimanjaro|Alpine|—|NE|Tree-like daisies.
+Giant lobelia|Lobelia deckenii|Kilimanjaro|Alpine|—|NE|Towering flower spikes.
+Espeletia (frailejón)|Espeletia grandiflora|Colombia|Páramo|—|NE|Furry rosettes that store water.
+Cushion plant (yareta)|Azorella compacta|Andes|High plateau|—|LC|Lives 3,000 years.
+Desert marigold|Baileya multiradiata|USA; Mexico|Desert|—|LC|Yellow desert daisy.
+California poppy|Eschscholzia californica|USA|Grassland|—|LC|California's state flower.
+Bluebonnet|Lupinus texensis|USA (Texas)|Prairie|—|NE|Texas state flower.
+Purple coneflower|Echinacea purpurea|USA|Prairie|—|LC|Medicinal echinacea.
+Black-eyed Susan|Rudbeckia hirta|North America|Meadows|—|LC|Maryland's flower.
+Milkweed (common)|Asclepias syriaca|North America|Fields|—|LC|Monarch caterpillar food.
+Trillium|Trillium grandiflorum|North America|Woodland|—|LC|Three white petals.
+Skunk cabbage|Symplocarpus foetidus|North America|Wetlands|—|LC|Heats itself to melt snow.
+Lupin (Russell)|Lupinus polyphyllus|North America|Meadows|—|LC|Invasive in New Zealand.
+Fireweed|Chamaenerion angustifolium|Northern Hemisphere|Burned land|—|LC|First to colonise after fires.
+Wild rose (dog rose)|Rosa canina|Europe|Hedgerows|—|LC|Rosehips rich in vitamin C.
+Damask rose|Rosa × damascena|Middle East|Farms|—|NE|Rose oil of Kannauj and Bulgaria.
+Hogweed (giant)|Heracleum mantegazzianum|Caucasus; invasive|Riverbanks|—|NE|Sap causes burns in sunlight.
+Japanese knotweed|Reynoutria japonica|Japan; invasive|Disturbed land|—|NE|A notorious invader.
+Kudzu|Pueraria montana|East Asia; invasive USA|Forest edges|—|NE|'The vine that ate the South'.
+Parthenium (congress grass)|Parthenium hysterophorus|Americas; invasive India|Wasteland|—|NE|Arrived with wheat imports in the 1950s.
+Mikania (mile-a-minute)|Mikania micrantha|Americas; invasive Asia|Forest edges|—|NE|Smothers forests in Northeast India.
+Chromolaena (Siam weed)|Chromolaena odorata|Americas; invasive|Forest edges|—|NE|Invasive across India.

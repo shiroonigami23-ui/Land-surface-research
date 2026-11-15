@@ -1,0 +1,167 @@
+# Hoofed mammals|🦌
+Hog deer|Axis porcinus|India; Nepal; Indochina|Floodplain grassland|Grass|EN|Runs with head low like a pig through tall grass.
+Thamin (Eld's deer)|Rucervus eldii thamin|Myanmar|Dry forest|Grass|EN|Brow-antlered deer of Myanmar.
+Sika deer|Cervus nippon|Japan; China; Russia|Forest|Grass, leaves|LC|Bows to tourists in Nara park.
+Fallow deer|Dama dama|Europe (introduced widely)|Parkland|Grass|LC|Spread across Europe by the Romans and Normans.
+Roe deer|Capreolus capreolus|Europe; Asia|Woodland edge|Leaves, shoots|LC|Europe's most common deer.
+White-tailed deer|Odocoileus virginianus|Americas|Forest edge|Leaves, acorns|LC|The most numerous large mammal in North America.
+Mule deer|Odocoileus hemionus|Western North America|Mountains, desert|Shrubs|LC|Named for its large ears.
+Pudu|Pudu puda|Chile; Argentina|Temperate rainforest|Leaves|NT|The world's smallest deer.
+Marsh deer|Blastocerus dichotomus|South America|Wetlands|Aquatic plants|VU|South America's largest deer.
+Huemul|Hippocamelus bisulcus|Chile; Argentina|Andean forest|Shrubs|EN|On Chile's coat of arms.
+Chinese water deer|Hydropotes inermis|China; Korea|Reedbeds|Grass|VU|Has tusks instead of antlers.
+Père David's deer|Elaphurus davidianus|China|Marshes|Grass|EW|Survived only in captivity and returned to China.
+Water chevrotain|Hyemoschus aquaticus|Central and West Africa|Forest streams|Fruit|LC|A tiny 'mouse-deer' that hides underwater.
+Indian chevrotain|Moschiola indica|India|Dry forest|Fruit, leaves|LC|A rabbit-sized 'mouse deer'.
+Bongo|Tragelaphus eurycerus|Central Africa; Kenya|Forest|Leaves|NT|A striped forest antelope; mountain bongo critically endangered.
+Greater kudu|Tragelaphus strepsiceros|Eastern and southern Africa|Woodland|Leaves|LC|Spiral horns up to 1.8 m.
+Sitatunga|Tragelaphus spekii|Central Africa|Swamps|Reeds|LC|Splayed hooves for walking on mud.
+Nyala|Tragelaphus angasii|Southern Africa|Thickets|Leaves|LC|Males and females look completely different.
+Sable antelope|Hippotragus niger|Eastern and southern Africa|Woodland|Grass|LC|Scimitar-horned black antelope.
+Roan antelope|Hippotragus equinus|Sub-Saharan Africa|Savanna|Grass|LC|One of the largest antelopes.
+Scimitar oryx|Oryx dammah|Sahara (reintroduced Chad)|Desert|Grass|EN|Returned to Chad after extinction in the wild.
+Addax|Addax nasomaculatus|Sahara|Sand desert|Grass|CR|Fewer than 100 in the wild.
+Hartebeest|Alcelaphus buselaphus|Africa|Savanna|Grass|LC|Fast long-faced antelope.
+Topi|Damaliscus lunatus jimela|East Africa|Savanna|Grass|VU|Males stand on termite mounds as lookouts.
+Waterbuck|Kobus ellipsiprymnus|Sub-Saharan Africa|Near water|Grass|LC|Has a white ring on its rump.
+Lechwe|Kobus leche|Zambia; Botswana|Floodplains|Grass|NT|Wades in shallow water.
+Klipspringer|Oreotragus oreotragus|Eastern and southern Africa|Rocky outcrops|Shrubs|LC|Stands on hoof tips on rocks.
+Kirk's dik-dik|Madoqua kirkii|East Africa|Dry bush|Leaves|LC|Tiny antelope named for its alarm call.
+Gerenuk|Litocranius walleri|Kenya; Somalia; Ethiopia|Dry bush|Leaves|NT|Stands on hind legs to browse.
+Grant's gazelle|Nanger granti|East Africa|Savanna|Grass, shrubs|LC|Rarely needs to drink.
+Dorcas gazelle|Gazella dorcas|Sahara|Desert|Leaves|VU|Small desert gazelle.
+Mountain gazelle|Gazella gazella|Israel|Hills|Grass|EN|The Levant's gazelle.
+Goitered gazelle|Gazella subgutturosa|Central Asia; Iran|Steppe|Grass|VU|Males' throats swell in rut.
+Mongolian gazelle|Procapra gutturosa|Mongolia|Steppe|Grass|LC|Migrates in herds of thousands.
+Tibetan gazelle|Procapra picticaudata|Tibet; Ladakh|Plateau|Grass|NT|Heart-shaped white rump.
+Goral|Naemorhedus goral|Himalaya|Steep forest|Grass|NT|Goat-antelope of cliffs.
+Himalayan serow|Capricornis thar|Himalaya|Forest|Leaves|VU|A shaggy goat-antelope.
+Mountain goat|Oreamnos americanus|Rocky Mountains|Alpine cliffs|Grass|LC|Not a true goat.
+Bighorn sheep|Ovis canadensis|North America|Mountains|Grass|LC|Rams clash at 30 km/h.
+Argali|Ovis ammon|Central Asia; Ladakh|Mountains|Grass|NT|The largest wild sheep (Marco Polo sheep).
+Urial|Ovis vignei|Ladakh; Pakistan; Iran|Mountains|Grass|VU|Ladakh urial is rare.
+Mouflon|Ovis gmelini|Iran; Turkey; Mediterranean islands|Hills|Grass|NT|Ancestor of domestic sheep.
+Alpine ibex|Capra ibex|Alps|Alpine slopes|Grass|LC|Saved from ~100 animals in 1900.
+Nubian ibex|Capra nubiana|Arabia; Egypt|Desert mountains|Shrubs|VU|Climbs near-vertical dam walls.
+Walia ibex|Capra walie|Ethiopia (Simien)|Cliffs|Shrubs|VU|Endemic to the Simien Mountains.
+Wild goat (bezoar)|Capra aegagrus|Turkey; Iran; Caucasus|Mountains|Grass|NT|Ancestor of domestic goats.
+Chamois|Rupicapra rupicapra|Alps; Carpathians|Mountains|Grass|LC|An agile alpine goat-antelope.
+Pronghorn|Antilocapra americana|North America|Prairie|Shrubs|LC|The second-fastest land animal.
+Guanaco|Lama guanicoe|Andes; Patagonia|Steppe|Grass|LC|Wild ancestor of the llama.
+Alpaca|Vicugna pacos|Andes|Highlands|Grass|NE|Domesticated for fibre 6,000 years ago.
+Collared peccary|Dicotyles tajacu|Americas|Desert to rainforest|Roots, cacti|LC|Lives in herds with a strong scent.
+White-lipped peccary|Tayassu pecari|Central and South America|Rainforest|Fruit|VU|Moves in herds of hundreds.
+Common warthog|Phacochoerus africanus|Sub-Saharan Africa|Savanna|Grass, roots|LC|Kneels to graze.
+Red river hog|Potamochoerus porcus|Central and West Africa|Rainforest|Roots, fruit|LC|A bright orange pig.
+Giant forest hog|Hylochoerus meinertzhageni|Central Africa|Forest|Grass|LC|The largest wild pig.
+Visayan warty pig|Sus cebifrons|Philippines|Forest|Fruit|CR|Males grow a mohawk mane.
+Bearded pig|Sus barbatus|Borneo; Sumatra|Rainforest|Fruit|VU|Migrates following fruiting trees.
+Grévy's zebra|Equus grevyi|Kenya; Ethiopia|Semi-arid grassland|Grass|EN|The largest zebra with narrow stripes.
+Mountain zebra|Equus zebra|South Africa; Namibia|Mountains|Grass|VU|Has a dewlap and grid-iron stripes.
+African wild ass|Equus africanus|Ethiopia; Eritrea|Desert|Grass|CR|Ancestor of the donkey.
+Onager|Equus hemionus onager|Iran|Desert|Grass|EN|Persian wild ass.
+# Small mammals|🐿
+Malabar giant squirrel|Ratufa indica maxima|India (Western Ghats)|Evergreen forest|Fruit|LC|A deep maroon form of the giant squirrel.
+Grizzled giant squirrel|Ratufa macroura|India; Sri Lanka|Riverine forest|Fruit|NT|Lives along rivers in Tamil Nadu.
+Indian giant flying squirrel|Petaurista philippensis|South and Southeast Asia|Forest|Leaves, fruit|LC|Glides up to 100 m between trees.
+Travancore flying squirrel|Petinomys fuscocapillus|India; Sri Lanka|Rainforest|Fruit|NT|Rediscovered in 1989 after a century.
+Himalayan striped squirrel|Tamiops mcclellandii|Himalaya; Southeast Asia|Forest|Insects, seeds|LC|A tiny striped tree squirrel.
+Eastern grey squirrel|Sciurus carolinensis|North America; invasive UK|Woodland, parks|Nuts|LC|Replaced red squirrels in much of Britain.
+Eastern chipmunk|Tamias striatus|North America|Forest|Nuts|LC|Stuffs cheeks with seeds.
+Alpine marmot|Marmota marmota|Alps|Alpine meadows|Grass|LC|Whistles to warn of eagles.
+Groundhog|Marmota monax|North America|Fields|Grass|LC|Star of Groundhog Day.
+Long-tailed marmot|Marmota caudata|Ladakh; Central Asia|Alpine meadows|Grass|LC|A golden marmot of the Himalaya.
+Arctic ground squirrel|Urocitellus parryii|Arctic|Tundra|Grass|LC|Its body drops below freezing in hibernation.
+Plateau pika|Ochotona curzoniae|Tibet|Alpine meadow|Grass|LC|A keystone species of the Tibetan Plateau.
+Royle's pika|Ochotona roylei|Himalaya|Rocky slopes|Plants|LC|Lives among talus rocks.
+Snowshoe hare|Lepus americanus|North America|Boreal forest|Twigs|LC|Turns white in winter.
+Arctic hare|Lepus arcticus|Arctic|Tundra|Willow|LC|Can run on its hind legs.
+European hare|Lepus europaeus|Europe|Farmland|Grass|LC|'Boxes' in spring.
+Black-tailed jackrabbit|Lepus californicus|USA; Mexico|Desert|Grass|LC|Huge ears dump heat.
+Amami rabbit|Pentalagus furnessi|Japan (Amami)|Forest|Plants|EN|A dark primitive rabbit.
+Desert jerboa|Jaculus jaculus|Sahara; Arabia|Desert|Seeds|LC|Hops like a tiny kangaroo.
+Long-eared jerboa|Euchoreutes naso|Gobi|Desert|Insects|EN|Ears longer than its head.
+Indian gerbil|Tatera indica|India; Middle East|Dry plains|Seeds|LC|A common desert rodent.
+Mongolian gerbil|Meriones unguiculatus|Mongolia; China|Steppe|Seeds|LC|Popular pet with wild ancestors.
+Brown rat|Rattus norvegicus|Worldwide|Cities|Anything|LC|Spread worldwide with ships.
+Black rat|Rattus rattus|Worldwide|Towns|Anything|LC|Linked to plague transmission.
+House mouse|Mus musculus|Worldwide|Homes|Seeds|LC|The most widespread mammal after humans.
+Lesser bandicoot rat|Bandicota bengalensis|South Asia|Farmland|Grain|LC|A major crop pest in India.
+Indian bush rat|Golunda ellioti|South Asia|Scrub|Grass|LC|A small grass-eating rat.
+Malabar spiny dormouse|Platacanthomys lasiurus|India (Western Ghats)|Rainforest|Fruit, pepper|LC|A spiny tree-dwelling rodent.
+Hazel dormouse|Muscardinus avellanarius|Europe|Woodland|Hazelnuts|LC|Sleeps half the year.
+Norway lemming|Lemmus lemmus|Scandinavia|Tundra|Mosses|LC|Population booms every few years.
+Muskrat|Ondatra zibethicus|North America; Europe|Wetlands|Plants|LC|Builds lodges like a beaver.
+North American beaver|Castor canadensis|North America|Rivers|Bark|LC|Dams visible from space.
+North American porcupine|Erethizon dorsatum|North America|Forest|Bark|LC|Has about 30,000 quills.
+Brazilian porcupine|Coendou prehensilis|South America|Rainforest|Leaves, fruit|LC|Has a prehensile tail.
+Agouti|Dasyprocta punctata|Central and South America|Forest|Seeds|LC|Plants trees by burying seeds.
+Lowland paca|Cuniculus paca|Central and South America|Rainforest|Fruit|LC|A large spotted rodent.
+Chinchilla|Chinchilla lanigera|Chile|Andes|Grass|EN|Has the densest fur of any land mammal.
+Plains viscacha|Lagostomus maximus|Argentina|Pampas|Grass|LC|Lives in colonies in burrows.
+Degu|Octodon degus|Chile|Scrub|Grass|LC|A social rodent active by day.
+Guinea pig|Cavia porcellus|Andes|Domestic|Grass|NE|Domesticated for food 7,000 years ago.
+Mara|Dolichotis patagonum|Argentina|Patagonian steppe|Grass|NT|A rabbit-like cavy that runs fast.
+Springhare|Pedetes capensis|Southern Africa|Savanna|Grass|LC|Hops like a kangaroo.
+Cape dune mole-rat|Bathyergus suillus|South Africa|Sand|Roots|LC|Digs huge tunnels.
+Aardvark|Orycteropus afer|Sub-Saharan Africa|Savanna|Ants, termites|LC|Its burrows shelter many animals.
+Giant anteater|Myrmecophaga tridactyla|Central and South America|Grassland|Ants|VU|Eats up to 30,000 ants a day.
+Southern tamandua|Tamandua tetradactyla|South America|Forest|Ants|LC|A tree-climbing anteater.
+Brown-throated sloth|Bradypus variegatus|Central and South America|Rainforest|Leaves|LC|Algae grow in its fur.
+Hoffmann's two-toed sloth|Choloepus hoffmanni|Central America|Rainforest|Leaves|LC|Moves about 40 m a day.
+Nine-banded armadillo|Dasypus novemcinctus|Americas|Varied|Insects|LC|Always gives birth to identical quadruplets.
+Giant armadillo|Priodontes maximus|South America|Grassland, forest|Termites|VU|Has the largest claw of any mammal.
+Pink fairy armadillo|Chlamyphorus truncatus|Argentina|Sandy plains|Insects|DD|The smallest armadillo.
+Three-banded armadillo|Tolypeutes tricinctus|Brazil|Caatinga|Ants|VU|Rolls into a perfect ball.
+Sunda pangolin|Manis javanica|Southeast Asia|Forest|Ants|CR|Heavily trafficked.
+Ground pangolin|Smutsia temminckii|Eastern and southern Africa|Savanna|Ants|VU|Walks on two legs.
+Tree pangolin|Phataginus tricuspis|Central and West Africa|Rainforest|Ants|EN|Climbs with a prehensile tail.
+Rock hyrax|Procavia capensis|Africa; Middle East|Rocky hills|Leaves|LC|Elephants' distant relative.
+Lowland streaked tenrec|Hemicentetes semispinosus|Madagascar|Forest|Worms|LC|Rubs quills to make sounds.
+Golden-rumped elephant shrew|Rhynchocyon chrysopygus|Kenya|Coastal forest|Insects|EN|A sengi with a long nose.
+Moonrat|Echinosorex gymnura|Southeast Asia|Rainforest|Invertebrates|LC|Smells like onions.
+Eurasian pygmy shrew|Sorex minutus|Europe|Grassland|Insects|LC|Must eat every few hours.
+Etruscan shrew|Suncus etruscus|Mediterranean; Asia|Scrub|Insects|LC|The lightest mammal by mass (~1.8 g).
+European mole|Talpa europaea|Europe|Soil|Earthworms|LC|Stores paralysed worms.
+Desman (Pyrenean)|Galemys pyrenaicus|Spain; France|Mountain streams|Insects|EN|An aquatic mole with a trunk-like nose.
+Bumblebee bat|Craseonycteris thonglongyai|Thailand; Myanmar|Limestone caves|Insects|NT|The smallest bat.
+Indian false vampire bat|Lyroderma lyra|South Asia|Caves|Frogs, small bats|LC|A carnivorous bat.
+Greater short-nosed fruit bat|Cynopterus sphinx|South Asia|Gardens|Fruit|LC|Bites leaves into tents.
+Egyptian fruit bat|Rousettus aegyptiacus|Africa; Middle East|Caves|Fruit|LC|Uses tongue clicks to echolocate.
+Hammer-headed bat|Hypsignathus monstrosus|Central Africa|Swamps|Fruit|LC|Males gather to honk at females.
+Mexican free-tailed bat|Tadarida brasiliensis|Americas|Caves|Moths|LC|Bracken Cave holds millions.
+Little brown bat|Myotis lucifugus|North America|Caves|Insects|EN|Devastated by white-nose syndrome.
+Common pipistrelle|Pipistrellus pipistrellus|Europe|Towns|Midges|LC|Eats thousands of midges a night.
+Ghost bat|Macroderma gigas|Australia|Caves|Mammals, birds|VU|Australia's only carnivorous bat.
+Spectacled flying fox|Pteropus conspicillatus|Australia; New Guinea|Rainforest|Fruit|EN|Killed in heatwaves.
+Honduran white bat|Ectophylla alba|Central America|Rainforest|Figs|NT|Tiny white bats roosting under leaves.
+Wrinkle-lipped bat|Chaerephon plicatus|Southeast Asia|Caves|Insects|LC|Millions leave caves at dusk.
+# Marsupials & monotremes|🦘
+Eastern grey kangaroo|Macropus giganteus|Australia|Woodland|Grass|LC|Can leap 9 m.
+Western grey kangaroo|Macropus fuliginosus|Australia|Woodland|Grass|LC|Called 'stinker' for its smell.
+Common wallaroo|Osphranter robustus|Australia|Rocky hills|Grass|LC|A stocky kangaroo.
+Red-necked wallaby|Notamacropus rufogriseus|Australia|Forest|Grass|LC|Bennett's wallaby of Tasmania.
+Swamp wallaby|Wallabia bicolor|Australia|Forest|Leaves|LC|A dark solitary wallaby.
+Yellow-footed rock-wallaby|Petrogale xanthopus|Australia|Rocky ranges|Grass|NT|Colourful cliff dweller.
+Goodfellow's tree-kangaroo|Dendrolagus goodfellowi|New Guinea|Rainforest|Leaves|EN|A kangaroo that lives in trees.
+Lumholtz's tree-kangaroo|Dendrolagus lumholtzi|Australia (Queensland)|Rainforest|Leaves|NT|Australia's smallest tree-kangaroo.
+Musky rat-kangaroo|Hypsiprymnodon moschatus|Australia (Queensland)|Rainforest|Fruit|LC|The most primitive kangaroo.
+Greater bilby|Macrotis lagotis|Australia|Desert|Insects|VU|Australia's Easter bunny alternative.
+Southern brown bandicoot|Isoodon obesulus|Australia|Heath|Insects|LC|Digs conical holes.
+Numbat|Myrmecobius fasciatus|Australia|Woodland|Termites|EN|Eats about 20,000 termites a day.
+Northern quoll|Dasyurus hallucatus|Australia|Rocky woodland|Insects|EN|Poisoned by invasive cane toads.
+Spotted-tailed quoll|Dasyurus maculatus|Australia|Forest|Mammals|NT|Australia's largest marsupial carnivore on the mainland.
+Fat-tailed dunnart|Sminthopsis crassicaudata|Australia|Grassland|Insects|LC|A mouse-sized marsupial hunter.
+Mulgara|Dasycercus cristicauda|Australia|Desert|Insects|LC|Never needs to drink.
+Honey possum|Tarsipes rostratus|Australia|Heath|Nectar|LC|Feeds only on nectar and pollen with a brush-tipped tongue.
+Common brushtail possum|Trichosurus vulpecula|Australia; invasive NZ|Forest, towns|Leaves|LC|Lives in suburban roofs.
+Common ringtail possum|Pseudocheirus peregrinus|Australia|Forest|Leaves|LC|Uses tail to carry nest material.
+Greater glider|Petauroides volans|Australia|Eucalypt forest|Leaves|EN|Glides 100 m.
+Leadbeater's possum|Gymnobelideus leadbeateri|Australia (Victoria)|Mountain ash forest|Sap, insects|CR|Victoria's faunal emblem.
+Mountain pygmy possum|Burramys parvus|Australia (Alps)|Alpine boulder fields|Bogong moths|CR|Hibernates under snow.
+Southern hairy-nosed wombat|Lasiorhinus latifrons|Australia|Semi-arid plains|Grass|NT|Lives in warrens.
+Northern hairy-nosed wombat|Lasiorhinus krefftii|Australia (Queensland)|Woodland|Grass|CR|About 300 survive.
+Long-beaked echidna (western)|Zaglossus bruijni|New Guinea|Mountain forest|Worms|CR|An egg-laying mammal of New Guinea.
+Monito del monte|Dromiciops gliroides|Chile; Argentina|Temperate rainforest|Insects, fruit|NT|A living-fossil marsupial.
+Water opossum|Chironectes minimus|Central and South America|Streams|Fish, crayfish|LC|The only aquatic marsupial.
+Gray short-tailed opossum|Monodelphis domestica|Brazil; Bolivia|Scrub|Insects|LC|Used in research.

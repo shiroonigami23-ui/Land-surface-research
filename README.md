@@ -7,7 +7,7 @@
 [![Live site](https://img.shields.io/badge/live%20site-GitHub%20Pages-2f6b2f?style=for-the-badge)](https://shiroonigami23-ui.github.io/land-surface-research/)
 [![Build](https://img.shields.io/github/actions/workflow/status/shiroonigami23-ui/land-surface-research/validate.yml?style=for-the-badge&label=build)](https://github.com/shiroonigami23-ui/land-surface-research/actions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-c2a35a?style=for-the-badge)](LICENSE)
-![Entries](https://img.shields.io/badge/catalog%20entries-1%2C000%2B-7a9a3a?style=for-the-badge)
+![Entries](https://img.shields.io/badge/catalog%20entries-3%2C000%2B-7a9a3a?style=for-the-badge)
 
 ![Home page](assets/screens/home.png)
 
@@ -18,9 +18,10 @@
 | Catalog | Entries | What each page has |
 |---|---|---|
 | 🗺 Countries of the World | 198 | Continent, capital, area, population, climate, landscape, crops; live photo; full Wikipedia article; research papers; linked parks, landforms and species |
+| 🧭 Regions of the World | 99 | Climate, rainfall, temperature, soils, landscape, vegetation, wildlife, crops, people and threats, linked to matching countries, climates, soils, landforms, species and crops |
 | 🌍 Continents | 7 | Area, people, highest and lowest points, deserts |
 | ⛰ Landforms & Regions | 84 | Peaks, ranges, plateaus, hot, cold and polar deserts, ice sheets, glaciers, permafrost, canyons, rift valleys, plains, grasslands, wetlands, rainforests, volcanoes, karst |
-| 🐾 Land Species Atlas | 378 | Mammals, birds, reptiles, amphibians, insects, trees, flowers and fungi; IUCN status; **what it sounds like**, with the recording **auto-played** from Wikimedia Commons where one exists |
+| 🐾 Land Species Atlas | 2,526 | Mammals, birds, reptiles, amphibians, insects, trees, flowers and fungi; IUCN status; **what it sounds like**, with the recording **auto-played** from Wikimedia Commons where one exists |
 | 💧 Waterfalls, Dams, Caves & Underground | 68 | Angel Falls to Jog Falls, Three Gorges to Kallanai, Son Doong to Ajanta, Derinkuyu to Chand Baori |
 | 🛡 National Parks & Protected Areas | 48 | India's tiger reserves, national parks and sanctuaries; world parks |
 | 🟤 Soils | 27 | 12 USDA orders, 8 Indian soil groups, chernozem, loess, terra preta |
@@ -29,7 +30,7 @@
 | 🌵 Droughts & Land Disasters | 23 | Dust Bowl, Great Famine, Sahel, Aral Sea, 2026 monsoon deficit… |
 | 📄 Research Papers | 16 | Openly licensed PDFs mirrored and readable in the built-in reader |
 
-There are also **19 long-form articles** in five sections: Earth's Land, Climate, Rain & Drought, Soils, Crops & Farming, and Data & Tracker. The site includes **animated statistics**, a **live research tracker** on every page, a glossary, a timeline and a full bibliography.
+There are also **20 long-form articles** in five sections: Earth's Land, Climate, Rain & Drought, Soils, Crops & Farming, and Data & Tracker. The site includes **animated statistics**, a **live research tracker** on every page, a glossary, a timeline and a full bibliography.
 
 <p align="center"><img src="assets/screens/species.png" width="49%" alt="Species page"> <img src="assets/screens/statistics.png" width="49%" alt="Statistics"></p>
 

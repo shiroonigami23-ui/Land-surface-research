@@ -1,0 +1,190 @@
+# Birds|🐦
+Grey heron|Ardea cinerea|Eurasia; Africa|Wetlands|Fish|LC|Stands motionless before spearing fish.
+Purple heron|Ardea purpurea|Eurasia; Africa|Reedbeds|Fish|LC|A slim, secretive heron.
+Great egret|Ardea alba|Worldwide|Wetlands|Fish|LC|Nearly wiped out for hat plumes in the 1800s.
+Little egret|Egretta garzetta|Eurasia; Africa|Wetlands|Fish|LC|Has yellow 'golden slippers'.
+Cattle egret|Bubulcus ibis|Worldwide|Farmland|Insects|LC|Follows cattle and tractors.
+Indian pond heron|Ardeola grayii|South Asia|Ponds|Frogs, fish|LC|Turns from brown to white when it flies.
+Black-crowned night heron|Nycticorax nycticorax|Worldwide|Wetlands|Fish|LC|Hunts at dusk.
+Black-headed ibis|Threskiornis melanocephalus|South Asia|Wetlands|Invertebrates|NT|A white ibis with a bald black head.
+Glossy ibis|Plegadis falcinellus|Worldwide|Marshes|Insects|LC|Bronze plumage that shines green.
+Sacred ibis|Threskiornis aethiopicus|Africa|Wetlands|Insects|LC|Mummified by ancient Egyptians.
+Scarlet ibis|Eudocimus ruber|South America|Mangroves|Crabs|LC|Red from carotenoids in its food.
+Eurasian spoonbill|Platalea leucorodia|Eurasia; Africa|Shallow wetlands|Fish|LC|Sweeps its spoon bill side to side.
+Asian openbill|Anastomus oscitans|South Asia|Wetlands|Snails|LC|A gap in its bill holds snails.
+Black-necked stork|Ephippiorhynchus asiaticus|India; Australia|Wetlands|Fish|NT|A tall glossy stork.
+Greater adjutant|Leptoptilos dubius|India (Assam); Cambodia|Wetlands, dumps|Carrion|EN|Saved in Assam by the 'Hargila army' of women.
+Lesser adjutant|Leptoptilos javanicus|South and Southeast Asia|Wetlands|Fish|VU|A smaller bald-headed stork.
+White stork|Ciconia ciconia|Europe; Africa|Farmland|Frogs, insects|LC|Nests on rooftops.
+Woolly-necked stork|Ciconia episcopus|Asia; Africa|Wetlands|Fish|NT|Has a fluffy white neck.
+Marabou stork|Leptoptilos crumenifer|Africa|Savanna, dumps|Carrion|LC|One of the largest wingspans.
+Lesser flamingo|Phoeniconaias minor|Africa; India|Soda lakes|Algae|NT|Millions gather at Lake Natron and Bogoria.
+Great white pelican|Pelecanus onocrotalus|Africa; Asia|Lakes|Fish|LC|Fishes cooperatively.
+Spot-billed pelican|Pelecanus philippensis|South Asia|Lakes|Fish|NT|Nests in village trees in Andhra Pradesh.
+Dalmatian pelican|Pelecanus crispus|Europe; Asia|Lakes|Fish|NT|The largest pelican.
+Little cormorant|Microcarbo niger|South Asia|Ponds|Fish|LC|Common Indian cormorant.
+Oriental darter|Anhinga melanogaster|South Asia|Lakes|Fish|NT|The 'snakebird' swims with only its neck showing.
+Common crane|Grus grus|Eurasia|Wetlands|Grain|LC|Winters in Rajasthan's Khichan village.
+Demoiselle crane|Grus virgo|Central Asia; India|Steppe|Seeds|LC|Crosses the Himalaya; fed in Khichan.
+Whooping crane|Grus americana|North America|Wetlands|Crabs|EN|Recovered from 15 birds in 1941.
+Red-crowned crane|Grus japonensis|Japan; China; Korea|Marshes|Fish|VU|A symbol of long life.
+Grey crowned crane|Balearica regulorum|East Africa|Wetlands|Insects|EN|National bird of Uganda.
+Bengal florican|Houbaropsis bengalensis|India; Nepal; Cambodia|Grassland|Insects|CR|Fewer than 1,000 remain.
+Lesser florican|Sypheotides indicus|India|Grassland|Insects|CR|Males leap high in display.
+Houbara bustard|Chlamydotis undulata|North Africa|Desert|Insects, plants|VU|Hunted with falcons.
+Kori bustard|Ardeotis kori|Africa|Savanna|Insects|NT|One of the heaviest flying birds.
+Great bustard|Otis tarda|Spain; Central Asia|Plains|Plants|VU|The heaviest flying bird.
+Purple swamphen|Porphyrio porphyrio|Africa; Asia|Reedbeds|Shoots|LC|A blue-purple rail.
+White-breasted waterhen|Amaurornis phoenicurus|South Asia|Wetlands|Insects|LC|Calls loudly in the monsoon.
+Eurasian coot|Fulica atra|Eurasia|Lakes|Plants|LC|Has lobed toes.
+Pheasant-tailed jacana|Hydrophasianus chirurgus|South Asia|Lily ponds|Insects|LC|Walks on lily pads.
+Bronze-winged jacana|Metopidius indicus|South Asia|Ponds|Insects|LC|Males raise the chicks.
+Red-wattled lapwing|Vanellus indicus|South Asia|Fields|Insects|LC|Calls 'did-he-do-it'.
+Northern lapwing|Vanellus vanellus|Eurasia|Farmland|Worms|NT|Has a wispy crest.
+Sociable lapwing|Vanellus gregarius|Kazakhstan; winters India|Steppe|Insects|CR|A rare migrant.
+Black-winged stilt|Himantopus himantopus|Worldwide|Shallow water|Insects|LC|Very long pink legs.
+Pied avocet|Recurvirostra avosetta|Eurasia|Mudflats|Invertebrates|LC|Upturned bill.
+Spoon-billed sandpiper|Calidris pygmaea|Russia; winters Asia|Mudflats|Invertebrates|CR|Fewer than 1,000 survive.
+Bar-tailed godwit|Limosa lapponica|Arctic; Pacific|Mudflats|Worms|NT|Flies 13,000 km non-stop from Alaska to New Zealand.
+Eurasian curlew|Numenius arquata|Eurasia|Moors|Worms|NT|A long down-curved bill.
+Ruff|Calidris pugnax|Eurasia|Wetlands|Insects|LC|Males have elaborate ruffs.
+Indian courser|Cursorius coromandelicus|India|Dry plains|Insects|LC|Runs fast on open ground.
+Jerdon's courser|Rhinoptilus bitorquatus|India (Andhra Pradesh)|Scrub jungle|Insects|CR|Rediscovered in 1986 after 86 years.
+River tern|Sterna aurantia|South Asia|Rivers|Fish|VU|Nests on sandbars.
+Black-bellied tern|Sterna acuticauda|South Asia|Rivers|Fish|EN|Declining on Indian rivers.
+Brown-headed gull|Chroicocephalus brunnicephalus|Central Asia; India|Lakes, coasts|Fish|LC|Winters in Indian cities.
+Rock dove|Columba livia|Worldwide|Cities, cliffs|Seeds|LC|Ancestor of city pigeons.
+Spotted dove|Spilopelia chinensis|South and Southeast Asia|Gardens|Seeds|LC|A common garden dove.
+Laughing dove|Spilopelia senegalensis|Africa; India|Dry land|Seeds|LC|A small pink-brown dove.
+Eurasian collared dove|Streptopelia decaocto|Eurasia|Towns|Seeds|LC|Spread across Europe in the 20th century.
+Yellow-footed green pigeon|Treron phoenicopterus|South Asia|Fig trees|Fruit|LC|State bird of Maharashtra.
+Nicobar pigeon|Caloenas nicobarica|Nicobar; Southeast Asia|Islands|Seeds|NT|The dodo's closest living relative.
+Victoria crowned pigeon|Goura victoria|New Guinea|Rainforest|Fruit|NT|A turkey-sized pigeon with lacy crest.
+Mourning dove|Zenaida macroura|North America|Open land|Seeds|LC|Wings whistle on take-off.
+Alexandrine parakeet|Psittacula eupatria|South Asia|Forest|Seeds|NT|India's largest parakeet.
+Plum-headed parakeet|Psittacula cyanocephala|India|Forest|Fruit|LC|Males have a plum head.
+Vernal hanging parrot|Loriculus vernalis|India; Southeast Asia|Forest|Nectar|LC|Sleeps hanging upside down.
+African grey parrot|Psittacus erithacus|Central Africa|Rainforest|Seeds|EN|Among the best talking birds.
+Hyacinth macaw|Anodorhynchus hyacinthinus|Brazil; Bolivia|Pantanal|Palm nuts|VU|The largest flying parrot.
+Blue-and-yellow macaw|Ara ararauna|South America|Rainforest|Seeds|LC|Lives up to 60 years.
+Spix's macaw|Cyanopsitta spixii|Brazil|Caatinga|Seeds|EW|Reintroduced in 2022.
+Sulphur-crested cockatoo|Cacatua galerita|Australia|Woodland, cities|Seeds|LC|Has learned to open wheelie bins.
+Galah|Eolophus roseicapilla|Australia|Open land|Seeds|LC|A pink-and-grey cockatoo.
+Budgerigar|Melopsittacus undulatus|Australia|Grassland|Seeds|LC|Wild flocks number thousands.
+Rainbow lorikeet|Trichoglossus moluccanus|Australia|Gardens|Nectar|LC|Brush-tipped tongue for nectar.
+Kea|Nestor notabilis|New Zealand|Alpine|Anything|EN|The only alpine parrot, famously clever.
+Monk parakeet|Myiopsitta monachus|Argentina; feral worldwide|Woodland, cities|Seeds|LC|Builds communal stick nests.
+Greater coucal|Centropus sinensis|South Asia|Gardens|Insects|LC|A deep 'coop-coop' call.
+Common hawk-cuckoo|Hierococcyx varius|South Asia|Woodland|Caterpillars|LC|The 'brainfever bird'.
+Pied cuckoo|Clamator jacobinus|Africa; India|Scrub|Caterpillars|LC|'Chatak', herald of the monsoon.
+Greater roadrunner|Geococcyx californianus|USA; Mexico|Desert|Lizards|LC|Runs at 30 km/h.
+Hoatzin|Opisthocomus hoazin|Amazon|Riverside forest|Leaves|LC|Chicks have claws on their wings.
+Indian nightjar|Caprimulgus asiaticus|South Asia|Scrub|Insects|LC|Its call sounds like a pebble skipping on ice.
+Common swift|Apus apus|Europe; Africa|Air|Insects|LC|Can stay airborne for 10 months.
+Asian palm swift|Cypsiurus balasiensis|South Asia|Palms|Insects|LC|Glues nests to palm fronds.
+Edible-nest swiftlet|Aerodramus fuciphagus|Southeast Asia|Caves|Insects|LC|Its saliva nests make bird's-nest soup.
+Green bee-eater|Merops orientalis|South Asia; Africa|Open land|Bees|LC|A slim green bird on wires.
+Blue-tailed bee-eater|Merops philippinus|South and Southeast Asia|Rivers|Bees|LC|Nests in sandy banks.
+European bee-eater|Merops apiaster|Europe; Africa|Open land|Bees|LC|Removes stings by rubbing bees.
+Carmine bee-eater|Merops nubicus|Africa|Savanna|Insects|LC|Rides on the backs of bustards.
+Stork-billed kingfisher|Pelargopsis capensis|South Asia|Rivers|Fish|LC|A huge red-billed kingfisher.
+Pied kingfisher|Ceryle rudis|Africa; Asia|Rivers|Fish|LC|Hovers before diving.
+Laughing kookaburra|Dacelo novaeguineae|Australia|Woodland|Lizards, insects|LC|Its call sounds like laughter.
+Oriental dwarf kingfisher|Ceyx erithaca|India; Southeast Asia|Rainforest|Insects|LC|A tiny jewel-coloured kingfisher.
+Oriental pied hornbill|Anthracoceros albirostris|Northeast India; Southeast Asia|Forest|Fruit|LC|A widespread black-and-white hornbill.
+Wreathed hornbill|Rhyticeros undulatus|Northeast India; Southeast Asia|Forest|Fruit|VU|Flies long distances to roost.
+Rhinoceros hornbill|Buceros rhinoceros|Borneo; Malaysia|Rainforest|Fruit|VU|National bird of Sarawak.
+Southern ground hornbill|Bucorvus leadbeateri|Southern Africa|Savanna|Animals|VU|Lives 50+ years.
+Narcondam hornbill|Rhyticeros narcondami|India (Narcondam Island)|Island forest|Fruit|VU|Found only on one island.
+Coppersmith barbet|Psilopogon haemacephalus|South and Southeast Asia|Gardens|Fruit|LC|Its call sounds like a hammer on metal.
+Brown-headed barbet|Psilopogon zeylanicus|India; Sri Lanka|Gardens|Figs|LC|Loud 'kutroo' calls.
+Black-rumped flameback|Dinopium benghalense|South Asia|Woodland|Ants|LC|A golden-backed woodpecker.
+Great slaty woodpecker|Mulleripicus pulverulentus|Himalaya; Southeast Asia|Forest|Insects|VU|The largest Old World woodpecker.
+Great spotted woodpecker|Dendrocopos major|Eurasia|Woodland|Insects|LC|Drums on trees.
+Ivory-billed woodpecker|Campephilus principalis|USA; Cuba|Swamp forest|Beetle larvae|CR|Possibly extinct.
+Northern flicker|Colaptes auratus|North America|Woodland|Ants|LC|Eats ants on the ground.
+Acorn woodpecker|Melanerpes formicivorus|USA; Central America|Oak woodland|Acorns|LC|Stores thousands of acorns.
+Eurasian wryneck|Jynx torquilla|Eurasia|Woodland|Ants|LC|Twists its neck like a snake.
+Hooded pitta|Pitta sordida|Northeast India; Southeast Asia|Forest|Insects|LC|Green-bodied ground bird.
+Long-tailed broadbill|Psarisomus dalhousiae|Himalaya|Forest|Insects|LC|A bright green bird with a blue tail.
+Golden oriole|Oriolus kundoo|South Asia|Woodland|Fruit|LC|A brilliant yellow songbird.
+Black drongo|Dicrurus macrocercus|South Asia|Open land|Insects|LC|Bravely chases crows and eagles.
+Greater racket-tailed drongo|Dicrurus paradiseus|South Asia|Forest|Insects|LC|A master mimic with racket tail.
+White-throated fantail|Rhipidura albicollis|South Asia|Woodland|Insects|LC|Fans its tail while dancing.
+House crow|Corvus splendens|South Asia; invasive|Cities|Anything|LC|India's familiar crow.
+Large-billed crow|Corvus macrorhynchos|Asia|Varied|Anything|LC|The 'jungle crow'.
+Common raven|Corvus corax|Northern Hemisphere|Varied|Anything|LC|Among the most intelligent birds.
+Rook|Corvus frugilegus|Europe|Farmland|Insects|LC|Nests in rookeries.
+New Caledonian crow|Corvus moneduloides|New Caledonia|Forest|Insects|LC|Makes hooked tools.
+Eurasian magpie|Pica pica|Eurasia|Towns|Anything|LC|Passes the mirror test.
+Red-billed blue magpie|Urocissa erythroryncha|Himalaya; China|Forest|Anything|LC|Has a very long tail.
+Rufous treepie|Dendrocitta vagabunda|South Asia|Gardens|Anything|LC|A long-tailed crow relative.
+Eurasian jay|Garrulus glandarius|Eurasia|Woodland|Acorns|LC|Plants oak forests by burying acorns.
+Blue jay|Cyanocitta cristata|North America|Woodland|Nuts|LC|Mimics hawk calls.
+Spotted nutcracker|Nucifraga caryocatactes|Eurasia; Himalaya|Conifer forest|Pine seeds|LC|Remembers thousands of caches.
+Red-billed chough|Pyrrhocorax pyrrhocorax|Eurasia; Himalaya|Mountains|Insects|LC|Has nested above 6,000 m.
+Himalayan bulbul|Pycnonotus leucogenys|Himalaya|Scrub|Fruit|LC|A crested bulbul.
+Red-vented bulbul|Pycnonotus cafer|South Asia|Gardens|Fruit|LC|One of the most common Indian birds.
+Red-whiskered bulbul|Pycnonotus jocosus|South Asia|Gardens|Fruit|LC|Has a pointed crest.
+Common iora|Aegithina tiphia|South Asia|Gardens|Insects|LC|A yellow songbird.
+Jungle babbler|Argya striata|India|Woodland|Insects|LC|The 'seven sisters' move in noisy groups.
+Large grey babbler|Argya malcolmi|India|Scrub|Insects|LC|A common dryland babbler.
+Puff-throated babbler|Pellorneum ruficeps|South Asia|Forest|Insects|LC|Sings 'he'll-beat-you'.
+Rufous-necked laughingthrush|Pterorhinus ruficollis|Himalaya|Scrub|Insects|LC|A noisy babbler.
+Himalayan cutia|Cutia nipalensis|Himalaya|Forest|Insects|LC|A colourful Himalayan bird.
+Silver-eared mesia|Leiothrix argentauris|Himalaya|Forest|Insects|LC|A brightly coloured songbird.
+Red-billed leiothrix|Leiothrix lutea|Himalaya; China|Scrub|Insects|LC|The 'Pekin robin'.
+Ashy prinia|Prinia socialis|South Asia|Gardens|Insects|LC|A tiny tailed warbler.
+Common chiffchaff|Phylloscopus collybita|Eurasia|Woodland|Insects|LC|Sings its own name.
+Blyth's reed warbler|Acrocephalus dumetorum|Eurasia; winters India|Scrub|Insects|LC|A mimic among warblers.
+Common blackbird|Turdus merula|Europe|Gardens|Worms|LC|A rich, mellow song.
+Song thrush|Turdus philomelos|Europe|Gardens|Snails|LC|Smashes snails on stones.
+American robin|Turdus migratorius|North America|Gardens|Worms|LC|A herald of spring.
+Malabar whistling thrush|Myophonus horsfieldii|India (Western Ghats)|Streams|Insects|LC|The 'whistling schoolboy'.
+Blue rock thrush|Monticola solitarius|Eurasia|Rocks|Insects|LC|National bird of Malta.
+Orange-headed thrush|Geokichla citrina|South Asia|Forest|Insects|LC|A secretive ground thrush.
+Indian blue robin|Larvivora brunnea|Himalaya; Western Ghats|Undergrowth|Insects|LC|Skulking blue songbird.
+Bluethroat|Luscinia svecica|Eurasia|Wetlands|Insects|LC|Males sport a blue bib.
+European robin|Erithacus rubecula|Europe|Gardens|Insects|LC|Sings even at night under streetlights.
+Pied bushchat|Saxicola caprata|South Asia|Open land|Insects|LC|A black-and-white chat.
+Common stonechat|Saxicola rubicola|Europe|Heath|Insects|LC|Calls like two stones knocked.
+Plumbeous water redstart|Phoenicurus fuliginosus|Himalaya|Streams|Insects|LC|Flicks its red tail by rushing water.
+White-capped redstart|Phoenicurus leucocephalus|Himalaya|Mountain streams|Insects|LC|A striking river bird.
+Verditer flycatcher|Eumyias thalassinus|Himalaya; Southeast Asia|Forest|Insects|LC|A turquoise flycatcher.
+Tickell's blue flycatcher|Cyornis tickelliae|South Asia|Forest|Insects|LC|A blue-and-orange flycatcher.
+Grey wagtail|Motacilla cinerea|Eurasia|Streams|Insects|LC|Bobs its long tail.
+White wagtail|Motacilla alba|Eurasia|Open land|Insects|LC|A common winter visitor to India.
+Paddyfield pipit|Anthus rufulus|South Asia|Fields|Insects|LC|A brown pipit of paddies.
+Crested lark|Galerida cristata|Eurasia; Africa|Dry fields|Seeds|LC|Has a spiky crest.
+Indian bushlark|Mirafra erythroptera|India|Scrub|Seeds|LC|Display flights over dry land.
+Great tit|Parus major|Eurasia|Woodland|Insects|LC|Has a 'teacher-teacher' song.
+Cinereous tit|Parus cinereus|South Asia|Woodland|Insects|LC|India's common tit.
+Blue tit|Cyanistes caeruleus|Europe|Gardens|Insects|LC|Learned to open milk bottles.
+Black-capped chickadee|Poecile atricapillus|North America|Woodland|Seeds|LC|Its alarm call encodes threat size.
+Velvet-fronted nuthatch|Sitta frontalis|South Asia|Forest|Insects|LC|A violet-blue nuthatch.
+Eurasian wren|Troglodytes troglodytes|Eurasia|Undergrowth|Insects|LC|Tiny but very loud.
+Common rosefinch|Carpodacus erythrinus|Eurasia; winters India|Scrub|Seeds|LC|Males are rosy red.
+Scaly-breasted munia|Lonchura punctulata|South and Southeast Asia|Grassland|Seeds|LC|A tiny seed-eater.
+Indian silverbill|Euodice malabarica|South Asia|Dry land|Seeds|LC|A pale munia.
+Red avadavat|Amandava amandava|South Asia|Grassland|Seeds|LC|A tiny red finch.
+Zebra finch|Taeniopygia castanotis|Australia|Grassland|Seeds|LC|Model species for studying song.
+Gouldian finch|Chloebia gouldiae|Australia|Savanna|Seeds|NT|A rainbow-coloured finch.
+European goldfinch|Carduelis carduelis|Europe|Gardens|Seeds|LC|Has a red face.
+American goldfinch|Spinus tristis|North America|Fields|Seeds|LC|Bright yellow in summer.
+Atlantic canary|Serinus canaria|Canary Islands|Scrub|Seeds|LC|Wild ancestor of the pet canary.
+Northern cardinal|Cardinalis cardinalis|North America|Gardens|Seeds|LC|State bird of seven US states.
+Red-winged blackbird|Agelaius phoeniceus|North America|Marshes|Insects|LC|One of the most numerous North American birds.
+Common grackle|Quiscalus quiscula|North America|Fields|Anything|LC|Iridescent and noisy.
+Baltimore oriole|Icterus galbula|North America|Woodland|Insects|LC|Weaves hanging nests.
+Bobolink|Dolichonyx oryzivorus|Americas|Grassland|Seeds|LC|Migrates 20,000 km a year.
+Brahminy starling|Sturnia pagodarum|South Asia|Open land|Insects|LC|A crested starling.
+Asian pied starling|Gracupica contra|South Asia|Fields|Insects|LC|Black-and-white starling of fields.
+Rosy starling|Pastor roseus|Central Asia; winters India|Fields|Locusts|LC|Huge flocks eat locusts.
+Common starling|Sturnus vulgaris|Europe; invasive|Fields, cities|Insects|LC|Forms murmurations.
+Common hill myna|Gracula religiosa|South Asia|Forest|Fruit|LC|An excellent mimic.
+Bank myna|Acridotheres ginginianus|North India|Rivers, towns|Insects|LC|Nests in riverbanks.
+Superb fairywren|Malurus cyaneus|Australia|Gardens|Insects|LC|Teaches eggs a 'password' call.
+Satin bowerbird|Ptilonorhynchus violaceus|Australia|Forest|Fruit|LC|Decorates bowers with blue objects.
+Vogelkop bowerbird|Amblyornis inornata|New Guinea|Mountain forest|Fruit|LC|Builds hut-like bowers.
+Greater bird-of-paradise|Paradisaea apoda|New Guinea|Rainforest|Fruit|LC|Golden plumes for displays.
+Wilson's bird-of-paradise|Diphyllodes respublica|Indonesia (West Papua)|Rainforest|Fruit|NT|Has a blue bald head.

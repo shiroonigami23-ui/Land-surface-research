@@ -1,0 +1,154 @@
+# Flowers & other plants|🌸
+Blue water lily|Nymphaea nouchali|South Asia|Ponds|—|LC|National flower of Bangladesh and Sri Lanka.
+Egyptian blue lotus|Nymphaea caerulea|Nile; East Africa|Ponds|—|LC|Sacred in ancient Egypt.
+Giant water lily|Victoria amazonica|Amazon|Lakes|—|LC|Leaves up to 3 m wide.
+Indian lotus (yellow)|Nelumbo lutea|North America|Lakes|—|LC|America's native lotus.
+Hibiscus (Chinese)|Hibiscus rosa-sinensis|Tropical Asia|Gardens|—|NE|Offered to the goddess Kali.
+Sea hibiscus|Talipariti tiliaceum|Tropical coasts|Coasts|—|LC|Flowers change colour in a day.
+Bougainvillea|Bougainvillea spectabilis|Brazil|Gardens|—|LC|Colourful bracts, not petals.
+Frangipani|Plumeria rubra|Central America|Gardens|—|LC|Temple flower of Asia.
+Night-flowering jasmine (parijat)|Nyctanthes arbor-tristis|South Asia|Gardens|—|LC|Flowers fall at dawn; West Bengal's state flower.
+Madhumalti|Combretum indicum|Southeast Asia|Gardens|—|LC|Flowers turn white to red.
+Oleander|Nerium oleander|Mediterranean; South Asia|Riverbanks|—|LC|Beautiful but very poisonous.
+Crown flower (aak)|Calotropis gigantea|South Asia|Wasteland|—|LC|Food plant of the plain tiger.
+Chrysanthemum|Chrysanthemum morifolium|China; Japan|Gardens|—|NE|Japan's imperial flower.
+Peony|Paeonia lactiflora|China|Gardens|—|NE|China's 'king of flowers'.
+Camellia|Camellia japonica|Japan; China|Forest|—|LC|A winter-blooming shrub.
+Azalea (Himalayan)|Rhododendron campanulatum|Himalaya|Subalpine|—|LC|Purple blooms near the tree line.
+Rhododendron (Sikkim)|Rhododendron niveum|Sikkim|Mountain forest|—|LC|Sikkim's state tree.
+Orchid (Cymbidium)|Cymbidium eburneum|Himalaya|Forest trees|—|LC|Ivory-coloured orchid.
+Dancing lady orchid|Oncidium sphacelatum|Central America|Forest|—|LC|Sprays of yellow flowers.
+Moth orchid|Phalaenopsis amabilis|Southeast Asia|Rainforest|—|LC|Indonesia's 'moon orchid'.
+Vanda orchid (blue)|Vanda coerulea|Northeast India; Myanmar|Forest|—|LC|A rare blue orchid.
+Lady's slipper (yellow)|Cypripedium parviflorum|North America|Woodland|—|LC|A pouch-shaped orchid.
+Bee orchid|Ophrys apifera|Europe|Grassland|—|LC|Mimics a female bee.
+Ghost orchid|Dendrophylax lindenii|Florida; Cuba|Swamps|—|EN|A leafless orchid that seems to float.
+Bird of paradise flower|Strelitzia reginae|South Africa|Coastal scrub|—|LC|Looks like a bird's head.
+King protea|Protea cynaroides|South Africa|Fynbos|—|LC|South Africa's national flower.
+Pincushion protea|Leucospermum cordifolium|South Africa|Fynbos|—|NT|Pincushion flowers.
+Waratah|Telopea speciosissima|Australia|Sandstone|—|LC|New South Wales emblem.
+Kangaroo paw|Anigozanthos manglesii|Western Australia|Heath|—|LC|Furry paw-shaped flowers.
+Sturt's desert pea|Swainsona formosa|Australia|Desert|—|LC|Red flowers with black boss.
+Banksia|Banksia serrata|Australia|Heath|—|LC|Needs fire to release seeds.
+Grass tree|Xanthorrhoea australis|Australia|Woodland|—|LC|Grows 1–2 cm a year.
+Edelweiss Himalayan|Leontopodium himalayanum|Himalaya|Alpine|—|LC|Woolly alpine star.
+Blue poppy (Himalayan)|Meconopsis grandis|Himalaya|Alpine|—|LC|National flower of Bhutan.
+Snow lotus|Saussurea involucrata|Tian Shan; Tibet|Alpine scree|—|EN|Used in traditional medicine.
+Gentian (spring)|Gentiana verna|Europe; Alps|Alpine|—|LC|Deep blue alpine flower.
+Saxifrage (purple)|Saxifraga oppositifolia|Arctic; Alps|Rocks|—|LC|One of the northernmost flowers.
+Arctic poppy|Papaver radicatum|Arctic|Tundra|—|LC|Its flower tracks the sun.
+Alpine forget-me-not|Myosotis alpestris|Europe|Alpine|—|LC|Tiny blue flowers.
+Corn poppy|Papaver rhoeas|Europe|Fields|—|LC|Remembrance symbol of WWI.
+Opium poppy|Papaver somniferum|Mediterranean|Fields|—|NE|Source of morphine.
+Cornflower|Centaurea cyanus|Europe|Fields|—|LC|A blue field flower.
+Daffodil|Narcissus pseudonarcissus|Europe|Woodland|—|LC|Wordsworth's 'host of golden daffodils'.
+Bluebell|Hyacinthoides non-scripta|Britain; Western Europe|Woodland|—|LC|Carpets ancient woods.
+Snowdrop|Galanthus nivalis|Europe|Woodland|—|NT|Flowers through snow.
+Crocus (saffron wild)|Crocus cartwrightianus|Greece|Hills|—|LC|Wild ancestor of saffron.
+Lily of the valley|Convallaria majalis|Europe|Woodland|—|LC|Fragrant but toxic.
+Foxglove|Digitalis purpurea|Europe|Woodland|—|LC|Source of heart drug digoxin.
+Lavender|Lavandula angustifolia|Mediterranean|Hills|—|LC|Aromatic shrub.
+Rosemary|Salvia rosmarinus|Mediterranean|Scrub|—|LC|Herb of remembrance.
+Thyme|Thymus vulgaris|Mediterranean|Rocky slopes|—|LC|A culinary herb.
+Sage|Salvia officinalis|Mediterranean|Scrub|—|LC|A medicinal herb.
+Peppermint|Mentha × piperita|Europe|Damp places|—|NE|A hybrid mint.
+Lemongrass|Cymbopogon citratus|South Asia|Fields|—|NE|Aromatic grass.
+Vetiver (khus)|Chrysopogon zizanioides|India|Riverbanks|—|NE|Roots used for cooling mats.
+Sweet flag|Acorus calamus|Asia|Wetlands|—|LC|Ayurvedic 'vacha'.
+Brahmi|Bacopa monnieri|South Asia|Wetlands|—|LC|Memory herb in Ayurveda.
+Giloy|Tinospora cordifolia|India|Forest|—|NE|A climbing medicinal vine.
+Shatavari|Asparagus racemosus|India|Forest|—|NE|Ayurvedic tonic.
+Sarpagandha|Rauvolfia serpentina|South Asia|Forest|—|EN|Source of the drug reserpine.
+Kalmegh|Andrographis paniculata|India|Forest|—|NE|'King of bitters'.
+Henna|Lawsonia inermis|Africa; South Asia|Dry land|—|LC|Leaves dye skin and hair.
+Indigo plant|Indigofera tinctoria|India|Farms|—|NE|Blue dye that sparked the 1917 Champaran movement.
+Madder|Rubia tinctorum|Europe; Asia|Fields|—|NE|Red dye for 'Turkey red'.
+Cotton (wild Indian)|Gossypium arboreum|India|Farms|—|NE|Desi cotton grown at Harappa.
+Jute plant|Corchorus olitorius|South Asia|Fields|—|NE|Golden fibre.
+Hemp|Cannabis sativa|Central Asia|Fields|—|NE|Fibre and seed crop.
+Flax|Linum usitatissimum|Near East|Fields|—|NE|Linen and linseed.
+Papyrus|Cyperus papyrus|Africa; Nile|Swamps|—|LC|Egyptian paper.
+Common reed|Phragmites australis|Worldwide|Wetlands|—|LC|Thatch and pens.
+Elephant grass|Cenchrus purpureus|Africa|Grassland|—|LC|Tall fodder grass.
+Kans grass|Saccharum spontaneum|South Asia|Riverbanks|—|LC|White plumes herald autumn in Bengal.
+Bamboo (moso)|Phyllostachys edulis|China|Mountains|—|NE|Grows a metre a day.
+Bamboo (thorny)|Bambusa bambos|South Asia|Forest|—|LC|Flowers once in decades.
+Muli bamboo|Melocanna baccifera|Northeast India; Myanmar|Forest|—|LC|Mass flowering triggers 'mautam' rat famines.
+Spinifex|Triodia basedowii|Australia|Desert|—|LC|Spiky hummock grass.
+Pampas grass|Cortaderia selloana|Argentina|Pampas|—|LC|Feathery plumes; invasive elsewhere.
+Esparto grass|Macrochloa tenacissima|Spain; North Africa|Steppe|—|LC|Woven into ropes.
+Big bluestem|Andropogon gerardii|USA|Tallgrass prairie|—|LC|Prairie grass.
+Buffalo grass|Bouteloua dactyloides|USA|Shortgrass prairie|—|LC|Drought-tough grass.
+Pitcher plant (Raja Brooke's)|Nepenthes rajah|Borneo (Kinabalu)|Montane|Insects, shrew droppings|EN|Largest pitcher, used as a shrew toilet.
+Purple pitcher plant|Sarracenia purpurea|North America|Bogs|Insects|LC|Water-filled pitchers.
+Cobra lily|Darlingtonia californica|USA|Serpentine bogs|Insects|LC|Looks like a cobra.
+Bladderwort|Utricularia vulgaris|Worldwide|Ponds|Water fleas|LC|Fastest trap in the plant kingdom.
+Butterwort|Pinguicula vulgaris|Europe|Bogs|Insects|LC|Sticky leaves.
+Waterwheel plant|Aldrovanda vesiculosa|Old World|Ponds|Small invertebrates|EN|An aquatic flytrap.
+Sensitive plant (touch-me-not)|Mimosa pudica|Tropics|Wasteland|—|LC|Folds when touched.
+Telegraph plant|Codariocalyx motorius|South Asia|Forest|—|LC|Leaflets move visibly.
+Resurrection plant|Selaginella lepidophylla|Mexico|Desert|—|LC|Comes back to life after rain.
+Living stones|Lithops karasmontana|Namibia|Desert|—|LC|Looks like pebbles.
+Hoodia|Hoodia gordonii|Kalahari|Desert|—|NE|San people chewed it to suppress hunger.
+Barrel cactus|Ferocactus wislizeni|USA; Mexico|Desert|—|LC|Leans toward the south.
+Organ pipe cactus|Stenocereus thurberi|USA; Mexico|Sonoran Desert|—|LC|Bat-pollinated.
+Peyote|Lophophora williamsii|Mexico; Texas|Desert|—|VU|A slow-growing cactus.
+Night-blooming cereus|Selenicereus grandiflorus|Caribbean|Forest|—|LC|Flowers open one night only.
+Prickly pear (Indian)|Opuntia stricta|Americas; invasive|Dry land|—|LC|Invaded Australia until a moth controlled it.
+Euphorbia (cactus spurge)|Euphorbia antiquorum|South Asia|Dry hills|—|LC|Cactus-like spurge.
+Aloe (Socotran)|Aloe perryi|Socotra|Rocky slopes|—|EN|Source of Socotran aloe.
+Century plant|Agave americana|Mexico|Desert|—|LC|Flowers once after decades.
+Blue agave|Agave tequilana|Mexico|Highlands|—|NE|Tequila.
+Yucca (Spanish bayonet)|Yucca aloifolia|USA|Dunes|—|LC|Sharp leaves.
+Sea buckthorn|Hippophae rhamnoides|Ladakh; Europe|Riverbanks|—|LC|Ladakh's 'wonder berry'.
+Seabuckthorn (Tibetan)|Hippophae tibetana|Tibet|High plateau|—|LC|Short shrub.
+Caper bush|Capparis spinosa|Mediterranean; Ladakh|Rocky slopes|—|LC|Capers are flower buds.
+Ephedra (Himalayan)|Ephedra gerardiana|Himalaya|Dry slopes|—|LC|Source of ephedrine.
+Juniper (creeping)|Juniperus communis|Northern Hemisphere|Heath|—|LC|Berries flavour gin.
+Heather|Calluna vulgaris|Europe|Moorland|—|LC|Purple moors.
+Gorse|Ulex europaeus|Europe|Heath|—|LC|Smells of coconut.
+Maidenhair fern|Adiantum capillus-veneris|Worldwide|Damp rocks|—|LC|Delicate fronds.
+Royal fern|Osmunda regalis|Worldwide|Wetlands|—|LC|An ancient fern.
+Staghorn fern|Platycerium bifurcatum|Australia|Tree trunks|—|LC|Grows on trees.
+Bird's nest fern|Asplenium nidus|Tropics|Tree trunks|—|LC|Catches leaf litter.
+Giant horsetail|Equisetum telmateia|Europe|Damp ground|—|LC|A living fossil.
+Club moss|Lycopodium clavatum|Worldwide|Heath|—|LC|Spores once used for flash powder.
+Liverwort (common)|Marchantia polymorpha|Worldwide|Damp soil|—|LC|An early land plant lineage.
+Reindeer lichen|Cladonia rangiferina|Arctic|Tundra|—|LC|Main winter food of reindeer.
+Old man's beard lichen|Usnea longissima|Northern forests|Trees|—|LC|Indicator of clean air.
+Rock tripe|Umbilicaria esculenta|East Asia|Rocks|—|LC|An edible lichen.
+Duckweed|Lemna minor|Worldwide|Ponds|—|LC|One of the fastest-growing plants.
+Water lettuce|Pistia stratiotes|Tropics|Ponds|—|LC|Invasive floating plant.
+Indian water chestnut|Trapa natans|Asia|Ponds|—|LC|Singhara nuts.
+Fox nut (makhana)|Euryale ferox|India (Bihar); China|Ponds|—|LC|Popped seeds; Bihar grows most.
+Wild rice|Zizania palustris|North America|Lakes|—|LC|Sacred to the Ojibwe.
+Wild rice (Asian)|Oryza rufipogon|South Asia|Wetlands|—|LC|Ancestor of cultivated rice.
+Teosinte|Zea mays subsp. parviglumis|Mexico|Hills|—|NE|Wild ancestor of maize.
+Wild emmer|Triticum dicoccoides|Fertile Crescent|Hills|—|NE|Ancestor of durum wheat.
+Wild potato|Solanum brevicaule|Andes|Highlands|—|NE|Wild relative of the potato.
+Wild tomato|Solanum pimpinellifolium|Peru; Ecuador|Coast|—|NE|Ancestor of tomatoes.
+Wild banana|Musa acuminata|Southeast Asia|Forest|—|LC|Seedy ancestor of bananas.
+Wild apple (Sievers)|Malus sieversii|Kazakhstan|Mountain forest|—|VU|Ancestor of the apple.
+Wild mango|Mangifera sylvatica|Himalaya foothills|Forest|—|NE|A wild mango relative.
+Wild orange (Indian)|Citrus indica|Northeast India|Hills|—|EN|Possibly an ancestor of citrus.
+Long pepper|Piper longum|India|Forest|—|NE|Pippali, used before black pepper.
+Betel vine|Piper betle|South Asia|Gardens|—|NE|Paan leaves.
+Ginger|Zingiber officinale|South Asia|Farms|—|NE|An ancient spice.
+Galangal|Alpinia galanga|Southeast Asia|Farms|—|NE|Spice of Thai cuisine.
+Wild turmeric|Curcuma aromatica|South Asia|Forest|—|NE|Fragrant rhizome.
+Fenugreek|Trigonella foenum-graecum|Mediterranean; India|Farms|—|NE|Methi leaves and seeds.
+Cumin|Cuminum cyminum|Middle East; India|Farms|—|NE|Rajasthan and Gujarat grow most.
+Coriander|Coriandrum sativum|Mediterranean|Farms|—|NE|Leaves and seeds.
+Mustard (black)|Brassica nigra|Eurasia|Fields|—|NE|Spicy seeds.
+Chilli (wild bird pepper)|Capsicum annuum var. glabriusculum|Americas|Scrub|—|LC|Wild ancestor of chillies.
+Bhut jolokia|Capsicum chinense 'Bhut Jolokia'|Northeast India|Farms|—|NE|Once the hottest chilli.
+Tea (Assam wild)|Camellia sinensis var. assamica|Assam; Myanmar|Forest|—|NE|Wild tea of Assam.
+Kokum|Garcinia indica|India (Western Ghats)|Forest|—|VU|Sour fruit of Konkan cuisine.
+Malabar tamarind|Garcinia gummi-gutta|India|Forest|—|LC|Kudampuli for fish curry.
+Indian pennywort|Centella asiatica|Asia|Damp ground|—|LC|Gotu kola.
+Moringa (drumstick)|Moringa oleifera|India|Gardens|—|LC|Nutritious leaves and pods.
+Curry leaf|Murraya koenigii|India|Gardens|—|LC|Aromatic leaves.
+Stevia|Stevia rebaudiana|Paraguay|Grassland|—|NE|Natural sweetener.
+Amaranth (rajgira)|Amaranthus caudatus|Andes; Himalaya|Fields|—|NE|Grain of the Aztecs and of Himalayan farmers.
+Buckwheat|Fagopyrum esculentum|China; Himalaya|Fields|—|NE|Kuttu flour.
+Edible bird's nest fern|Diplazium esculentum|South Asia|Streams|—|LC|Lingru fern eaten in the Himalaya.

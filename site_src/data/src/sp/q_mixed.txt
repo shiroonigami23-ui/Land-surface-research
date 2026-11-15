@@ -1,0 +1,106 @@
+# Fungi|🍄
+Chanterelle|Cantharellus cibarius|Europe; Asia|Woodland|Mycorrhizal|LC|A prized golden edible mushroom.
+Porcini (cep)|Boletus edulis|Northern Hemisphere|Woodland|Mycorrhizal|LC|The king bolete.
+Shiitake|Lentinula edodes|East Asia|Logs|Wood decay|NE|Cultivated for 1,000 years in China.
+Oyster mushroom|Pleurotus ostreatus|Worldwide|Dead wood|Wood decay|NE|Traps and eats nematodes.
+Button mushroom|Agaricus bisporus|Europe; farmed worldwide|Grassland|Decomposer|NE|The most farmed mushroom.
+Enoki|Flammulina filiformis|East Asia|Dead wood|Wood decay|NE|Grows in winter.
+Lion's mane|Hericium erinaceus|Northern Hemisphere|Hardwood trees|Wood decay|NE|A shaggy white fungus.
+Reishi|Ganoderma lucidum|Asia; Europe|Hardwoods|Wood decay|NE|Used in Chinese medicine for 2,000 years.
+Turkey tail|Trametes versicolor|Worldwide|Dead wood|Wood decay|NE|Banded like a turkey's tail.
+Chicken of the woods|Laetiporus sulphureus|Northern Hemisphere|Oaks|Wood decay|NE|Bright orange shelves.
+Black truffle|Tuber melanosporum|France; Spain; Italy|Oak roots|Mycorrhizal|NE|Found with pigs and dogs.
+White truffle|Tuber magnatum|Italy|Oak and poplar roots|Mycorrhizal|NE|The most expensive fungus.
+Matsutake|Tricholoma matsutake|Japan; Korea; China|Pine forest|Mycorrhizal|NE|Prized aromatic mushroom.
+Giant puffball|Calvatia gigantea|Worldwide|Meadows|Decomposer|NE|Can contain trillions of spores.
+Stinkhorn|Phallus impudicus|Europe|Woodland|Decomposer|NE|Smells of rotting meat to attract flies.
+Veiled lady|Phallus indusiatus|Tropics|Forest|Decomposer|NE|Has a lacy skirt.
+Earthstar|Geastrum saccatum|Worldwide|Leaf litter|Decomposer|NE|Star-shaped puffball.
+Bird's nest fungus|Cyathus striatus|Worldwide|Dead wood|Decomposer|NE|Splash cups shoot spores.
+Destroying angel|Amanita virosa|Europe|Woodland|Mycorrhizal|NE|Deadly white mushroom.
+Liberty cap|Psilocybe semilanceata|Europe|Grassland|Decomposer|NE|Contains psilocybin.
+Ergot|Claviceps purpurea|Worldwide|Rye|Parasite|NE|Caused medieval 'St Anthony's fire'; source of LSD chemistry.
+Zombie-ant fungus|Ophiocordyceps unilateralis|Tropics|Rainforest|Ant parasite|NE|Controls ants before killing them.
+Caterpillar fungus (Cordyceps militaris)|Cordyceps militaris|Worldwide|Soil|Insect parasite|NE|Orange club fungus.
+Chytrid fungus|Batrachochytrium dendrobatidis|Worldwide|Water|Amphibian parasite|NE|Has driven ~90 frog species extinct.
+White-nose fungus|Pseudogymnoascus destructans|North America; Eurasia|Caves|Bat parasite|NE|Killed millions of bats.
+Dutch elm disease fungus|Ophiostoma novo-ulmi|Worldwide|Elms|Parasite|NE|Killed most of Europe's elms.
+Ash dieback fungus|Hymenoscyphus fraxineus|Europe|Ash trees|Parasite|NE|Killing European ash.
+Baker's yeast|Saccharomyces cerevisiae|Worldwide|Fruit|Sugars|NE|Bread, beer and wine.
+Bread mould|Rhizopus stolonifer|Worldwide|Food|Decomposer|NE|Black fuzzy mould.
+Aspergillus (koji)|Aspergillus oryzae|East Asia|Rice|Fermenter|NE|Makes soy sauce, miso and sake.
+Lichen fungus (map lichen)|Rhizocarpon geographicum|Mountains|Rocks|Symbiont|NE|Used to date glacial moraines.
+Indian mushroom (dhingri)|Pleurotus florida|India|Farms|Wood decay|NE|Farmed in Indian villages.
+Termitomyces (Indian)|Termitomyces heimii|India|Termite mounds|Farmed by termites|NE|Wild monsoon mushroom of Odisha and Kerala.
+Pink oyster mushroom|Pleurotus djamor|Tropics|Dead wood|Wood decay|NE|Bright pink oyster mushroom.
+Jelly ear|Auricularia auricula-judae|Worldwide|Elder trees|Wood decay|NE|Ear-shaped jelly fungus.
+Witches' butter|Tremella mesenterica|Worldwide|Dead wood|Parasite|NE|Yellow jelly fungus.
+Ghost fungus|Omphalotus nidiformis|Australia|Dead wood|Wood decay|NE|Glows at night.
+Bleeding tooth fungus|Hydnellum peckii|North America; Europe|Conifer forest|Mycorrhizal|NE|Oozes red droplets.
+Shaggy ink cap|Coprinus comatus|Worldwide|Grassland|Decomposer|NE|Dissolves into black ink.
+Morel (black)|Morchella elata|Northern Hemisphere|Burned forest|Decomposer|NE|Fruits after forest fires.
+# Big cats & wild cats|🐅
+Asiatic cheetah|Acinonyx jubatus venaticus|Iran|Desert steppe|Gazelles|CR|Fewer than 30 remain in Iran.
+# Primates|🐒
+Tonkin snub-nosed monkey|Rhinopithecus avunculus|Vietnam|Karst forest|Leaves|CR|Fewer than 250 remain.
+Black snub-nosed monkey|Rhinopithecus bieti|China (Yunnan)|Fir forest|Lichens|EN|Lives higher than any other non-human primate.
+Myanmar snub-nosed monkey|Rhinopithecus strykeri|Myanmar; China|Mountain forest|Leaves|CR|Sneezes when it rains.
+Red-shanked douc|Pygathrix nemaeus|Vietnam; Laos|Forest|Leaves|CR|'Queen of primates' for its colours.
+Javan slow loris|Nycticebus javanicus|Java|Forest|Gum, insects|CR|Venomous and trafficked.
+Spectral tarsier|Tarsius tarsier|Sulawesi|Forest|Insects|VU|Huge eyes.
+Hainan gibbon|Nomascus hainanus|China (Hainan)|Rainforest|Fruit|CR|The rarest ape, about 40 individuals.
+Skywalker hoolock gibbon|Hoolock tianxing|China; Myanmar|Forest|Fruit|EN|Named after Star Wars in 2017.
+Celebes crested macaque|Macaca nigra|Sulawesi|Rainforest|Fruit|CR|Took the famous 'monkey selfie'.
+Emperor tamarin|Saguinus imperator|Peru; Brazil|Rainforest|Fruit, insects|LC|Has a long white moustache.
+Black-headed uakari|Cacajao melanocephalus|Amazon|Flooded forest|Seeds|LC|A seed-predating monkey.
+Red howler|Alouatta seniculus|South America|Rainforest|Leaves|LC|Loud dawn chorus.
+Yellow-tailed woolly monkey|Lagothrix flavicauda|Peru|Cloud forest|Fruit|CR|Thought extinct until 1974.
+Western chimpanzee|Pan troglodytes verus|West Africa|Forest, savanna|Fruit|CR|Uses stone hammers.
+Allen's swamp monkey|Allenopithecus nigroviridis|Congo Basin|Swamp forest|Fruit|LC|Swims and dives.
+Gray-cheeked mangabey|Lophocebus albigena|Central Africa|Rainforest|Fruit|LC|A canopy monkey.
+Sooty mangabey|Cercocebus atys|West Africa|Forest|Seeds|VU|Natural host of the virus that became HIV-2.
+L'Hoest's monkey|Allochrocebus lhoesti|Central Africa|Montane forest|Fruit|VU|White-bearded monkey.
+Owl-faced monkey|Cercopithecus hamlyni|Central Africa|Bamboo forest|Bamboo|VU|A face like an owl.
+Sportive lemur|Lepilemur mustelinus|Madagascar|Rainforest|Leaves|VU|Nocturnal leaf eater.
+Crowned lemur|Eulemur coronatus|Madagascar|Dry forest|Fruit|EN|An orange-crowned lemur.
+# Small mammals|🐿
+Indian hedgehog|Paraechinus micropus|India; Pakistan|Desert|Insects|LC|A desert hedgehog.
+Madras treeshrew|Anathana ellioti|India|Forest|Insects|LC|An Indian treeshrew.
+Common treeshrew|Tupaia glis|Southeast Asia|Forest|Insects|LC|Drinks fermented palm nectar.
+Pen-tailed treeshrew|Ptilocercus lowii|Malaysia; Borneo|Forest|Nectar|LC|Drinks alcoholic nectar without getting drunk.
+Sunda colugo|Galeopterus variegatus|Southeast Asia|Rainforest|Leaves|LC|Glides 100 m on skin membranes.
+Philippine colugo|Cynocephalus volans|Philippines|Rainforest|Leaves|LC|The 'flying lemur'.
+Indian field mouse|Mus booduga|South Asia|Fields|Seeds|LC|A small paddy mouse.
+Long-tailed tree mouse|Vandeleuria oleracea|South Asia|Bushes|Seeds|LC|A climbing mouse.
+Indian mole-rat|Bandicota indica|South Asia|Farmland|Grain|LC|The large 'bandicoot rat'.
+Cloud rat (northern Luzon)|Phloeomys pallidus|Philippines|Forest|Leaves|LC|A giant fluffy rat.
+Gambian pouched rat|Cricetomys gambianus|Africa|Savanna|Seeds|LC|Trained to find landmines (HeroRATs).
+Golden hamster|Mesocricetus auratus|Syria; Turkey|Farmland|Seeds|VU|All pet hamsters descend from a few wild ones.
+Common hamster|Cricetus cricetus|Europe|Farmland|Grain|CR|Declining in European fields.
+Dwarf hamster (Djungarian)|Phodopus sungorus|Kazakhstan; Siberia|Steppe|Seeds|LC|Turns white in winter.
+Fat sand rat|Psammomys obesus|North Africa; Middle East|Desert|Saltbush|LC|Used in diabetes research.
+Kangaroo rat (Merriam's)|Dipodomys merriami|USA; Mexico|Desert|Seeds|LC|Never needs to drink.
+Northern pocket gopher|Thomomys talpoides|North America|Meadows|Roots|LC|Fur-lined cheek pouches.
+Flying squirrel (southern)|Glaucomys volans|USA|Forest|Nuts|LC|Fluorescent pink under UV.
+Siberian flying squirrel|Pteromys volans|Russia; Finland|Taiga|Leaves|LC|Huge black eyes.
+Black giant squirrel|Ratufa bicolor|Northeast India; Southeast Asia|Forest|Fruit|NT|A black-and-gold squirrel.
+Orange-bellied Himalayan squirrel|Dremomys lokriah|Himalaya|Forest|Insects|LC|A ground-foraging squirrel.
+Prevost's squirrel|Callosciurus prevostii|Malaysia; Indonesia|Rainforest|Fruit|LC|Tricolour squirrel.
+Cape ground squirrel|Xerus inauris|Southern Africa|Arid savanna|Roots|LC|Uses its tail as a parasol.
+Mountain beaver|Aplodontia rufa|USA; Canada|Damp forest|Ferns|LC|The most primitive rodent.
+Red-tailed chipmunk|Neotamias ruficaudus|USA; Canada|Forest|Seeds|LC|A western chipmunk.
+Greater Egyptian jerboa|Jaculus orientalis|North Africa|Desert|Seeds|LC|A large jerboa.
+Lesser Malayan mouse-deer|Tragulus kanchil|Southeast Asia|Rainforest|Fruit|LC|The smallest hoofed mammal.
+Fulvous fruit bat|Rousettus leschenaultii|South Asia|Caves|Fruit|LC|A cave fruit bat.
+Kerivoula (painted bat)|Kerivoula picta|South and Southeast Asia|Forest|Insects|LC|Orange-and-black wings.
+Greater mouse-tailed bat|Rhinopoma microphyllum|India; Middle East|Ruins|Insects|LC|Roosts in ancient monuments.
+Indian pipistrelle|Pipistrellus coromandra|South Asia|Towns|Insects|LC|A common house bat.
+Salim Ali's fruit bat|Latidens salimalii|India (Western Ghats)|Forest|Fruit|EN|One of India's rarest bats.
+Wroughton's free-tailed bat|Otomops wroughtoni|India|Caves|Insects|DD|Known from a few caves.
+Spectral bat|Vampyrum spectrum|Central and South America|Rainforest|Birds|NT|The largest bat in the Americas.
+Greater bulldog bat|Noctilio leporinus|Americas|Rivers|Fish|LC|Rakes fish from water.
+Pallid bat|Antrozous pallidus|USA; Mexico|Desert|Scorpions|LC|Immune to scorpion venom.
+Brown long-eared bat|Plecotus auritus|Europe|Woodland|Moths|LC|Ears almost as long as its body.
+Greater noctule|Nyctalus lasiopterus|Europe|Forest|Birds|VU|Catches migrating birds at night.
+Large flying fox|Pteropus vampyrus|Southeast Asia|Forest|Fruit|EN|Wingspan up to 1.5 m.
+Tube-nosed fruit bat|Nyctimene robinsoni|Australia|Rainforest|Fruit|LC|Has tubular nostrils.

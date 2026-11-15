@@ -1,0 +1,122 @@
+# Trees|🌳
+Kusum|Schleichera oleosa|South Asia|Dry forest|—|LC|Host tree for lac insects.
+Tendu|Diospyros melanoxylon|India|Dry forest|—|LC|Leaves wrap beedis; vital forest income.
+Haldu|Haldina cordifolia|South Asia|Dry forest|—|LC|Yellow wood.
+Dhaora|Anogeissus latifolia|India|Dry forest|—|LC|Gives ghatti gum.
+Saja|Terminalia tomentosa|India|Deciduous forest|—|LC|Crocodile bark tree.
+Rohida|Tecomella undulata|Thar Desert|Desert|—|LC|'Marwar teak' with orange flowers.
+Ker|Capparis decidua|Thar Desert|Desert|—|LC|Leafless shrub with edible buds.
+Jaal (pilu)|Salvadora persica|Thar; Arabia|Desert|—|LC|The 'toothbrush tree'.
+Phog|Calligonum polygonoides|Thar Desert|Dunes|—|LC|Binds sand dunes.
+Hingot|Balanites aegyptiaca|Africa; India|Dry land|—|LC|The desert date.
+Gum arabic tree|Senegalia senegal|Sahel|Savanna|—|LC|Source of gum arabic.
+Doum palm|Hyphaene thebaica|Egypt; Sahel|Wadis|—|LC|A branching palm.
+Tamarisk|Tamarix aphylla|Middle East; India|Desert|—|LC|Salt-tolerant tree.
+Saxaul|Haloxylon ammodendron|Central Asia|Desert|—|LC|Planted on the dry Aral seabed.
+Siberian elm|Ulmus pumila|Central Asia|Steppe|—|LC|Drought-hardy elm.
+Mongolian oak|Quercus mongolica|Northeast Asia|Forest|—|LC|Amur tiger habitat.
+Korean pine|Pinus koraiensis|Northeast Asia|Forest|—|LC|Pine nuts feed bears.
+Japanese cedar (sugi)|Cryptomeria japonica|Japan|Mountains|—|NT|Jōmon Sugi is ~2,000+ years old.
+Hinoki cypress|Chamaecyparis obtusa|Japan|Mountains|—|NT|Used for temples.
+Chinese tallow|Triadica sebifera|China; invasive USA|Wetlands|—|LC|An invasive tree.
+Tree of heaven|Ailanthus altissima|China; invasive|Cities|—|LC|Grows through pavement.
+Paulownia|Paulownia tomentosa|China|Forest|—|LC|Fastest-growing hardwood.
+Dove tree|Davidia involucrata|China|Mountain forest|—|LC|White 'handkerchief' bracts.
+Chinese fir|Cunninghamia lanceolata|China|Mountains|—|LC|Major plantation timber.
+Lacquer tree|Toxicodendron vernicifluum|China; Japan|Forest|—|LC|Source of urushi lacquer.
+Tea oil camellia|Camellia oleifera|China|Hills|—|LC|Cooking oil seeds.
+Longan|Dimocarpus longan|Southern China|Orchards|—|NT|'Dragon eye' fruit.
+Rambutan|Nephelium lappaceum|Southeast Asia|Rainforest|—|LC|Hairy red fruit.
+Salak|Salacca zalacca|Indonesia|Forest|—|LC|Snakeskin fruit.
+Tualang|Koompassia excelsa|Malaysia; Borneo|Rainforest|—|LC|Giant bee-nest tree up to 85 m.
+Yellow meranti|Shorea faguetiana|Borneo|Rainforest|—|EN|'Menara', the tallest tropical tree (~100 m).
+Dipterocarp (keruing)|Dipterocarpus alatus|Southeast Asia|Forest|—|VU|Two-winged seeds.
+Agarwood|Aquilaria malaccensis|South and Southeast Asia|Rainforest|—|CR|Infected wood gives costly oud.
+Gutta-percha|Palaquium gutta|Malaysia|Rainforest|—|LC|Latex insulated the first undersea cables.
+Ironwood (Borneo)|Eusideroxylon zwageri|Borneo|Rainforest|—|VU|Sinks in water.
+Sacred garlic pear|Crateva religiosa|South Asia|Riverbanks|—|LC|Planted near temples.
+Kanak champa|Pterospermum acerifolium|South Asia|Forest|—|LC|Huge leaves used as plates.
+Rudraksha|Elaeocarpus angustifolius|Himalaya; Southeast Asia|Forest|—|LC|Seeds used as prayer beads.
+Sandalwood (Australian)|Santalum spicatum|Australia|Arid scrub|—|VU|Harvested for oil.
+Bunya pine|Araucaria bidwillii|Australia|Rainforest|—|LC|Giant cones fed Aboriginal feasts.
+Queensland kauri|Agathis robusta|Australia|Rainforest|—|LC|A tall rainforest conifer.
+Antarctic beech|Nothofagus moorei|Australia|Cool rainforest|—|LC|Gondwana relic.
+Southern beech (lenga)|Nothofagus pumilio|Chile; Argentina|Patagonia|—|LC|Turns red in autumn.
+Alerce|Fitzroya cupressoides|Chile; Argentina|Andes|—|EN|One tree is over 3,600 years old.
+Chilean wine palm|Jubaea chilensis|Chile|Hills|—|VU|The world's southernmost palm.
+Ombú|Phytolacca dioica|Argentina|Pampas|—|LC|A giant herb of the pampas.
+Paraná pine|Araucaria angustifolia|Brazil|Highlands|—|CR|Seeds fed the Kaingang people.
+Pau d'arco|Handroanthus impetiginosus|South America|Dry forest|—|LC|Pink trumpet flowers.
+Silk floss tree|Ceiba speciosa|South America|Dry forest|—|LC|A spiny swollen trunk.
+Mamey sapote|Pouteria sapota|Mexico|Forest|—|LC|Salmon-coloured fruit.
+Annatto|Bixa orellana|Americas|Forest|—|LC|Seeds give orange dye.
+Breadnut (ramón)|Brosimum alicastrum|Central America|Forest|—|LC|Maya food tree.
+Strangler fig (Ficus watkinsiana)|Ficus watkinsiana|Australia|Rainforest|—|LC|An Australian strangler.
+Cottonwood (eastern)|Populus deltoides|USA|Rivers|—|LC|Fast-growing poplar.
+American sycamore|Platanus occidentalis|USA|Rivers|—|LC|Mottled white bark.
+Black locust|Robinia pseudoacacia|USA; invasive|Forest|—|LC|Hard rot-resistant wood.
+Eastern redbud|Cercis canadensis|USA|Woodland|—|LC|Pink spring blooms.
+Flowering dogwood|Cornus florida|USA|Woodland|—|LC|White spring bracts.
+Sassafras|Sassafras albidum|USA|Woodland|—|LC|Root beer flavour.
+Eastern hemlock|Tsuga canadensis|USA; Canada|Forest|—|NT|Killed by adelgids.
+Jack pine|Pinus banksiana|Canada|Boreal forest|—|LC|Cones open in fire.
+Black spruce|Picea mariana|Canada; Alaska|Bogs|—|LC|Boreal bog tree.
+Tamarack|Larix laricina|Canada|Bogs|—|LC|Golden in autumn.
+White birch (Japanese)|Betula platyphylla|East Asia|Forest|—|LC|Pale-barked birch.
+# Flowers & other plants|🌸
+Crown imperial|Fritillaria imperialis|Iran; Kashmir|Hills|—|NE|Bell-shaped orange flowers.
+Snake's head fritillary|Fritillaria meleagris|Europe|Meadows|—|LC|Chequered petals.
+Wild tulip (Kashmir)|Tulipa clusiana|Iran; Himalaya|Slopes|—|NE|The 'lady tulip'.
+Persian buttercup|Ranunculus asiaticus|Middle East|Hills|—|NE|Ancestor of garden ranunculus.
+Iris (bearded)|Iris germanica|Mediterranean|Gardens|—|NE|The fleur-de-lis.
+Kashmir iris|Iris kashmiriana|Kashmir|Graveyards|—|NE|Planted on graves.
+Cyclamen|Cyclamen persicum|Eastern Mediterranean|Rocky hills|—|NE|Swept-back petals.
+Anemone (poppy)|Anemone coronaria|Mediterranean|Fields|—|NE|'Lilies of the field'.
+Star of Bethlehem|Ornithogalum umbellatum|Europe|Grassland|—|LC|Star-shaped white flowers.
+Gladiolus (wild)|Gladiolus communis|Mediterranean|Meadows|—|NE|Sword lily.
+Freesia|Freesia refracta|South Africa|Fynbos|—|NE|Fragrant flowers.
+Red-hot poker|Kniphofia uvaria|South Africa|Grassland|—|NE|Flame-coloured spikes.
+Agapanthus|Agapanthus praecox|South Africa|Grassland|—|NE|'Lily of the Nile'.
+Clivia|Clivia miniata|South Africa|Forest|—|NE|Orange shade flowers.
+Pelargonium|Pelargonium zonale|South Africa|Scrub|—|NE|Ancestor of 'geraniums'.
+Desert rose|Adenium obesum|Africa; Arabia|Dry land|—|LC|A swollen succulent shrub.
+African violet|Streptocarpus ionanthus|Tanzania|Rainforest|—|NE|Popular houseplant from the Usambara Mountains.
+Kalanchoe|Kalanchoe blossfeldiana|Madagascar|Rocks|—|NE|A succulent houseplant.
+Madagascar periwinkle|Catharanthus roseus|Madagascar|Coasts|—|LC|Source of cancer drugs vincristine.
+Angel's trumpet|Brugmansia suaveolens|Brazil|Forest|—|EW|Extinct in the wild; toxic.
+Datura (thornapple)|Datura stramonium|Americas|Wasteland|—|LC|Poisonous and hallucinogenic.
+Belladonna|Atropa belladonna|Europe|Woodland|—|NE|Deadly nightshade.
+Tobacco (wild)|Nicotiana rustica|Andes|Fields|—|NE|Strong tobacco.
+Coca|Erythroxylum coca|Andes|Slopes|—|NE|Chewed in the Andes for millennia.
+Ayahuasca vine|Banisteriopsis caapi|Amazon|Rainforest|—|NE|A sacred Amazonian brew.
+Sweet pea|Lathyrus odoratus|Sicily|Hills|—|NE|Mendel's relative studies used peas.
+Garden pea (wild)|Pisum sativum subsp. elatius|Near East|Hills|—|NE|Wild relative of Mendel's pea.
+Chickpea (wild)|Cicer reticulatum|Turkey|Hills|—|NE|Wild ancestor of chickpea.
+Lentil (wild)|Lens orientalis|Near East|Hills|—|NE|Wild ancestor of lentil.
+Wild barley|Hordeum spontaneum|Near East|Hills|—|NE|Ancestor of barley.
+Einkorn (wild)|Triticum boeoticum|Near East|Hills|—|NE|One of the first wheats.
+Aegilops (goatgrass)|Aegilops tauschii|Caspian region|Steppe|—|NE|Contributed a genome to bread wheat.
+Wild sorghum|Sorghum arundinaceum|Africa|Savanna|—|NE|Wild sorghum.
+Wild finger millet|Eleusine africana|Africa|Savanna|—|NE|Ancestor of ragi.
+Foxtail millet|Setaria italica|China|Fields|—|NE|Early Chinese grain.
+Kodo millet|Paspalum scrobiculatum|India|Fields|—|NE|Tribal staple of central India.
+Little millet (kutki)|Panicum sumatrense|India|Fields|—|NE|Drought-hardy small millet.
+Barnyard millet|Echinochloa frumentacea|India|Fields|—|NE|Fasting-day grain (sanwa).
+Proso millet|Panicum miliaceum|Central Asia|Fields|—|NE|Grown since 10,000 years ago in China.
+Horse gram|Macrotyloma uniflorum|India|Dry land|—|NE|Kulthi dal of dry farms.
+Moth bean|Vigna aconitifolia|India|Desert|—|NE|Thar's drought-proof bean.
+Cluster bean (guar)|Cyamopsis tetragonoloba|India|Desert|—|NE|Guar gum used in fracking.
+Cowpea|Vigna unguiculata|Africa|Fields|—|NE|Black-eyed peas.
+Bambara groundnut|Vigna subterranea|West Africa|Fields|—|NE|An underground bean.
+Jackbean|Canavalia ensiformis|Americas|Fields|—|NE|Source of urease studies.
+Taro|Colocasia esculenta|Southeast Asia|Wet fields|—|LC|One of the oldest crops.
+Elephant foot yam|Amorphophallus paeoniifolius|South Asia|Fields|—|NE|Suran tuber.
+Arrowroot|Maranta arundinacea|Americas|Fields|—|NE|Starch for biscuits.
+Wasabi|Eutrema japonicum|Japan|Mountain streams|—|NE|True wasabi.
+Ginseng|Panax ginseng|Korea; China|Forest|—|NE|Wild roots are rare.
+American ginseng|Panax quinquefolius|USA; Canada|Forest|—|VU|Overharvested root.
+Goldenseal|Hydrastis canadensis|USA|Woodland|—|VU|A medicinal herb.
+Bloodroot|Sanguinaria canadensis|North America|Woodland|—|LC|Red sap.
+Mayapple|Podophyllum peltatum|North America|Woodland|—|LC|Source of cancer drug etoposide.
+Himalayan mayapple|Sinopodophyllum hexandrum|Himalaya|Alpine|—|EN|Medicinal podophyllum.
+Chirata|Swertia chirayita|Himalaya|Slopes|—|NE|A bitter medicinal herb.

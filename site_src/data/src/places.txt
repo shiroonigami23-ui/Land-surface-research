@@ -1,0 +1,74 @@
+@file places.json
+@fields name|ptype|country|location|height_m|stat|summary|wiki
+# Waterfalls|💧
+Angel Falls|Waterfall|Venezuela|Canaima National Park|979|Highest uninterrupted waterfall on Earth|Plunges off the tabletop mountain Auyán-tepui; the water often turns to mist before reaching the bottom.|Angel_Falls
+Victoria Falls|Waterfall|Zambia / Zimbabwe|Zambezi River|108|~1,708 m wide; the largest sheet of falling water|Known locally as Mosi-oa-Tunya, 'the smoke that thunders'; its spray is seen 50 km away.|Victoria_Falls
+Iguazu Falls|Waterfall|Argentina / Brazil|Iguazu River|82|About 275 drops along 2.7 km|The largest waterfall system, set in Atlantic Forest national parks on both sides.|Iguazu_Falls
+Niagara Falls|Waterfall|USA / Canada|Niagara River|51|Highest flow rate of any North American falls|Carved after the last Ice Age; its flow is partly diverted for hydropower.|Niagara_Falls
+Tugela Falls|Waterfall|South Africa|Drakensberg|948|Often ranked second-highest|A five-tier fall in the Drakensberg's Amphitheatre.|Tugela_Falls
+Kaieteur Falls|Waterfall|Guyana|Potaro River|226|One of the most powerful single-drop falls|Plunges through untouched rainforest.|Kaieteur_Falls
+Dettifoss|Waterfall|Iceland|Jökulsá á Fjöllum|44|Europe's most powerful waterfall|Fed by meltwater from Vatnajökull.|Dettifoss
+Gullfoss|Waterfall|Iceland|Hvítá River|32|Two-step canyon falls|Saved from a hydropower scheme in the early 1900s.|Gullfoss
+Jog Falls|Waterfall|India (Karnataka)|Sharavathi River|253|One of India's highest plunge falls|Splits into four streams (Raja, Rani, Rover, Rocket); strongest in the monsoon.|Jog_Falls
+Dudhsagar Falls|Waterfall|India (Goa / Karnataka)|Mandovi River|310|'Sea of milk'|A four-tier fall with a railway crossing its face.|Dudhsagar_Falls
+Athirappilly Falls|Waterfall|India (Kerala)|Chalakudy River|25|'Niagara of India', ~80 m wide|Set in rainforest home to four hornbill species; threatened by a proposed dam.|Athirappilly_Falls
+Nohkalikai Falls|Waterfall|India (Meghalaya)|Near Cherrapunji|340|India's tallest plunge waterfall|Fed only by rain on the plateau above, so it shrinks in winter.|Nohkalikai_Falls
+Kunchikal Falls|Waterfall|India (Karnataka)|Varahi River|455|Among India's tallest (tiered)|Cascades down rocky slopes in the Western Ghats.|Kunchikal_Falls
+Chitrakote Falls|Waterfall|India (Chhattisgarh)|Indravati River|29|India's widest waterfall, ~300 m|A horseshoe-shaped fall in Bastar.|Chitrakote_Falls
+Hogenakkal Falls|Waterfall|India (Tamil Nadu / Karnataka)|Kaveri River|20|Famous for coracle rides|Carbonatite rocks among the oldest in South Asia.|Hogenakkal_Falls
+Dhuandhar Falls|Waterfall|India (Madhya Pradesh)|Narmada River at Bhedaghat|30|'Smoke cascade' amid marble cliffs|The Narmada flows through a gorge of white marble.|Dhuandhar_Falls
+Nohsngithiang (Seven Sisters) Falls|Waterfall|India (Meghalaya)|Mawsmai|315|Seven-segment fall|Lit by the setting sun into rainbow colours.|Nohsngithiang_Falls
+Plitvice waterfalls|Waterfall|Croatia|Plitvice Lakes|78|16 terraced lakes linked by falls|Travertine dams grow as calcium carbonate is deposited.|Plitvice_Lakes_National_Park
+Huangguoshu Waterfall|Waterfall|China|Guizhou|78|Has a cave behind the curtain|A large fall in China's karst country.|Huangguoshu_Waterfall
+Sutherland Falls|Waterfall|New Zealand|Fiordland|580|New Zealand's tallest|Fed by a glacial lake.|Sutherland_Falls
+# Dams & reservoirs|🏗
+Three Gorges Dam|Dam|China|Yangtze River|181|22,500 MW: the largest power station on Earth|Displaced about 1.3 million people; its reservoir slightly slowed Earth's rotation.|Three_Gorges_Dam
+Itaipu Dam|Dam|Brazil / Paraguay|Paraná River|196|14,000 MW; supplies ~90% of Paraguay's power|Long held the record for annual energy output.|Itaipu_Dam
+Hoover Dam|Dam|USA|Colorado River|221|Created Lake Mead, now at low levels from drought|Built 1931–1936 during the Great Depression.|Hoover_Dam
+Aswan High Dam|Dam|Egypt|Nile|111|Created Lake Nasser|Ended the Nile's annual flood (1970), protecting crops but starving the delta of silt; Abu Simbel was moved to save it.|Aswan_Dam
+Grand Ethiopian Renaissance Dam|Dam|Ethiopia|Blue Nile|145|~5,150 MW, Africa's largest|Inaugurated in 2025 amid disputes with Egypt and Sudan over water.|Grand_Ethiopian_Renaissance_Dam
+Kariba Dam|Dam|Zambia / Zimbabwe|Zambezi|128|Lake Kariba, one of the largest artificial lakes|Water levels hit lows in the 2024 drought, cutting power.|Kariba_Dam
+Tehri Dam|Dam|India (Uttarakhand)|Bhagirathi River|260|India's tallest dam|Built in a seismic zone after decades of protest led by Sunderlal Bahuguna.|Tehri_Dam
+Bhakra Dam|Dam|India (Himachal Pradesh)|Sutlej River|226|Gobind Sagar reservoir|Nehru called it a 'temple of resurgent India'; it powered Punjab's Green Revolution.|Bhakra_Dam
+Sardar Sarovar Dam|Dam|India (Gujarat)|Narmada River|163|Supplies water to Gujarat, Rajasthan and Maharashtra|The Narmada Bachao Andolan protested displacement for decades.|Sardar_Sarovar_Dam
+Hirakud Dam|Dam|India (Odisha)|Mahanadi River|61|One of the longest earthen dams (~25.8 km with dykes)|Built 1948–57 for flood control on the Mahanadi.|Hirakud_Dam
+Nagarjuna Sagar Dam|Dam|India (Telangana / Andhra Pradesh)|Krishna River|124|One of the largest masonry dams|Irrigates millions of hectares.|Nagarjuna_Sagar_Dam
+Mettur Dam|Dam|India (Tamil Nadu)|Kaveri River|65|Stanley Reservoir|Its release date sets the Kaveri delta's farming calendar.|Mettur_Dam
+Idukki Dam|Dam|India (Kerala)|Periyar River|169|Asia's high double-curvature arch dam|Its gates were opened in the 2018 Kerala floods.|Idukki_Dam
+Mullaperiyar Dam|Dam|India (Kerala)|Periyar River|54|Built 1895 by the British|Subject of a long Kerala–Tamil Nadu dispute over safety.|Mullaperiyar_Dam
+Indira Gandhi Canal|Canal|India (Rajasthan)|From Harike Barrage|0|~650 km main canal|Brings Himalayan water into the Thar Desert.|Indira_Gandhi_Canal
+Tarbela Dam|Dam|Pakistan|Indus River|143|One of the largest earth-filled dams|Key to Pakistan's irrigation.|Tarbela_Dam
+Grand Coulee Dam|Dam|USA|Columbia River|168|Largest US power station|Blocked salmon runs to the upper Columbia.|Grand_Coulee_Dam
+Kallanai (Grand Anicut)|Dam|India (Tamil Nadu)|Kaveri River|5|Built ~2nd century CE|One of the oldest water-diversion structures still in use, built by the Chola king Karikala.|Kallanai
+# Caves|🕳
+Son Doong Cave|Cave|Vietnam|Phong Nha-Kẻ Bàng|0|Largest known cave passage (~200 m high)|Has its own jungle and clouds; discovered by explorers in 2009.|Hang_Sơn_Đoòng
+Mammoth Cave|Cave|USA (Kentucky)|Mammoth Cave National Park|0|Longest known cave system (~690 km)|Limestone caves explored for 4,000 years.|Mammoth_Cave_National_Park
+Krubera (Veryovkina) caves|Cave|Abkhazia / Georgia|Arabika Massif|0|Deepest known caves (~2,200 m)|Veryovkina, at about 2,212 m, is the deepest known.|Veryovkina_Cave
+Waitomo Glowworm Caves|Cave|New Zealand|North Island|0|Lit by thousands of glowworms|Glowworm larvae dangle sticky threads lit to lure insects.|Waitomo_Glowworm_Caves
+Lascaux|Cave|France|Dordogne|0|~17,000-year-old paintings|Paleolithic art of horses, bulls and deer; closed to protect it.|Lascaux
+Ajanta Caves|Cave|India (Maharashtra)|Waghur River gorge|0|30 Buddhist rock-cut caves (2nd c. BCE–5th c. CE)|UNESCO site of ancient Buddhist murals.|Ajanta_Caves
+Ellora Caves|Cave|India (Maharashtra)|Charanandri hills|0|34 caves; the Kailasa temple carved from one rock|Buddhist, Hindu and Jain monuments side by side.|Ellora_Caves
+Bhimbetka rock shelters|Cave|India (Madhya Pradesh)|Vindhya hills|0|Paintings up to ~10,000+ years old|Among the oldest traces of human life in India.|Bhimbetka_rock_shelters
+Borra Caves|Cave|India (Andhra Pradesh)|Ananthagiri hills|0|One of India's largest caves|Limestone stalactites and stalagmites.|Borra_Caves
+Belum Caves|Cave|India (Andhra Pradesh)|Kurnool|0|Second-longest plains cave in India (~3.2 km)|Formed by underground water.|Belum_Caves
+Krem Liat Prah|Cave|India (Meghalaya)|Jaintia Hills|0|India's longest natural cave (~31 km)|Part of a vast limestone system mapped by caving expeditions.|Krem_Liat_Prah
+Mawmluh Cave|Cave|India (Meghalaya)|Cherrapunji|0|Type site of the Meghalayan Age|A stalagmite here dates the start of the latest geological age (~4,200 years ago).|Mawmluh_Cave
+Elephanta Caves|Cave|India (Maharashtra)|Mumbai harbour|0|Rock-cut Shiva temple (~5th–6th c.)|Famous for the three-headed Mahesamurti.|Elephanta_Caves
+Carlsbad Caverns|Cave|USA (New Mexico)|Guadalupe Mountains|0|Big Room ~33,000 m²|Formed by sulphuric acid.|Carlsbad_Caverns_National_Park
+Reed Flute Cave|Cave|China|Guilin|0|Coloured-lit karst cave|Inscriptions from the Tang dynasty.|Reed_Flute_Cave
+Cave of the Crystals|Cave|Mexico|Naica mine|0|Selenite crystals up to 12 m|Hot (~58 °C) and now flooded again.|Cave_of_the_Crystals
+Škocjan Caves|Cave|Slovenia|Karst Plateau|0|One of the largest underground canyons|A river roars through the cave.|Škocjan_Caves
+# Underground cities & structures|🏛
+Derinkuyu underground city|Underground city|Turkey (Cappadocia)|Nevşehir|0|About 18 levels, ~85 m deep, for up to ~20,000 people|Carved in soft volcanic tuff from perhaps the 8th–7th century BCE; used as refuge into the 20th century.|Derinkuyu_underground_city
+Kaymaklı underground city|Underground city|Turkey (Cappadocia)|Nevşehir|0|Linked by tunnel to Derinkuyu|Stables, chapels and wineries underground.|Kaymaklı_Underground_City
+Coober Pedy|Underground town|Australia|Outback|0|Many residents live in 'dugouts'|An opal-mining town that escapes 50 °C heat underground.|Coober_Pedy
+Matmata troglodyte homes|Underground homes|Tunisia|Matmata|0|Pit homes around courtyards|Berber homes that featured in Star Wars.|Matmata,_Tunisia
+Catacombs of Paris|Ossuary|France|Paris|0|Remains of ~6 million people|Old limestone quarries filled with bones in the 1780s.|Catacombs_of_Paris
+Cu Chi tunnels|Tunnel network|Vietnam|Near Ho Chi Minh City|0|~250 km of tunnels|Used by Viet Cong fighters during the Vietnam War.|Củ_Chi_tunnels
+Wieliczka Salt Mine|Mine|Poland|Kraków|0|Chapels carved of salt, 327 m deep|Mined from the 13th century to 2007.|Wieliczka_Salt_Mine
+Chand Baori|Stepwell|India (Rajasthan)|Abhaneri|0|~3,500 steps, 13 storeys deep|Built ~9th century to store water.|Chand_Baori
+Rani ki Vav|Stepwell|India (Gujarat)|Patan|0|UNESCO site; ~500 sculptures|Built in the 11th century by Queen Udayamati.|Rani_ki_vav
+Agrasen ki Baoli|Stepwell|India (Delhi)|Connaught Place|0|108 steps|A medieval stepwell in the middle of Delhi.|Agrasen_ki_Baoli
+Basilica Cistern|Cistern|Turkey (Istanbul)|Istanbul|0|336 columns|Built in the 6th century under Justinian.|Basilica_Cistern
+Qanats of Iran|Underground canal|Iran|Plateau|0|Some over 3,000 years old|Gently sloping tunnels carry groundwater by gravity.|Qanat
+Tunnels of Moose Jaw|Tunnels|Canada|Saskatchewan|0|Legend of Prohibition-era smuggling|Steam-heating tunnels turned tourist attraction.|Tunnels_of_Moose_Jaw

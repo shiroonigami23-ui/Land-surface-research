@@ -1,0 +1,40 @@
+# Flowers & other plants|🌸
+Lotus|Nelumbo nucifera|Asia|Ponds|—|LC|India's national flower; its leaves repel water (the 'lotus effect').
+Neelakurinji|Strobilanthes kunthiana|India (Western Ghats)|Shola grassland|—|NE|Blooms once every 12 years, turning hills blue (last 2018).
+Brahma kamal|Saussurea obvallata|Himalaya|Alpine meadows|—|NE|State flower of Uttarakhand, blooming above 4,000 m.
+Himalayan blue poppy|Meconopsis betonicifolia|Himalaya|Alpine slopes|—|NE|A rare true-blue poppy.
+Jasmine|Jasminum sambac|South Asia|Gardens|—|NE|Woven into garlands; national flower of the Philippines.
+Marigold|Tagetes erecta|Mexico (grown across India)|Gardens|—|NE|India's festival flower.
+Rose|Rosa spp.|Asia (wild); worldwide|Gardens|—|NE|Cultivated for over 5,000 years.
+Tulip|Tulipa gesneriana|Central Asia; Turkey|Steppe, gardens|—|NE|Caused the 1630s 'Tulip Mania'; Srinagar has Asia's largest tulip garden.
+Sunflower|Helianthus annuus|North America|Prairie|—|LC|Young heads track the Sun.
+Rafflesia|Rafflesia arnoldii|Sumatra; Borneo|Rainforest|Parasite|NE|The largest single flower, smelling of rotting meat.
+Titan arum|Amorphophallus titanum|Sumatra|Rainforest|—|EN|A giant 'corpse flower' up to 3 m tall.
+Venus flytrap|Dionaea muscipula|USA (Carolinas)|Bogs|Insects|VU|Snaps shut after two touches in 20 seconds.
+Pitcher plant (Indian)|Nepenthes khasiana|India (Meghalaya)|Wet hills|Insects|EN|India's only native pitcher plant.
+Sundew|Drosera rotundifolia|Northern Hemisphere|Bogs|Insects|LC|Sticky tentacles trap insects.
+Saguaro cactus|Carnegiea gigantea|USA; Mexico|Sonoran Desert|—|LC|Grows to 12 m and lives ~150 years.
+Prickly pear|Opuntia ficus-indica|Mexico|Deserts|—|DD|Edible pads and fruit; invasive in places.
+Aloe vera|Aloe vera|Arabia|Dry land|—|NE|Succulent with soothing gel.
+Tulsi (holy basil)|Ocimum tenuiflorum|India|Homes, gardens|—|NE|Sacred in Hindu homes.
+Lantana|Lantana camara|Central America; invasive in India|Forest edges|—|NE|One of India's worst invasive plants.
+Water hyacinth|Pontederia crassipes|Amazon; invasive worldwide|Lakes|—|NE|Chokes lakes like Dal and Loktak.
+Edelweiss|Leontopodium nivale|Alps|Alpine meadows|—|NE|Woolly white star of the Alps.
+Orchid (foxtail)|Rhynchostylis retusa|South and Southeast Asia|Forest trees|—|NE|State flower of Assam (Kopou phool) used in Bihu.
+Lady's slipper orchid|Paphiopedilum druryi|India (Kerala)|Forest|—|CR|Rare Western Ghats orchid.
+Mosses (sphagnum)|Sphagnum spp.|Worldwide|Peat bogs|—|NE|Builds peatlands that store carbon.
+Bracken fern|Pteridium aquilinum|Worldwide|Moors, forest|—|LC|One of the most widespread plants.
+Tree fern|Cyathea spinulosa|Himalaya; Southeast Asia|Wet forest|—|NE|A fern that forms a trunk.
+Wolffia (watermeal)|Wolffia globosa|Asia|Ponds|—|NE|The smallest flowering plant.
+Cotton grass|Eriophorum angustifolium|Arctic|Tundra|—|LC|White tufts across the tundra.
+Kurinji (Ash Kurinji)|Strobilanthes spp.|India|Hills|—|NE|Mass-flowering shrubs of the Ghats.
+Ashwagandha|Withania somnifera|India; Africa|Dry land|—|NE|Ayurvedic herb.
+# Fungi|🍄
+Fly agaric|Amanita muscaria|Northern Hemisphere|Birch and pine forest|Mycorrhizal|NE|The iconic red-and-white toadstool; toxic.
+Death cap|Amanita phalloides|Europe (spreading)|Oak woods|Mycorrhizal|NE|Causes most mushroom-poisoning deaths.
+Honey fungus|Armillaria ostoyae|North America; Europe|Forest|Wood|NE|One in Oregon spreads ~9 km², among the largest organisms.
+Cordyceps (keeda jadi)|Ophiocordyceps sinensis|Himalaya; Tibet|Alpine meadows|Caterpillars|VU|Parasitic fungus worth more than gold by weight, collected in Uttarakhand and Nepal.
+Morel (gucchi)|Morchella esculenta|Himalaya; Europe; North America|Forest|Decomposer|NE|Kashmir's prized 'gucchi' mushroom.
+Bioluminescent fungus|Mycena chlorophos|Asia (incl. Western Ghats)|Rainforest|Wood|NE|Glows green at night.
+Penicillium|Penicillium rubens|Worldwide|Soil, food|Decomposer|NE|Source of penicillin (Fleming, 1928).
+Termite mushroom|Termitomyces titanicus|Africa|Termite mounds|Farmed by termites|NE|The largest edible mushroom, caps up to 1 m.

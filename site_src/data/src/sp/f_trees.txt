@@ -1,0 +1,41 @@
+# Trees|🌳
+Banyan|Ficus benghalensis|India|Tropical plains, villages|—|NE|India's national tree; the Great Banyan in Kolkata covers ~1.9 ha.
+Peepal (sacred fig)|Ficus religiosa|India; South Asia|Temples, villages|—|NE|The Buddha attained enlightenment under one at Bodh Gaya.
+Neem|Azadirachta indica|India|Dry tropics|—|LC|'Village pharmacy' whose oil and leaves repel insects.
+Teak|Tectona grandis|India; Myanmar; Thailand|Monsoon forest|—|EN|Prized durable timber.
+Sal|Shorea robusta|India; Nepal|Moist deciduous forest|—|LC|Dominant tree of central and eastern Indian forests.
+Indian rosewood (sheesham)|Dalbergia sissoo|South Asia|Riverbanks|—|LC|Hard timber for furniture.
+Sandalwood|Santalum album|India (Karnataka)|Dry forest|—|VU|Fragrant heartwood; partly parasitic on other trees' roots.
+Red sanders|Pterocarpus santalinus|India (Andhra Pradesh)|Dry hills|—|EN|Heavily smuggled red timber.
+Deodar|Cedrus deodara|Western Himalaya|Mountain forest|—|LC|'Timber of the gods', national tree of Pakistan.
+Himalayan blue pine|Pinus wallichiana|Himalaya|Mountain forest|—|LC|A soft-needled Himalayan pine.
+Chir pine|Pinus roxburghii|Himalaya|Dry slopes|—|LC|Resin-rich pine of fire-prone slopes.
+Rhododendron (tree)|Rhododendron arboreum|Himalaya|Mountain forest|—|LC|State tree of Uttarakhand; national flower of Nepal.
+Mahua|Madhuca longifolia|India|Dry forest|—|LC|Edible flowers central to tribal life in central India.
+Khejri|Prosopis cineraria|Thar Desert; Arabia|Desert|—|LC|Rajasthan's state tree, protected by the Bishnoi since the 1730 Khejarli sacrifice.
+Palash (flame of the forest)|Butea monosperma|India|Dry forest|—|LC|Blazes orange in spring; dye for Holi.
+Amaltas (golden shower)|Cassia fistula|South Asia|Dry forest, gardens|—|LC|Kerala's state flower, used in Vishu.
+Gulmohar|Delonix regia|Madagascar (planted in India)|Gardens|—|LC|Scarlet summer blooms.
+Arjuna|Terminalia arjuna|India|Riverbanks|—|LC|Bark used in Ayurveda; host for tasar silkworms.
+Coconut palm|Cocos nucifera|Tropical coasts|Coasts|—|NE|Kerala's 'kalpavriksha'.
+Indian date palm|Phoenix sylvestris|India|Plains|—|LC|Tapped for jaggery and toddy in Bengal.
+Mango tree|Mangifera indica|India|Tropics|—|DD|Some trees live 300 years.
+Tamarind|Tamarindus indica|Africa (long grown in India)|Dry tropics|—|LC|Sour pods flavour South Indian food.
+Bamboo (giant)|Dendrocalamus giganteus|Southeast Asia; Northeast India|Monsoon forest|—|NE|A grass that grows up to ~1 m a day in some species.
+Coast redwood|Sequoia sempervirens|California|Coastal fog forest|—|EN|Tallest trees on Earth; 'Hyperion' is ~116 m.
+Giant sequoia|Sequoiadendron giganteum|California|Sierra Nevada|—|EN|The largest trees by volume.
+Bristlecone pine|Pinus longaeva|USA|Mountain desert|—|LC|Individuals over 4,800 years old.
+Baobab|Adansonia digitata|Africa|Savanna|—|LC|Stores water in its swollen trunk.
+Dragon's blood tree|Dracaena cinnabari|Yemen (Socotra)|Dry mountains|—|VU|An umbrella-shaped tree with red resin.
+Brazil nut|Bertholletia excelsa|Amazon|Rainforest|—|VU|Depends on orchid bees and agoutis.
+Kapok|Ceiba pentandra|Tropics|Rainforest|—|LC|Can rise 60 m above the canopy.
+Rubber tree|Hevea brasiliensis|Amazon|Rainforest|—|LC|Source of natural latex.
+Mahogany|Swietenia macrophylla|Central and South America|Rainforest|—|VU|Valuable timber, heavily logged.
+English oak|Quercus robur|Europe|Woodland|—|LC|Can support over 2,000 other species.
+Sugar maple|Acer saccharum|North America|Forest|—|LC|Source of maple syrup.
+Silver birch|Betula pendula|Europe; Asia|Woodland|—|LC|Pioneer of cleared land.
+Ginkgo|Ginkgo biloba|China|Temples|—|EN|A 'living fossil' over 200 million years old as a lineage.
+Eucalyptus (river red gum)|Eucalyptus camaldulensis|Australia (planted worldwide)|Rivers|—|NT|Planted widely in India; thirsty plantations are controversial.
+Olive tree|Olea europaea|Mediterranean|Dry hills|—|LC|Trees live over 2,000 years.
+Welwitschia|Welwitschia mirabilis|Namibia; Angola|Namib Desert|—|LC|Two leaves that grow for over 1,000 years.
+Joshua tree|Yucca brevifolia|USA|Mojave Desert|—|VU|Pollinated by a single moth.

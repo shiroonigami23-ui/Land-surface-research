@@ -1,0 +1,206 @@
+@file countries.json
+@fields name|continent|capital|area_km2|pop_m|climate|landscape|crops|summary
+# Asia|🌏
+India|Asia|New Delhi|3287263|1440|Tropical monsoon to alpine and desert|Himalaya, Indo-Gangetic Plain, Thar Desert, Deccan Plateau, Western and Eastern Ghats|Rice, wheat, pulses, sugarcane, cotton, tea, spices, mango, banana|The world's most populous country; monsoon rains supply most of its water and feed a farm sector employing nearly half the workforce.
+China|Asia|Beijing|9596961|1410|Monsoon east, arid northwest, alpine Tibet|Tibetan Plateau, Gobi and Taklamakan deserts, North China Plain, loess plateau|Rice, wheat, maize, soybeans, tea, vegetables, apples|The largest producer of rice, wheat and vegetables; the Yellow and Yangtze rivers shaped its farming history.
+Pakistan|Asia|Islamabad|881913|245|Arid to semi-arid; alpine north|Indus Plain, Karakoram, Hindu Kush, Balochistan Plateau|Wheat, rice, cotton, sugarcane, mango|Depends on the Indus irrigation system, one of the largest in the world.
+Bangladesh|Asia|Dhaka|148460|172|Tropical monsoon|The Ganges–Brahmaputra delta, the world's largest|Rice, jute, tea, potatoes|One of the most densely populated countries, built on fertile but flood-prone delta land.
+Nepal|Asia|Kathmandu|147516|30|Subtropical to alpine|Himalaya (8 of the 14 highest peaks), Terai lowlands|Rice, maize, millet, tea|Rises from ~60 m to Everest's 8,849 m in under 200 km.
+Bhutan|Asia|Thimphu|38394|0.8|Subtropical to alpine|Eastern Himalaya|Rice, maize, chillies, apples|The first carbon-negative country, with over 70% forest cover.
+Sri Lanka|Asia|Sri Jayawardenepura Kotte|65610|22|Tropical; two monsoons|Central highlands, coastal plains|Tea, rice, coconut, rubber, cinnamon|A leading exporter of tea and the origin of true cinnamon.
+Maldives|Asia|Malé|300|0.5|Tropical|1,192 coral islands averaging ~1.5 m above sea level|Coconut, fish (land farming minimal)|The lowest-lying country, threatened by sea-level rise.
+Afghanistan|Asia|Kabul|652230|41|Arid continental|Hindu Kush, deserts|Wheat, grapes, pomegranates, saffron|Mountainous and dry, heavily affected by drought.
+Iran|Asia|Tehran|1648195|89|Arid and semi-arid|Iranian Plateau, Zagros and Alborz mountains, salt deserts (Dasht-e Kavir, Lut)|Wheat, pistachios, saffron, dates|The Lut Desert holds some of the hottest land surface temperatures measured by satellite.
+Iraq|Asia|Baghdad|438317|45|Hot desert|Mesopotamian plain between the Tigris and Euphrates|Wheat, barley, dates|Part of the Fertile Crescent, where farming began; now facing severe water stress.
+Saudi Arabia|Asia|Riyadh|2149690|37|Hot desert|Arabian Desert including the Rub' al Khali (Empty Quarter)|Dates, wheat (irrigated), vegetables|The largest country with no permanent rivers.
+Yemen|Asia|Sanaa|527968|34|Hot desert; highland monsoon|Mountains, coastal plains|Coffee (Mocha), qat, sorghum|The historic home of coffee trading at the port of Mocha.
+Oman|Asia|Muscat|309500|5|Hot desert|Hajar Mountains, deserts|Dates, frankincense|Ancient falaj irrigation channels are a UNESCO site.
+United Arab Emirates|Asia|Abu Dhabi|83600|10|Hot desert|Desert, coastal sabkha|Dates|Uses cloud seeding and desalination for water.
+Qatar|Asia|Doha|11586|2.7|Hot desert|Flat desert peninsula|Dates, vegetables (hydroponic)|One of the driest countries on Earth.
+Kuwait|Asia|Kuwait City|17818|4.3|Hot desert|Flat desert|Minimal agriculture|Records some of the world's hottest air temperatures (~54°C).
+Bahrain|Asia|Manama|786|1.6|Hot desert|Low islands|Dates|An archipelago in the Persian Gulf.
+Jordan|Asia|Amman|89342|11.5|Arid|Jordan Rift Valley, Wadi Rum desert|Tomatoes, olives, citrus|Among the most water-scarce countries in the world.
+Israel|Asia|Jerusalem (disputed)|22072|10|Mediterranean to desert|Negev Desert, Jordan Valley, Dead Sea|Citrus, avocados, vegetables|A pioneer of drip irrigation and wastewater reuse.
+Palestine|Asia|Ramallah (admin.)|6020|5.5|Mediterranean to arid|Hills, Jordan Valley|Olives, citrus|Olive groves are central to rural life.
+Lebanon|Asia|Beirut|10452|5.5|Mediterranean|Mount Lebanon range, Beqaa Valley|Fruit, vegetables, grapes|The Beqaa Valley has been farmed for millennia.
+Syria|Asia|Damascus|185180|23|Mediterranean to arid|Euphrates valley, steppe, desert|Wheat, cotton, olives|A severe 2006–2010 drought preceded the civil war.
+Turkey|Asia/Europe|Ankara|783562|86|Mediterranean to continental|Anatolian Plateau, Taurus Mountains|Wheat, hazelnuts, figs, apricots, tea|Produces most of the world's hazelnuts.
+Georgia|Asia/Europe|Tbilisi|69700|3.7|Humid subtropical to alpine|Greater Caucasus|Grapes, citrus, hazelnuts|One of the oldest wine-making regions (8,000 years).
+Armenia|Asia|Yerevan|29743|2.8|Continental highland|Armenian Highlands|Apricots, grapes|The apricot's scientific name honours Armenia.
+Azerbaijan|Asia|Baku|86600|10|Semi-arid to subtropical|Caucasus, Caspian lowlands|Cotton, grapes, pomegranates|Home to many mud volcanoes.
+Kazakhstan|Asia|Astana|2724900|20|Continental steppe|Kazakh Steppe, Tian Shan|Wheat, barley|The largest landlocked country.
+Uzbekistan|Asia|Tashkent|448978|37|Arid continental|Kyzylkum Desert, Fergana Valley|Cotton, wheat, melons|Cotton irrigation contributed to the Aral Sea's collapse.
+Turkmenistan|Asia|Ashgabat|488100|6.5|Hot desert|Karakum Desert|Cotton, wheat|Home of the 'Door to Hell' burning gas crater.
+Kyrgyzstan|Asia|Bishkek|199951|7|Continental highland|Tian Shan|Wheat, potatoes, walnuts|Has some of the world's largest wild walnut forests.
+Tajikistan|Asia|Dushanbe|143100|10|Continental highland|Pamir Mountains ('Roof of the World')|Cotton, wheat, fruit|More than 90% mountainous.
+Mongolia|Asia|Ulaanbaatar|1564116|3.5|Cold semi-arid|Steppe, Gobi Desert, Altai|Livestock, wheat|Hosted the 2026 UN desertification conference (COP17).
+Russia|Europe/Asia|Moscow|17098246|144|Subarctic to continental|Siberian taiga, tundra, steppe, Ural Mountains|Wheat, barley, sunflower, potatoes|The largest country, with the world's largest forest area.
+Japan|Asia|Tokyo|377975|124|Humid subtropical to continental|Volcanic mountainous islands|Rice, tea, vegetables, fruit|About 70% mountainous, with intensive terraced farming.
+South Korea|Asia|Seoul|100210|52|Humid continental|Mountainous peninsula|Rice, cabbage, ginseng|Rapid reforestation success after 1960s.
+North Korea|Asia|Pyongyang|120540|26|Humid continental|Mountainous|Rice, maize|Food shortages are recurrent.
+Taiwan|Asia|Taipei|36193|23|Subtropical|Central Mountain Range|Rice, tea, fruit|High mountains rise above 3,900 m.
+Philippines|Asia|Manila|300000|115|Tropical maritime|7,600+ volcanic islands|Rice, coconut, bananas, pineapple|A top banana and coconut exporter; typhoon-prone.
+Vietnam|Asia|Hanoi|331212|100|Tropical monsoon|Red River and Mekong deltas, highlands|Rice, coffee, cashews, pepper|The second-largest coffee producer.
+Thailand|Asia|Bangkok|513120|72|Tropical monsoon|Chao Phraya plain, northern mountains|Rice, rubber, cassava, sugar|A top rice exporter.
+Myanmar|Asia|Naypyidaw|676578|54|Tropical monsoon|Irrawaddy basin, mountains|Rice, pulses, sesame|The Irrawaddy delta is its rice bowl.
+Laos|Asia|Vientiane|236800|7.6|Tropical monsoon|Mountains, Mekong valley|Rice, coffee|Landlocked and mountainous.
+Cambodia|Asia|Phnom Penh|181035|17|Tropical monsoon|Tonlé Sap basin|Rice, cassava, rubber|The Tonlé Sap lake flow reverses each year.
+Malaysia|Asia|Kuala Lumpur|330803|34|Tropical rainforest|Peninsula and northern Borneo|Palm oil, rubber, durian|A top palm oil producer.
+Singapore|Asia|Singapore|734|6|Tropical rainforest|Low island city-state|Vertical farming|Imports over 90% of its food.
+Indonesia|Asia|Jakarta|1904569|278|Tropical rainforest|17,000+ volcanic islands|Palm oil, rice, coffee, cocoa, spices|The largest palm oil producer and home of the spice islands.
+Brunei|Asia|Bandar Seri Begawan|5765|0.45|Tropical rainforest|Borneo coast|Rice (minor)|Over 70% forested.
+Timor-Leste|Asia|Dili|14874|1.4|Tropical|Mountainous island|Coffee, maize|One of Asia's youngest nations (2002).
+# Europe|🇪🇺
+United Kingdom|Europe|London|243610|68|Temperate oceanic|Lowlands, Scottish Highlands|Wheat, barley, potatoes|Its farming revolution in the 1700s raised yields before industrialisation.
+Ireland|Europe|Dublin|70273|5.2|Temperate oceanic|Central lowland ringed by hills|Grass for livestock, potatoes|The Great Famine (1845–52) followed potato blight.
+France|Europe|Paris|551695|68|Oceanic to Mediterranean|Alps, Pyrenees, Massif Central, Paris Basin|Wheat, grapes, sugar beet|The EU's largest farm producer.
+Germany|Europe|Berlin|357022|84|Temperate|North European Plain, Alps|Wheat, barley, potatoes, sugar beet|Large, mechanised farms.
+Netherlands|Europe|Amsterdam|41543|18|Temperate oceanic|Low-lying polders, a quarter below sea level|Vegetables, flowers, potatoes|The second-largest agricultural exporter by value despite its size.
+Belgium|Europe|Brussels|30528|11.8|Temperate oceanic|Plains, Ardennes|Sugar beet, potatoes|Dense farmland.
+Luxembourg|Europe|Luxembourg|2586|0.67|Temperate|Ardennes plateau|Grapes|Small, wooded.
+Switzerland|Europe|Bern|41285|8.9|Alpine|Alps, Jura|Dairy, grapes|Glaciers are retreating fast.
+Austria|Europe|Vienna|83871|9.1|Alpine to continental|Eastern Alps|Grapes, dairy|Mostly mountainous.
+Italy|Europe|Rome|301340|59|Mediterranean|Alps, Apennines, Po Valley, volcanoes|Olives, grapes, tomatoes, wheat|The Po Valley is its farming heartland.
+Spain|Europe|Madrid|505990|48|Mediterranean to semi-arid|Meseta plateau, Pyrenees, Sierra Nevada|Olives, citrus, grapes|The world's largest olive oil producer.
+Portugal|Europe|Lisbon|92212|10.4|Mediterranean|Mountains in the north, plains in the south|Cork, olives, grapes|Produces half the world's cork.
+Greece|Europe|Athens|131957|10.4|Mediterranean|Mountains and ~6,000 islands|Olives, grapes, cotton|About 80% mountainous.
+Malta|Europe|Valletta|316|0.53|Mediterranean|Limestone islands|Vegetables|Very water-scarce.
+Cyprus|Europe/Asia|Nicosia|9251|1.3|Mediterranean|Troodos Mountains|Citrus, potatoes|Ophiolite rocks from ancient ocean floor.
+Iceland|Europe|Reykjavík|103000|0.39|Subarctic|Volcanoes, glaciers, lava fields|Grass, greenhouse vegetables|Sits on the Mid-Atlantic Ridge.
+Norway|Europe|Oslo|385207|5.5|Subarctic to oceanic|Fjords, mountains|Barley, potatoes|Only ~3% of land is farmable.
+Sweden|Europe|Stockholm|450295|10.5|Continental to subarctic|Forests, lakes|Barley, wheat|About 70% forested.
+Finland|Europe|Helsinki|338424|5.6|Subarctic|Lakes (~188,000), forests|Barley, oats|The 'land of a thousand lakes'.
+Denmark|Europe|Copenhagen|43094|5.9|Temperate|Flat lowlands|Barley, pork|About 60% farmland.
+Estonia|Europe|Tallinn|45339|1.3|Temperate|Flat, forested|Barley, rye|Half forested.
+Latvia|Europe|Riga|64589|1.9|Temperate|Lowlands|Wheat, rye|Forested lowlands.
+Lithuania|Europe|Vilnius|65300|2.8|Temperate|Lowlands|Wheat, rapeseed|Flat glacial landscape.
+Poland|Europe|Warsaw|312696|37|Temperate|North European Plain, Carpathians|Rye, potatoes, apples|Europe's top apple producer.
+Czechia|Europe|Prague|78871|10.9|Temperate|Bohemian Plateau|Wheat, hops|Famous for hops and beer.
+Slovakia|Europe|Bratislava|49035|5.4|Temperate|Carpathians|Wheat, maize|Mountainous north.
+Hungary|Europe|Budapest|93028|9.6|Continental|Great Hungarian Plain|Maize, wheat, paprika|Fertile plains along the Danube.
+Romania|Europe|Bucharest|238397|19|Continental|Carpathians, Danube delta|Maize, wheat, sunflower|The Danube Delta is Europe's best-preserved delta.
+Bulgaria|Europe|Sofia|110879|6.4|Continental|Balkan Mountains|Wheat, sunflower, rose oil|Produces much of the world's rose oil.
+Serbia|Europe|Belgrade|77474|6.6|Continental|Pannonian Plain|Maize, raspberries|A top raspberry exporter.
+Croatia|Europe|Zagreb|56594|3.9|Mediterranean to continental|Dinaric karst, Adriatic coast|Olives, grapes|Karst landscapes like Plitvice.
+Slovenia|Europe|Ljubljana|20273|2.1|Alpine to Mediterranean|Alps, Karst plateau|Grapes|The Karst region gave 'karst' its name.
+Bosnia and Herzegovina|Europe|Sarajevo|51197|3.2|Continental|Dinaric Alps|Maize, plums|Mountainous.
+Montenegro|Europe|Podgorica|13812|0.62|Mediterranean to alpine|Dinaric Alps|Grapes, olives|'Black Mountain'.
+Albania|Europe|Tirana|28748|2.8|Mediterranean|Mountains|Olives, vegetables|Mostly mountainous.
+North Macedonia|Europe|Skopje|25713|1.8|Continental|Mountains, Lake Ohrid|Tobacco, grapes|Lake Ohrid is among Europe's oldest lakes.
+Kosovo|Europe|Pristina|10887|1.8|Continental|Basins and mountains|Wheat, maize|Landlocked.
+Moldova|Europe|Chișinău|33846|2.5|Continental|Hilly plains with black earth|Grapes, sunflower|Rich chernozem soils.
+Ukraine|Europe|Kyiv|603550|37|Continental|Steppe, Carpathians|Wheat, maize, sunflower|'Breadbasket of Europe' on deep chernozem soils.
+Belarus|Europe|Minsk|207600|9.2|Continental|Plains, Polesie marshes|Potatoes, flax|Many wetlands.
+Andorra|Europe|Andorra la Vella|468|0.08|Alpine|Pyrenees|Tobacco|Entirely mountainous.
+Monaco|Europe|Monaco|2|0.04|Mediterranean|Coastal city-state|None|Second-smallest country.
+Liechtenstein|Europe|Vaduz|160|0.04|Alpine|Rhine valley and Alps|Dairy|Doubly landlocked.
+San Marino|Europe|San Marino|61|0.03|Mediterranean|Mount Titano|Grapes|One of the oldest republics.
+Vatican City|Europe|Vatican City|0.44|0.001|Mediterranean|City-state|None|The smallest country.
+# Africa|🌍
+Egypt|Africa|Cairo|1001450|114|Hot desert|Nile Valley and delta, Sahara|Cotton, wheat, rice, dates|About 95% of people live on the ~4% of land along the Nile.
+Libya|Africa|Tripoli|1759540|7|Hot desert|Sahara (over 90%)|Dates, olives|The Great Man-Made River pipes fossil groundwater.
+Tunisia|Africa|Tunis|163610|12|Mediterranean to desert|Atlas Mountains, Sahara|Olives, dates|A major olive oil exporter.
+Algeria|Africa|Algiers|2381741|46|Hot desert|Sahara (over 80%), Atlas|Wheat, dates|Africa's largest country.
+Morocco|Africa|Rabat|446550|37|Mediterranean to desert|Atlas Mountains, Sahara|Citrus, olives, argan|Argan trees grow only here naturally.
+Western Sahara|Africa|Laayoune (disputed)|266000|0.6|Hot desert|Desert|Minimal|A disputed territory.
+Mauritania|Africa|Nouakchott|1030700|5|Hot desert|Sahara, Richat Structure ('Eye of the Sahara')|Dates, millet|About 90% desert.
+Mali|Africa|Bamako|1240192|23|Hot semi-arid to desert|Sahel, Niger Inland Delta|Millet, sorghum, cotton|Timbuktu sits at the Sahara's edge.
+Niger|Africa|Niamey|1267000|27|Hot desert|Sahara, Sahel|Millet, cowpeas|Farmer-managed natural regeneration restored ~5 million hectares of trees.
+Chad|Africa|N'Djamena|1284000|19|Hot desert to savanna|Sahara, Lake Chad|Millet, sorghum|Lake Chad shrank ~90% since the 1960s.
+Sudan|Africa|Khartoum|1886068|48|Hot desert|Nile, Sahara, Sahel|Sorghum, gum arabic|Produces most of the world's gum arabic.
+South Sudan|Africa|Juba|619745|11|Tropical savanna|The Sudd, a vast swamp|Sorghum, cassava|The Sudd is one of the largest wetlands.
+Ethiopia|Africa|Addis Ababa|1104300|128|Highland tropical|Ethiopian Highlands, Danakil Depression|Teff, coffee, sorghum|The birthplace of coffee and teff.
+Eritrea|Africa|Asmara|117600|3.7|Hot desert|Highlands, Danakil|Sorghum|Dry and mountainous.
+Djibouti|Africa|Djibouti|23200|1.1|Hot desert|Lake Assal (−155 m, Africa's lowest point)|Minimal|One of the hottest countries.
+Somalia|Africa|Mogadishu|637657|18|Hot semi-arid|Plateaus, coast|Livestock, bananas|Repeated droughts, including 2020–23.
+Kenya|Africa|Nairobi|580367|55|Tropical to arid|Great Rift Valley, highlands, Mount Kenya|Tea, coffee, flowers|A top tea exporter.
+Uganda|Africa|Kampala|241550|48|Tropical|Lake Victoria basin, Rwenzori|Coffee, bananas, cassava|Bananas are a staple (matoke).
+Tanzania|Africa|Dodoma|945087|67|Tropical|Kilimanjaro, Serengeti, Lake Tanganyika|Maize, cassava, cashews, cloves|Kilimanjaro is Africa's highest point (5,895 m).
+Rwanda|Africa|Kigali|26338|14|Highland tropical|'Land of a thousand hills'|Tea, coffee, bananas|Densely farmed hills.
+Burundi|Africa|Gitega|27834|13|Highland tropical|Hills, Lake Tanganyika|Coffee, tea|Densely populated.
+DR Congo|Africa|Kinshasa|2344858|109|Tropical rainforest|Congo Basin rainforest|Cassava, plantains|Holds much of the world's second-largest rainforest.
+Republic of the Congo|Africa|Brazzaville|342000|6|Tropical rainforest|Congo Basin|Cassava|Rainforest and peatlands.
+Gabon|Africa|Libreville|267668|2.4|Tropical rainforest|Rainforest (~88% cover)|Cassava, cocoa|One of the most forested countries.
+Cameroon|Africa|Yaoundé|475442|28|Tropical|Mount Cameroon, savanna, rainforest|Cocoa, coffee, bananas|'Africa in miniature'.
+Central African Republic|Africa|Bangui|622984|5.7|Tropical savanna|Plateau|Cassava, cotton|Landlocked savanna.
+Equatorial Guinea|Africa|Malabo|28051|1.7|Tropical|Islands and mainland forest|Cocoa|Oil-rich.
+Nigeria|Africa|Abuja|923768|224|Tropical to semi-arid|Niger–Benue rivers, savanna, delta|Cassava, yams, sorghum|The world's largest cassava and yam producer.
+Ghana|Africa|Accra|238533|34|Tropical|Lake Volta|Cocoa, cassava|The second-largest cocoa producer.
+Côte d'Ivoire|Africa|Yamoussoukro|322463|29|Tropical|Rainforest, savanna|Cocoa, cashews|The largest cocoa producer.
+Liberia|Africa|Monrovia|111369|5.4|Tropical rainforest|Upper Guinean forest|Rubber, rice|Rainforest.
+Sierra Leone|Africa|Freetown|71740|8.6|Tropical|Coastal plains, plateau|Rice, cocoa|Wet tropical climate.
+Guinea|Africa|Conakry|245857|14|Tropical|Fouta Djallon highlands ('water tower of West Africa')|Rice, bananas|Source of the Niger and Senegal rivers.
+Guinea-Bissau|Africa|Bissau|36125|2.1|Tropical|Coastal mangroves|Cashews, rice|Cashews dominate exports.
+Senegal|Africa|Dakar|196722|18|Semi-arid|Sahel, river valley|Groundnuts, millet|Part of the Great Green Wall initiative.
+The Gambia|Africa|Banjul|11295|2.8|Tropical savanna|Gambia River valley|Groundnuts|Africa's smallest mainland country.
+Burkina Faso|Africa|Ouagadougou|274200|23|Semi-arid|Sahel plateau|Sorghum, millet, cotton|Farmers revived 'zaï' planting pits to restore degraded land.
+Benin|Africa|Porto-Novo|114763|14|Tropical|Coastal plain, savanna|Cotton, cassava|A major cotton grower.
+Togo|Africa|Lomé|56785|9|Tropical|Coastal plain, hills|Cotton, coffee|Narrow country.
+Cabo Verde|Africa|Praia|4033|0.6|Arid|Volcanic islands|Maize, beans|Drought-prone islands.
+São Tomé and Príncipe|Africa|São Tomé|964|0.23|Tropical|Volcanic islands|Cocoa|Fine cocoa.
+Angola|Africa|Luanda|1246700|37|Tropical to desert|Plateau, Namib in the south|Cassava, coffee|Diverse landscapes.
+Zambia|Africa|Lusaka|752612|21|Subtropical highland|Plateau, Victoria Falls|Maize|Maize-dependent, hit by the 2024 drought.
+Zimbabwe|Africa|Harare|390757|17|Subtropical|Highveld plateau|Maize, tobacco|The 2024 El Niño drought cut harvests sharply.
+Malawi|Africa|Lilongwe|118484|21|Subtropical|Great Rift Valley, Lake Malawi|Maize, tobacco, tea|Lake Malawi has the most fish species of any lake.
+Mozambique|Africa|Maputo|801590|34|Tropical|Coastal plain|Cassava, cashews|Cyclone-prone (Idai 2019).
+Botswana|Africa|Gaborone|581730|2.7|Semi-arid|Kalahari, Okavango Delta|Livestock, sorghum|The Okavango is an inland delta.
+Namibia|Africa|Windhoek|825615|3|Desert|Namib Desert, the oldest desert|Livestock|The Namib is ~55–80 million years old.
+South Africa|Africa|Pretoria|1221037|62|Semi-arid to Mediterranean|Highveld, Drakensberg, Karoo|Maize, wine grapes, citrus|The Cape Floral Kingdom is a biodiversity hotspot.
+Lesotho|Africa|Maseru|30355|2.3|Highland|Entirely above 1,400 m|Maize|The highest low point of any country.
+Eswatini|Africa|Mbabane|17364|1.2|Subtropical|Highveld to lowveld|Sugarcane|Small and landlocked.
+Madagascar|Africa|Antananarivo|587041|30|Tropical|Central highlands, rainforest, spiny forest|Rice, vanilla, cloves|Produces most of the world's vanilla.
+Mauritius|Africa|Port Louis|2040|1.3|Tropical|Volcanic island|Sugarcane|Former home of the dodo.
+Seychelles|Africa|Victoria|459|0.1|Tropical|Granite and coral islands|Coconut, cinnamon|Granite islands older than most.
+Comoros|Africa|Moroni|2235|0.85|Tropical|Volcanic islands|Vanilla, ylang-ylang|A top ylang-ylang producer.
+# North America|🌎
+United States|North America|Washington, D.C.|9833520|335|Every climate from Arctic to tropical|Rockies, Great Plains, Appalachians, deserts|Maize, soybeans, wheat, cotton|The largest maize and soybean producer; the Dust Bowl reshaped soil science.
+Canada|North America|Ottawa|9984670|40|Subarctic to temperate|Canadian Shield, Prairies, Rockies, Arctic|Wheat, canola, lentils|The largest lentil exporter.
+Mexico|North America|Mexico City|1964375|129|Arid to tropical|Sierra Madre, Mexican Plateau, Yucatán|Maize, avocados, chillies|Where maize was domesticated ~9,000 years ago.
+Guatemala|North America|Guatemala City|108889|18|Tropical|Volcanic highlands|Coffee, cardamom, bananas|The largest cardamom exporter.
+Belize|North America|Belmopan|22966|0.41|Tropical|Lowlands|Sugar, citrus|Maya Mountains.
+Honduras|North America|Tegucigalpa|112492|10.5|Tropical|Mountains|Coffee, bananas|Mountainous.
+El Salvador|North America|San Salvador|21041|6.3|Tropical|Volcanoes|Coffee|Smallest Central American country.
+Nicaragua|North America|Managua|130373|7|Tropical|Lakes, volcanoes|Coffee, beef|Lake Nicaragua has freshwater sharks.
+Costa Rica|North America|San José|51100|5.2|Tropical|Volcanic highlands, rainforest|Coffee, pineapple, bananas|Doubled forest cover since the 1980s.
+Panama|North America|Panama City|75417|4.4|Tropical|Isthmus|Bananas|The Panama Canal depends on rainfall; the 2023 drought cut traffic.
+Cuba|North America|Havana|109884|11|Tropical|Plains and Sierra Maestra|Sugarcane, tobacco|Famous for tobacco.
+Jamaica|North America|Kingston|10991|2.8|Tropical|Blue Mountains|Coffee, sugar|Blue Mountain coffee.
+Haiti|North America|Port-au-Prince|27750|11.7|Tropical|Mountainous|Coffee, mangoes|Severe deforestation and erosion.
+Dominican Republic|North America|Santo Domingo|48671|11|Tropical|Pico Duarte, highest Caribbean peak|Cocoa, sugar|Major organic cocoa producer.
+Bahamas|North America|Nassau|13943|0.41|Tropical|Low coral islands|Minimal|Very low-lying.
+Trinidad and Tobago|North America|Port of Spain|5128|1.5|Tropical|Islands|Cocoa|Pitch Lake is a natural asphalt lake.
+Barbados|North America|Bridgetown|430|0.28|Tropical|Coral island|Sugarcane|Flat coral island.
+Saint Lucia|North America|Castries|616|0.18|Tropical|Volcanic Pitons|Bananas|The Pitons are volcanic spires.
+Grenada|North America|St. George's|344|0.13|Tropical|Volcanic island|Nutmeg|The 'Spice Isle'.
+Saint Vincent and the Grenadines|North America|Kingstown|389|0.1|Tropical|Volcanic|Bananas, arrowroot|La Soufrière erupted in 2021.
+Antigua and Barbuda|North America|St. John's|442|0.1|Tropical|Low islands|Minimal|Dry islands.
+Dominica|North America|Roseau|751|0.07|Tropical|Volcanic, rainforest|Bananas|Has a boiling lake.
+Saint Kitts and Nevis|North America|Basseterre|261|0.05|Tropical|Volcanic|Sugar (former)|Smallest country in the Americas.
+# South America|🌎
+Brazil|South America|Brasília|8515767|216|Tropical|Amazon rainforest, Cerrado, Pantanal, Atlantic Forest|Soybeans, coffee, sugarcane, oranges|The largest coffee, soybean, sugarcane and orange-juice producer; Amazon deforestation hit a record low in 2025–26.
+Argentina|South America|Buenos Aires|2780400|46|Temperate to arid|Pampas, Andes, Patagonia|Soybeans, wheat, maize, beef|The Pampas have some of the world's most fertile soils.
+Chile|South America|Santiago|756102|19.6|Desert to temperate|Atacama Desert, Andes|Grapes, cherries, copper|The Atacama is the driest non-polar desert.
+Peru|South America|Lima|1285216|34|Arid coast, highland, rainforest|Andes, Amazon, coastal desert|Potatoes, quinoa, coffee, avocados|Potatoes were domesticated near Lake Titicaca.
+Bolivia|South America|Sucre / La Paz|1098581|12|Highland to tropical|Altiplano, Salar de Uyuni|Soybeans, quinoa, potatoes|Salar de Uyuni is the largest salt flat.
+Ecuador|South America|Quito|283561|18|Tropical to highland|Andes, Amazon, Galápagos|Bananas, cocoa, shrimp|The largest banana exporter.
+Colombia|South America|Bogotá|1141748|52|Tropical|Andes (three ranges), Amazon, Caribbean coast|Coffee, flowers, bananas|The most bird species of any country.
+Venezuela|South America|Caracas|916445|28|Tropical|Andes, Llanos, Guiana Highlands|Maize, cocoa|Angel Falls is the highest waterfall (979 m).
+Guyana|South America|Georgetown|214969|0.8|Tropical|Guiana Shield rainforest|Rice, sugar|About 85% forested.
+Suriname|South America|Paramaribo|163820|0.62|Tropical|Rainforest|Rice|Most forested country by share (~93%).
+Paraguay|South America|Asunción|406752|6.9|Subtropical|Chaco, Paraná plateau|Soybeans, beef|Itaipu dam supplies power.
+Uruguay|South America|Montevideo|176215|3.4|Temperate|Rolling grasslands|Beef, rice, soy|Grasslands for cattle.
+# Oceania|🌏
+Australia|Oceania|Canberra|7692024|26.5|Arid to tropical|Outback, Great Dividing Range, Great Barrier Reef|Wheat, barley, beef, wool|The driest inhabited continent, prone to severe drought and bushfire.
+New Zealand|Oceania|Wellington|268021|5.2|Temperate oceanic|Southern Alps, volcanic plateau|Dairy, kiwifruit, apples|Kiwifruit became a global crop here.
+Papua New Guinea|Oceania|Port Moresby|462840|10|Tropical|Highlands, rainforest|Coffee, palm oil, sweet potato|One of the world's early centres of agriculture (Kuk swamp).
+Fiji|Oceania|Suva|18274|0.93|Tropical|Volcanic islands|Sugarcane|Over 300 islands.
+Solomon Islands|Oceania|Honiara|28896|0.75|Tropical|Volcanic islands|Coconut, palm oil|Rainforested islands.
+Vanuatu|Oceania|Port Vila|12189|0.33|Tropical|Volcanic|Coconut, kava|Very cyclone-prone.
+Samoa|Oceania|Apia|2842|0.22|Tropical|Volcanic islands|Coconut, taro|Lava fields.
+Tonga|Oceania|Nukuʻalofa|747|0.1|Tropical|Coral and volcanic|Squash, vanilla|Hunga Tonga eruption in 2022.
+Kiribati|Oceania|Tarawa|811|0.13|Tropical|Atolls|Coconut|Atolls barely above sea level.
+Tuvalu|Oceania|Funafuti|26|0.01|Tropical|Atolls|Coconut, pulaka|Threatened by sea-level rise.
+Nauru|Oceania|Yaren (de facto)|21|0.01|Tropical|Phosphate island|Minimal|Mined for phosphate.
+Marshall Islands|Oceania|Majuro|181|0.04|Tropical|Atolls|Coconut|Low atolls.
+Micronesia|Oceania|Palikir|702|0.11|Tropical|Islands|Breadfruit|Hundreds of islands.
+Palau|Oceania|Ngerulmud|459|0.02|Tropical|Rock islands|Taro|Limestone 'rock islands'.

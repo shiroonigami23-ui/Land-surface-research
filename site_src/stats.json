@@ -1,0 +1,221 @@
+{
+ "charts": {
+  "landuse": {
+   "type": "donut",
+   "title": "How the world's habitable land is used",
+   "labels": [
+    "Agriculture",
+    "Forests",
+    "Shrubland",
+    "Freshwater",
+    "Urban & built-up"
+   ],
+   "values": [
+    50,
+    37,
+    11,
+    1,
+    1
+   ],
+   "note": "Percent of habitable land (71% of all land; the rest is glaciers 10% and barren 19%). Our World in Data from FAO."
+  },
+  "agri": {
+   "type": "donut",
+   "title": "Agricultural land: livestock vs crops",
+   "labels": [
+    "Livestock (grazing + feed crops)",
+    "Crops for people"
+   ],
+   "values": [
+    77,
+    23
+   ],
+   "note": "Share of agricultural land. Livestock supplies ~18% of calories. Our World in Data / Poore & Nemecek 2018."
+  },
+  "glacier": {
+   "type": "vbar",
+   "title": "Global glacier mass loss (Gt per year)",
+   "labels": [
+    "1976–1995",
+    "2016–2025 avg",
+    "2025"
+   ],
+   "values": [
+    100,
+    390,
+    408
+   ],
+   "unit": " Gt",
+   "source": "WGMS / World Glacier Monitoring Service (1976–95 shown as upper bound of <100 Gt)",
+   "hl": [
+    2
+   ]
+  },
+  "amazon": {
+   "type": "line",
+   "title": "Amazon deforestation in Brazil (PRODES, km²/yr)",
+   "x": [
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+   ],
+   "series": [
+    {
+     "name": "Clear-cut area",
+     "values": [
+      10129,
+      10851,
+      13038,
+      11594,
+      9001,
+      6288,
+      5796,
+      3335
+     ]
+    }
+   ],
+   "source": "INPE PRODES (Aug–Jul years; 2026 preliminary)",
+   "ymin": 0
+  },
+  "monsoon26": {
+   "type": "hbar",
+   "title": "India's 2026 monsoon: rainfall as % of normal",
+   "labels": [
+    "All India",
+    "South Peninsula",
+    "East & Northeast"
+   ],
+   "values": [
+    87,
+    76,
+    74
+   ],
+   "unit": "%",
+   "source": "India Meteorological Department, end-of-season statement (Sept 2026)"
+  },
+  "crops": {
+   "type": "hbar",
+   "title": "World's biggest crops by tonnage (approx., billion t/yr)",
+   "labels": [
+    "Sugarcane",
+    "Maize",
+    "Wheat",
+    "Rice (paddy)",
+    "Potatoes",
+    "Soybeans",
+    "Cassava"
+   ],
+   "values": [
+    1.9,
+    1.16,
+    0.81,
+    0.78,
+    0.37,
+    0.35,
+    0.33
+   ],
+   "unit": " bn t",
+   "source": "FAOSTAT 2022, rounded"
+  },
+  "wettest": {
+   "type": "hbar",
+   "title": "Wettest and driest places (average mm/yr)",
+   "labels": [
+    "Mawsynram, India",
+    "Cherrapunji, India",
+    "Lloró, Colombia",
+    "Mumbai",
+    "Delhi",
+    "London",
+    "Cairo",
+    "Arica, Chile"
+   ],
+   "values": [
+    11871,
+    11777,
+    12717,
+    2200,
+    780,
+    600,
+    25,
+    1
+   ],
+   "unit": " mm",
+   "source": "Long-term station averages (WMO, IMD; rounded)",
+   "log": true
+  },
+  "rainfall": {
+   "type": "hbar",
+   "title": "Average annual rainfall by climate type (mm)",
+   "labels": [
+    "Tropical rainforest",
+    "Tropical monsoon",
+    "Humid subtropical",
+    "Tropical savanna",
+    "Oceanic",
+    "Mediterranean",
+    "Semi-arid",
+    "Hot desert"
+   ],
+   "values": [
+    2500,
+    2000,
+    1300,
+    1100,
+    900,
+    600,
+    450,
+    100
+   ],
+   "unit": " mm",
+   "source": "Typical mid-range values of Köppen classes"
+  },
+  "degraded": {
+   "type": "donut",
+   "title": "Where the world's degraded land is",
+   "labels": [
+    "Sub-Saharan Africa",
+    "Rest of the world"
+   ],
+   "values": [
+    45,
+    55
+   ],
+   "note": "UNCCD / Down To Earth, 2026: land degradation and drought cost ~$878 bn a year."
+  }
+ },
+ "groups": [
+  {
+   "id": "land",
+   "title": "🌍 Land use",
+   "charts": [
+    "landuse",
+    "agri",
+    "degraded"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "🌦 Rain, ice and climate",
+   "charts": [
+    "monsoon26",
+    "wettest",
+    "rainfall",
+    "glacier"
+   ]
+  },
+  {
+   "id": "forests",
+   "title": "🌳 Forests and farms",
+   "charts": [
+    "amazon",
+    "crops"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+name: Build & validate research site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scripts/requirements.txt
+      - name: Regenerate figures (smoke test)
+        run: python scripts/generate_figures.py
+      - name: Build the encyclopedia site (PDF export skipped in CI)
+        run: SKIP_PDF=1 python scripts/build_site.py
+      - name: Check links and images (Markdown + generated HTML)
+        run: python scripts/check_links.py

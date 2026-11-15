@@ -1,0 +1,52 @@
+@file protected.json
+@fields name|ptype|country|state|area_km2|established|known_for|summary|wiki
+# India: national parks & tiger reserves|🐯
+Jim Corbett National Park|National park & tiger reserve|India|Uttarakhand|1318|1936|Bengal tigers, elephants, gharials|India's first national park (as Hailey NP), where Project Tiger was launched in 1973.|Jim_Corbett_National_Park
+Kaziranga National Park|National park & tiger reserve|India|Assam|1307|1974|Indian rhinoceros (about two-thirds of the world's), tigers, wild buffalo|UNESCO site on the Brahmaputra floodplain; floods every monsoon.|Kaziranga_National_Park
+Ranthambore National Park|National park & tiger reserve|India|Rajasthan|1334|1980|Tigers hunting by day amid a 10th-century fort|Dry deciduous forest famous for tiger photography.|Ranthambore_National_Park
+Kanha National Park|National park & tiger reserve|India|Madhya Pradesh|940|1955|Barasingha (saved from extinction), tigers|Inspired Kipling's The Jungle Book landscape.|Kanha_Tiger_Reserve
+Bandhavgarh National Park|National park & tiger reserve|India|Madhya Pradesh|1536|1968|One of the highest tiger densities|Home of white tigers' origin (Mohan, 1951).|Bandhavgarh_National_Park
+Sundarbans National Park|National park & tiger reserve|India|West Bengal|1330|1984|Mangrove tigers that swim|Part of the world's largest mangrove forest; UNESCO site.|Sundarbans_National_Park
+Gir National Park|National park & sanctuary|India|Gujarat|1412|1965|The last wild Asiatic lions|Lions grew from ~20 in the early 1900s to ~891 in 2025.|Gir_National_Park
+Periyar National Park|National park & tiger reserve|India|Kerala|925|1982|Elephants around Periyar Lake|Run with former poachers as guides.|Periyar_National_Park
+Bandipur National Park|National park & tiger reserve|India|Karnataka|874|1974|Tigers and elephants in the Nilgiri Biosphere|Part of the largest tiger–elephant landscape in India.|Bandipur_National_Park
+Nagarhole National Park|National park & tiger reserve|India|Karnataka|643|1988|Tigers, leopards, dholes|Kabini backwaters draw elephant herds.|Nagarhole_National_Park
+Tadoba Andhari Tiger Reserve|Tiger reserve|India|Maharashtra|1727|1955|Tigers|Maharashtra's oldest national park.|Tadoba_Andhari_Tiger_Reserve
+Pench National Park|National park & tiger reserve|India|Madhya Pradesh / Maharashtra|758|1975|Tigers|Setting of The Jungle Book's Seeonee hills.|Pench_National_Park
+Satpura National Park|National park & tiger reserve|India|Madhya Pradesh|524|1981|Walking and canoe safaris|Rugged sandstone hills.|Satpura_National_Park
+Manas National Park|National park & tiger reserve|India|Assam|500|1990|Pygmy hog, golden langur, Bengal florican|UNESCO site bordering Bhutan.|Manas_National_Park
+Hemis National Park|National park|India|Ladakh|4400|1981|Snow leopards|India's largest national park.|Hemis_National_Park
+Great Himalayan National Park|National park|India|Himachal Pradesh|1171|1984|Western tragopan, musk deer|UNESCO site.|Great_Himalayan_National_Park
+Valley of Flowers National Park|National park|India|Uttarakhand|87|1982|Alpine wildflowers|UNESCO site with Nanda Devi NP.|Valley_of_Flowers_National_Park
+Silent Valley National Park|National park|India|Kerala|90|1984|Lion-tailed macaque|Saved from a dam by the 'Save Silent Valley' movement.|Silent_Valley_National_Park
+Keoladeo National Park|National park|India|Rajasthan|29|1982|Over 370 bird species|Bharatpur's man-made wetland; UNESCO site.|Keoladeo_National_Park
+Desert National Park|National park|India|Rajasthan|3162|1980|Great Indian bustard|Fossils of 180-million-year-old wood.|Desert_National_Park
+Kuno National Park|National park|India|Madhya Pradesh|748|2018|Reintroduced cheetahs (since 2022)|India's cheetah project site.|Kuno_National_Park
+Eravikulam National Park|National park|India|Kerala|97|1978|Nilgiri tahr; Neelakurinji|Shola–grassland hills near Munnar.|Eravikulam_National_Park
+Keibul Lamjao National Park|National park|India|Manipur|40|1977|Sangai deer|The only floating national park.|Keibul_Lamjao_National_Park
+Namdapha National Park|National park|India|Arunachal Pradesh|1985|1983|Four big cats incl. snow leopard and clouded leopard|One of India's richest biodiversity areas.|Namdapha_National_Park
+Little Rann of Kutch Wild Ass Sanctuary|Wildlife sanctuary|India|Gujarat|4954|1972|Indian wild ass|A seasonal salt desert.|Indian_Wild_Ass_Sanctuary
+Chambal Sanctuary|Wildlife sanctuary|India|MP / Rajasthan / UP|5400|1979|Gharial, Ganges river dolphin|Holds most of the world's gharials.|National_Chambal_Sanctuary
+Nilgiri Biosphere Reserve|Biosphere reserve|India|Tamil Nadu / Kerala / Karnataka|5520|1986|Tigers, elephants|India's first biosphere reserve.|Nilgiri_Biosphere_Reserve
+# Protected areas worldwide|🌐
+Yellowstone National Park|National park|USA|Wyoming|8983|1872|Geysers, bison, wolves|The world's first national park.|Yellowstone_National_Park
+Yosemite National Park|National park|USA|California|3027|1890|Granite cliffs, giant sequoias|Inspired John Muir's conservation movement.|Yosemite_National_Park
+Grand Canyon National Park|National park|USA|Arizona|4926|1919|The Grand Canyon|~2 billion years of rock exposed.|Grand_Canyon_National_Park
+Serengeti National Park|National park|Tanzania|Mara region|14763|1951|The great migration|UNESCO site.|Serengeti_National_Park
+Maasai Mara National Reserve|National reserve|Kenya|Narok|1510|1961|Big cats, migration river crossings|Managed with Maasai communities.|Maasai_Mara
+Kruger National Park|National park|South Africa|Limpopo / Mpumalanga|19485|1926|Big Five|One of Africa's largest parks.|Kruger_National_Park
+Okavango Delta|World Heritage site|Botswana|North-West District|20000|2014|Elephants, wetlands|An inland delta in a desert.|Okavango_Delta
+Virunga National Park|National park|DR Congo|North Kivu|7800|1925|Mountain gorillas, volcanoes|Africa's oldest national park.|Virunga_National_Park
+Galápagos National Park|National park|Ecuador|Galápagos|7995|1959|Giant tortoises, finches|Inspired Darwin's theory of evolution.|Galápagos_National_Park
+Central Amazon Conservation Complex|World Heritage site|Brazil|Amazonas|52323|2000|Rainforest, river dolphins|The largest protected area in the Amazon basin.|Central_Amazon_Conservation_Complex
+Torres del Paine National Park|National park|Chile|Patagonia|1814|1959|Granite towers, pumas|Patagonian icon.|Torres_del_Paine_National_Park
+Sagarmatha National Park|National park|Nepal|Khumbu|1148|1976|Mount Everest|UNESCO site.|Sagarmatha_National_Park
+Chitwan National Park|National park|Nepal|Terai|953|1973|Rhinos, tigers|Nepal's first national park.|Chitwan_National_Park
+Komodo National Park|National park|Indonesia|Lesser Sunda Islands|1733|1980|Komodo dragons|UNESCO site.|Komodo_National_Park
+Great Barrier Reef Marine Park|Marine park|Australia|Queensland|344400|1975|Coral reefs|Largest reef system.|Great_Barrier_Reef_Marine_Park
+Kakadu National Park|National park|Australia|Northern Territory|19804|1979|Aboriginal rock art, wetlands|Jointly managed with Aboriginal owners.|Kakadu_National_Park
+Uluru-Kata Tjuta National Park|National park|Australia|Northern Territory|1326|1950|Uluru sandstone monolith|Sacred to the Anangu people.|Uluṟu-Kata_Tjuṯa_National_Park
+Banff National Park|National park|Canada|Alberta|6641|1885|Rockies, glacial lakes|Canada's first national park.|Banff_National_Park
+Białowieża Forest|National park|Poland / Belarus|Podlaskie|1417|1932|European bison, primeval forest|One of Europe's last old-growth lowland forests.|Białowieża_Forest
+Wolong National Nature Reserve|Nature reserve|China|Sichuan|2000|1963|Giant pandas|Centre of panda conservation.|Wolong_National_Nature_Reserve
+Northeast Greenland National Park|National park|Greenland (Denmark)|Northeast Greenland|972000|1974|Musk oxen, polar bears|The largest national park in the world.|Northeast_Greenland_National_Park

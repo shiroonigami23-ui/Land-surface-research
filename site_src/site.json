@@ -1,0 +1,1271 @@
+{
+ "name": "Land & Field Research",
+ "logo": "🌍",
+ "kicker": "The land-surface encyclopedia",
+ "tagline": "Every country and continent, every kind of land from mountain tops and plateaus to deserts and ice, the soils beneath them, the rain and drought above them, and the crops and fruits they grow: in-depth, sourced and live.",
+ "footer": "An independent encyclopedia of Earth's land built from FAO, UNCCD, IMD, WGMS, USDA and national data, peer-reviewed papers and open datasets.",
+ "github": "shiroonigami23-ui/land-surface-research",
+ "theme_default": "light",
+ "reviewed": "2026-11-15",
+ "hero_anim": "terrain",
+ "stats": [
+  [
+   "198",
+   "countries & territories"
+  ],
+  [
+   "7",
+   "continents"
+  ],
+  [
+   "~40%",
+   "of land degraded (UN, 2026)"
+  ],
+  [
+   "8,849 m",
+   "Mount Everest"
+  ],
+  [
+   "87%",
+   "India's 2026 monsoon vs normal"
+  ],
+  [
+   "378",
+   "land species profiled"
+  ]
+ ],
+ "featured": [
+  "how-land-forms",
+  "soils-of-india",
+  "rainfall-and-the-monsoon",
+  "deserts-of-the-world",
+  "origins-of-agriculture",
+  "droughts"
+ ],
+ "repo_map": {},
+ "sections": [
+  {
+   "id": "earth",
+   "icon": "🌍",
+   "title": "Earth's Land",
+   "desc": "How continents, mountains, plateaus, deserts, ice and every kind of land region formed and what lives there.",
+   "pages": [
+    "how-land-forms",
+    "mountains-and-plateaus",
+    "deserts-of-the-world",
+    "snow-ice-and-permafrost",
+    "forests-grasslands-and-wetlands",
+    "india-physical-geography"
+   ]
+  },
+  {
+   "id": "climate",
+   "icon": "🌦",
+   "title": "Climate, Rain & Drought",
+   "desc": "Climate zones, rainfall patterns, the monsoon, droughts and how a warming climate is changing land.",
+   "pages": [
+    "climate-zones-explained",
+    "rainfall-and-the-monsoon",
+    "droughts",
+    "climate-change-on-land"
+   ]
+  },
+  {
+   "id": "soil",
+   "icon": "🟤",
+   "title": "Soils",
+   "desc": "What soil is, how it forms, the world's and India's soil types, and how soil is lost and restored.",
+   "pages": [
+    "what-is-soil",
+    "soils-of-india",
+    "land-degradation-and-desertification"
+   ]
+  },
+  {
+   "id": "farming",
+   "icon": "🌾",
+   "title": "Crops & Farming",
+   "desc": "The origins of agriculture, the crops and fruits of every climate, and how the world feeds itself.",
+   "pages": [
+    "origins-of-agriculture",
+    "crops-and-climate",
+    "fruits-of-the-world",
+    "green-revolution-and-food-security"
+   ]
+  },
+  {
+   "id": "data",
+   "icon": "📡",
+   "title": "Data & Tracker",
+   "desc": "The live land-research tracker and open datasets.",
+   "pages": [
+    "tracker",
+    "open-datasets"
+   ]
+  }
+ ],
+ "collections": [
+  {
+   "name_key": "name",
+   "live_photos": true,
+   "studies": true,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "sounds": false,
+   "id": "countries",
+   "icon": "🗺",
+   "title": "Countries of the World",
+   "short": "All 198 countries and territories",
+   "noun": "countries",
+   "desc": "Every country: continent, capital, area, population, climate, landscape and the crops it grows, with a live photo, a full Wikipedia article and current research.",
+   "file": "data/countries.json",
+   "sub_key": "continent",
+   "group_key": "group",
+   "glance": true,
+   "facts": [
+    [
+     "continent",
+     "Continent"
+    ],
+    [
+     "capital",
+     "Capital"
+    ],
+    [
+     "area_km2",
+     "Area (km²)"
+    ],
+    [
+     "pop_m",
+     "Population (millions)"
+    ],
+    [
+     "climate",
+     "Climate"
+    ]
+   ],
+   "texts": [
+    [
+     "landscape",
+     "Landscape & land regions"
+    ],
+    [
+     "crops",
+     "Crops & fruits grown"
+    ],
+    [
+     "summary",
+     "At a glance"
+    ]
+   ],
+   "columns": [
+    [
+     "continent",
+     "Continent"
+    ],
+    [
+     "capital",
+     "Capital"
+    ],
+    [
+     "area_km2",
+     "Area km²"
+    ],
+    [
+     "pop_m",
+     "Pop. (m)"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count_donut",
+     "key": "continent",
+     "title": "Countries per continent"
+    },
+    {
+     "type": "top",
+     "key": "area_km2",
+     "title": "Largest countries (km²)",
+     "n": 15,
+     "log": true
+    },
+    {
+     "type": "top",
+     "key": "pop_m",
+     "title": "Most populous (millions)",
+     "n": 15
+    },
+    {
+     "type": "scatter",
+     "x": "area_km2",
+     "y": "pop_m",
+     "title": "Area vs population",
+     "logx": true,
+     "logy": true,
+     "xlabel": "Area (km²)",
+     "ylabel": "Population (millions)"
+    }
+   ],
+   "links": [
+    {
+     "type": "rmatch",
+     "coll": "continents",
+     "mine": "continent",
+     "label": "🌍 Continent",
+     "theirs": "name"
+    },
+    {
+     "type": "backname",
+     "coll": "landforms",
+     "theirs": "country",
+     "label": "⛰ Landforms here"
+    },
+    {
+     "type": "backname",
+     "coll": "protected",
+     "theirs": "country",
+     "label": "🛡 Protected areas"
+    },
+    {
+     "type": "backname",
+     "coll": "places",
+     "theirs": "country",
+     "label": "💧 Waterfalls, dams & caves"
+    }
+   ],
+   "visual": {
+    "type": "size",
+    "key": "area_km2",
+    "ref": 3287263,
+    "refname": "India",
+    "label": "name"
+   },
+   "prompt": "Photorealistic aerial landscape photograph of {name}: its most characteristic terrain, farmland and natural scenery, golden hour, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "live_photos": true,
+   "studies": true,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "sounds": false,
+   "id": "continents",
+   "icon": "🌍",
+   "title": "Continents",
+   "short": "All 7 continents",
+   "noun": "continents",
+   "desc": "The seven continents: size, people, countries, highest and lowest points, deserts and character.",
+   "file": "data/continents.json",
+   "group_key": "group",
+   "facts": [
+    [
+     "area_km2",
+     "Area (km²)"
+    ],
+    [
+     "pop_m",
+     "Population (millions)"
+    ],
+    [
+     "countries",
+     "Countries"
+    ],
+    [
+     "highest",
+     "Highest point"
+    ],
+    [
+     "lowest",
+     "Lowest point"
+    ],
+    [
+     "largest_desert",
+     "Largest desert"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ]
+   ],
+   "columns": [
+    [
+     "area_km2",
+     "Area km²"
+    ],
+    [
+     "pop_m",
+     "Pop. (m)"
+    ],
+    [
+     "countries",
+     "Countries"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "top",
+     "key": "area_km2",
+     "title": "Area (km²)",
+     "n": 7
+    },
+    {
+     "type": "top",
+     "key": "pop_m",
+     "title": "Population (millions)",
+     "n": 7
+    }
+   ],
+   "links": [
+    {
+     "type": "backname",
+     "coll": "countries",
+     "theirs": "continent",
+     "label": "🗺 Countries"
+    }
+   ],
+   "prompt": "Photorealistic satellite view of the continent of {name} from orbit, natural colours, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "live_photos": true,
+   "studies": true,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "sounds": false,
+   "id": "landforms",
+   "icon": "⛰",
+   "title": "Landforms & Regions",
+   "short": "Mountains, plateaus, deserts, snow, valleys",
+   "noun": "landforms",
+   "desc": "Mountain peaks and ranges, plateaus, hot, cold and polar deserts, ice sheets and glaciers, canyons, rift valleys, plains, grasslands, wetlands, rainforests, volcanoes and karst.",
+   "file": "data/landforms.json",
+   "sub_key": "ltype",
+   "group_key": "group",
+   "facts": [
+    [
+     "ltype",
+     "Type"
+    ],
+    [
+     "location",
+     "Location"
+    ],
+    [
+     "country",
+     "Country"
+    ],
+    [
+     "elevation_m",
+     "Elevation (m)"
+    ],
+    [
+     "area_km2",
+     "Area (km²)"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ]
+   ],
+   "columns": [
+    [
+     "ltype",
+     "Type"
+    ],
+    [
+     "country",
+     "Country"
+    ],
+    [
+     "elevation_m",
+     "Elevation m"
+    ],
+    [
+     "area_km2",
+     "Area km²"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Landforms by kind"
+    },
+    {
+     "type": "top",
+     "key": "elevation_m",
+     "title": "Highest points (m)",
+     "n": 15
+    },
+    {
+     "type": "top",
+     "key": "area_km2",
+     "title": "Largest by area (km²)",
+     "n": 15,
+     "log": true
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "countries",
+     "label": "🗺 Countries",
+     "mine": "country"
+    }
+   ],
+   "prompt": "Photorealistic landscape photograph of {name}, dramatic natural light, wide angle, 16:9, no text"
+  },
+  {
+   "id": "species",
+   "icon": "🐾",
+   "title": "Land Species Atlas",
+   "short": "378 animals, plants & fungi",
+   "noun": "species",
+   "desc": "Land animals, birds, reptiles, amphibians, insects, trees, flowers and fungi. Each profile has a real photo, where it lives, habitat, diet, IUCN status, what it sounds like (played automatically where a recording exists), the full live Wikipedia article and the latest research.",
+   "file": "data/species.json",
+   "name_key": "name",
+   "sub_key": "scientific",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": true,
+   "sound_kind": "species",
+   "vocal_groups": [
+    "Big cats & wild cats",
+    "Elephants, rhinos & large herbivores",
+    "Primates",
+    "Bears, dogs & other carnivores",
+    "Hoofed mammals",
+    "Small mammals",
+    "Marsupials & monotremes",
+    "Birds",
+    "Birds of prey",
+    "Amphibians"
+   ],
+   "facts": [
+    [
+     "scientific",
+     "Scientific name"
+    ],
+    [
+     "group",
+     "Group"
+    ],
+    [
+     "kingdom",
+     "Kingdom"
+    ],
+    [
+     "where",
+     "Where it lives"
+    ],
+    [
+     "habitat",
+     "Habitat"
+    ],
+    [
+     "diet",
+     "Diet"
+    ],
+    [
+     "iucn",
+     "IUCN status"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ]
+   ],
+   "columns": [
+    [
+     "group",
+     "Group"
+    ],
+    [
+     "where",
+     "Where"
+    ],
+    [
+     "iucn",
+     "IUCN"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Species by group"
+    },
+    {
+     "type": "count_donut",
+     "key": "iucn",
+     "title": "IUCN Red List status"
+    },
+    {
+     "type": "count_donut",
+     "key": "kingdom",
+     "title": "Animals, plants and fungi"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "countries",
+     "mine": "where",
+     "label": "🗺 Countries where it lives"
+    },
+    {
+     "type": "backname",
+     "coll": "protected",
+     "theirs": "known_for",
+     "label": "🛡 Protected areas famous for it"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ],
+    [
+     "GBIF search",
+     "https://www.gbif.org/species/search?q={scientific}"
+    ],
+    [
+     "IUCN Red List search",
+     "https://www.iucnredlist.org/search?query={scientific}"
+    ]
+   ],
+   "prompt": "Ultra-realistic wildlife photograph of a {name} ({scientific}) in its natural habitat ({habitat}), accurate anatomy and colouration for this exact species, National Geographic style, natural light, 4:3, no text, no watermark"
+  },
+  {
+   "id": "places",
+   "icon": "💧",
+   "title": "Waterfalls, Dams, Caves & Underground",
+   "short": "Falls, dams, caves, stepwells, underground cities",
+   "noun": "places",
+   "desc": "The great waterfalls, dams and canals, caves and cave temples, underground cities, stepwells, cisterns and tunnels of the world, with India's in detail.",
+   "file": "data/places.json",
+   "name_key": "name",
+   "sub_key": "ptype",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "facts": [
+    [
+     "ptype",
+     "Type"
+    ],
+    [
+     "country",
+     "Country"
+    ],
+    [
+     "location",
+     "Location"
+    ],
+    [
+     "height_m",
+     "Height (m)"
+    ],
+    [
+     "stat",
+     "Record / key fact"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ]
+   ],
+   "columns": [
+    [
+     "ptype",
+     "Type"
+    ],
+    [
+     "country",
+     "Country"
+    ],
+    [
+     "height_m",
+     "Height m"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Places by kind"
+    },
+    {
+     "type": "top",
+     "key": "height_m",
+     "title": "Tallest waterfalls and dams (m)",
+     "n": 20
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "countries",
+     "mine": "country",
+     "label": "🗺 Country"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Photorealistic travel photograph of {name} in {country}, dramatic natural light, wide angle, 16:9, no text"
+  },
+  {
+   "id": "protected",
+   "icon": "🛡",
+   "title": "National Parks & Protected Areas",
+   "short": "Tiger reserves, parks, sanctuaries",
+   "noun": "protected areas",
+   "desc": "India's national parks, tiger reserves, sanctuaries and biosphere reserves, and the world's most important protected areas: what they protect and why.",
+   "file": "data/protected.json",
+   "name_key": "name",
+   "sub_key": "ptype",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "facts": [
+    [
+     "ptype",
+     "Type"
+    ],
+    [
+     "country",
+     "Country"
+    ],
+    [
+     "state",
+     "State / region"
+    ],
+    [
+     "area_km2",
+     "Area (km²)"
+    ],
+    [
+     "established",
+     "Established"
+    ],
+    [
+     "known_for",
+     "Known for"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ]
+   ],
+   "columns": [
+    [
+     "country",
+     "Country"
+    ],
+    [
+     "state",
+     "State"
+    ],
+    [
+     "area_km2",
+     "Area km²"
+    ],
+    [
+     "established",
+     "Est."
+    ]
+   ],
+   "charts": [
+    {
+     "type": "top",
+     "key": "area_km2",
+     "title": "Largest protected areas (km²)",
+     "n": 15,
+     "log": true
+    },
+    {
+     "type": "timeline_count",
+     "key": "established",
+     "bin": 10,
+     "title": "Parks established by decade"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "species",
+     "mine": "known_for",
+     "label": "🐾 Species it protects"
+    },
+    {
+     "type": "text",
+     "coll": "countries",
+     "mine": "country",
+     "label": "🗺 Country"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Photorealistic landscape photograph of {name}, {state}, {country}, showing its typical habitat and wildlife, golden hour, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "live_photos": true,
+   "studies": true,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "sounds": false,
+   "id": "soils",
+   "icon": "🟤",
+   "title": "Soils",
+   "short": "USDA orders, Indian soils, black earth",
+   "noun": "soils",
+   "desc": "Every major soil type: the 12 USDA soil orders, the soils of India, and famous soils such as chernozem, loess and terra preta, with fertility and the crops they support.",
+   "file": "data/soils.json",
+   "sub_key": "system",
+   "group_key": "group",
+   "facts": [
+    [
+     "system",
+     "Classification"
+    ],
+    [
+     "where",
+     "Where found"
+    ],
+    [
+     "texture",
+     "Texture"
+    ],
+    [
+     "fertility",
+     "Fertility"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ],
+    [
+     "crops",
+     "Crops it supports"
+    ]
+   ],
+   "columns": [
+    [
+     "where",
+     "Where"
+    ],
+    [
+     "fertility",
+     "Fertility"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count_donut",
+     "key": "fertility",
+     "title": "Fertility classes"
+    }
+   ],
+   "prompt": "Photorealistic close-up soil profile cross-section of {name}, showing horizons and texture, natural light, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "live_photos": true,
+   "studies": true,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "sounds": false,
+   "id": "climates",
+   "icon": "🌦",
+   "title": "Climate Zones",
+   "short": "Köppen climates & rainfall",
+   "noun": "climate zones",
+   "desc": "The Köppen climate types, from rainforest to ice cap: rainfall, temperature, where they occur and the vegetation they support.",
+   "file": "data/climates.json",
+   "sub_key": "code",
+   "group_key": "group",
+   "facts": [
+    [
+     "code",
+     "Köppen code"
+    ],
+    [
+     "rainfall_mm",
+     "Annual rainfall (mm)"
+    ],
+    [
+     "temp",
+     "Temperature"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ],
+    [
+     "where",
+     "Where"
+    ],
+    [
+     "vegetation",
+     "Natural vegetation"
+    ]
+   ],
+   "columns": [
+    [
+     "code",
+     "Code"
+    ],
+    [
+     "rainfall_mm",
+     "Rain mm"
+    ],
+    [
+     "where",
+     "Where"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Climate groups"
+    }
+   ],
+   "prompt": "Photorealistic landscape typical of a {name} climate, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "live_photos": true,
+   "studies": true,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "sounds": false,
+   "id": "crops",
+   "icon": "🌾",
+   "title": "Crops",
+   "short": "Cereals, pulses, oilseeds, cash crops",
+   "noun": "crops",
+   "desc": "The world's major crops: where they were domesticated, who grows most, the climate, soil and water they need.",
+   "file": "data/crops.json",
+   "sub_key": "scientific",
+   "group_key": "group",
+   "facts": [
+    [
+     "scientific",
+     "Scientific name"
+    ],
+    [
+     "ctype",
+     "Type"
+    ],
+    [
+     "origin",
+     "Origin"
+    ],
+    [
+     "top_producer",
+     "Top producers"
+    ],
+    [
+     "climate",
+     "Climate"
+    ],
+    [
+     "soil",
+     "Soil"
+    ],
+    [
+     "water_mm",
+     "Water need (mm/season)"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ]
+   ],
+   "columns": [
+    [
+     "ctype",
+     "Type"
+    ],
+    [
+     "top_producer",
+     "Top producers"
+    ],
+    [
+     "water_mm",
+     "Water mm"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Crops by kind"
+    },
+    {
+     "type": "ranges",
+     "title": "Seasonal water need (mm)",
+     "min": "water_min",
+     "max": "water_max"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "countries",
+     "label": "🗺 Main growing countries",
+     "mine": "top_producer"
+    }
+   ],
+   "prompt": "Photorealistic photograph of a field of {name} ({scientific}) ready for harvest, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "live_photos": true,
+   "studies": true,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "sounds": false,
+   "id": "fruits",
+   "icon": "🥭",
+   "title": "Fruits",
+   "short": "Tropical, Mediterranean, temperate",
+   "noun": "fruits",
+   "desc": "Fruits of the world: where they came from, the climate they need, the biggest producers and their season.",
+   "file": "data/fruits.json",
+   "sub_key": "scientific",
+   "group_key": "group",
+   "facts": [
+    [
+     "scientific",
+     "Scientific name"
+    ],
+    [
+     "origin",
+     "Origin"
+    ],
+    [
+     "climate",
+     "Climate"
+    ],
+    [
+     "top_producer",
+     "Top producers"
+    ],
+    [
+     "season",
+     "Season"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ]
+   ],
+   "columns": [
+    [
+     "origin",
+     "Origin"
+    ],
+    [
+     "top_producer",
+     "Top producers"
+    ],
+    [
+     "season",
+     "Season"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Fruits by climate"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "countries",
+     "label": "🗺 Main growing countries",
+     "mine": "top_producer"
+    }
+   ],
+   "prompt": "Photorealistic photograph of ripe {name} ({scientific}) fruit growing on the plant, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "live_photos": true,
+   "studies": true,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "sounds": false,
+   "id": "disasters",
+   "icon": "🌵",
+   "title": "Droughts & Land Disasters",
+   "short": "Droughts, famines, desertification, floods",
+   "noun": "events",
+   "desc": "Historic droughts and famines, desertification and lake loss, floods, landslides and wildfires, with causes and lessons.",
+   "file": "data/disasters.json",
+   "sub_key": "dtype",
+   "group_key": "group",
+   "facts": [
+    [
+     "dtype",
+     "Type"
+    ],
+    [
+     "years",
+     "When"
+    ],
+    [
+     "region",
+     "Where"
+    ],
+    [
+     "impact",
+     "Impact"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "What happened"
+    ]
+   ],
+   "columns": [
+    [
+     "dtype",
+     "Type"
+    ],
+    [
+     "years",
+     "When"
+    ],
+    [
+     "region",
+     "Where"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Events by kind"
+    }
+   ],
+   "prompt": "Photorealistic documentary photograph showing the landscape impact of the {name}, no people's faces, 16:9, no text"
+  },
+  {
+   "id": "papers",
+   "icon": "📄",
+   "title": "Research Papers",
+   "short": "Read or download the PDFs",
+   "noun": "papers",
+   "file": "data/papers.json",
+   "name_key": "name",
+   "sub_key": "authors",
+   "group_key": "topic",
+   "paperbox": true,
+   "no_prompt": true,
+   "studies": false,
+   "source_tpl": [],
+   "facts": [
+    [
+     "authors",
+     "Authors"
+    ],
+    [
+     "year",
+     "Year"
+    ],
+    [
+     "journal",
+     "Journal"
+    ],
+    [
+     "doi",
+     "DOI"
+    ],
+    [
+     "access",
+     "Access"
+    ],
+    [
+     "license",
+     "Licence"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "What it found"
+    ]
+   ],
+   "columns": [
+    [
+     "authors",
+     "Authors"
+    ],
+    [
+     "year",
+     "Year"
+    ],
+    [
+     "journal",
+     "Journal"
+    ],
+    [
+     "access",
+     "Access"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "access",
+     "title": "Access type"
+    }
+   ],
+   "desc": "Landmark papers on soils, land use, drought, agriculture and climate. Openly licensed ones open in the built-in PDF reader."
+  }
+ ],
+ "tracker": [
+  {
+   "id": "amazon",
+   "icon": "🌳",
+   "name": "Amazon deforestation (Brazil)",
+   "status": "3,335 km² Aug 2025–Jul 2026: −41.8%, lowest since 1988 (PRODES)",
+   "next": "Final PRODES figure; Cerrado down ~24%"
+  },
+  {
+   "id": "monsoon",
+   "icon": "🌧",
+   "name": "India monsoon 2026",
+   "status": "759.4 mm = 87% of long-period average (deficient)",
+   "next": "Rabi sowing and reservoir levels; 2027 forecast in April"
+  },
+  {
+   "id": "glaciers",
+   "icon": "🏔",
+   "name": "Global glacier loss",
+   "status": "408 ± 132 Gt lost in 2025; all 19 regions shrank 4th year running",
+   "next": "WGMS 2026 hydrological-year data"
+  },
+  {
+   "id": "unccd",
+   "icon": "🏜",
+   "name": "Desertification (UNCCD COP17)",
+   "status": "COP17 concluded in Mongolia, Aug 2026; up to 40% of land degraded",
+   "next": "2030 restoration targets; Great Green Wall progress"
+  },
+  {
+   "id": "drought",
+   "icon": "🌵",
+   "name": "Drought cost",
+   "status": "Land degradation and drought cost ~$878 bn a year",
+   "next": "Drought-resilience financing"
+  },
+  {
+   "id": "soil",
+   "icon": "🟤",
+   "name": "Soil health",
+   "status": "UN: about a third of soils degraded",
+   "next": "World Soil Day, 5 Dec"
+  }
+ ],
+ "tracker_page": "data/tracker",
+ "nav_order": [
+  {
+   "id": "countries",
+   "title": "Countries"
+  },
+  {
+   "id": "species",
+   "title": "Species"
+  },
+  {
+   "id": "earth",
+   "title": "Land"
+  },
+  {
+   "id": "protected",
+   "title": "Parks"
+  },
+  {
+   "id": "soils",
+   "title": "Soils"
+  },
+  {
+   "id": "crops",
+   "title": "Crops"
+  },
+  {
+   "id": "climate",
+   "title": "Climate"
+  }
+ ],
+ "prompt_style": "Photorealistic documentary photograph, natural light, 16:9, no text or labels"
+}

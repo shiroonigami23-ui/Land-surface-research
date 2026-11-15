@@ -1,0 +1,168 @@
+@file soils.json
+@fields name|system|where|texture|fertility|crops|summary|wiki
+# Soil orders (USDA)|🟤
+Mollisols|USDA soil order|Great Plains, Pampas, Ukrainian steppe|Loamy, dark|Very high|Wheat, maize, soybeans|Deep, dark grassland soils rich in organic matter; the world's breadbasket soils.|Mollisol
+Alfisols|USDA soil order|Temperate forests, parts of India|Loamy with clay subsoil|High|Wheat, maize, fruit|Moderately weathered forest soils with good base saturation.|Alfisol
+Ultisols|USDA soil order|SE USA, SE Asia|Clayey, red-yellow|Low|Tree crops, with lime and fertiliser|Strongly weathered, acidic soils of warm humid regions.|Ultisol
+Oxisols|USDA soil order|Amazon, Congo Basin|Clayey, red|Very low|Cassava, tree crops|The most weathered soils, rich in iron and aluminium oxides; nutrients sit in the forest, not the soil.|Oxisol
+Aridisols|USDA soil order|Sahara, Thar, Arabian Desert|Sandy to loamy, salty|Low without water|Dates, irrigated crops|Dry soils that often hold salt or lime layers.|Aridisol
+Vertisols|USDA soil order|Deccan Plateau, Sudan, Texas|Heavy clay|High but hard to work|Cotton, sorghum, soybeans|Clay soils that swell when wet and crack when dry; India's black cotton soil.|Vertisol
+Entisols|USDA soil order|River floodplains, dunes|Variable|Variable|Rice, vegetables|Young soils with little development, e.g. fresh river alluvium.|Entisol
+Inceptisols|USDA soil order|Indo-Gangetic Plain, mountains|Loamy|Moderate–high|Rice, wheat|Young soils beginning to develop horizons.|Inceptisol
+Andisols|USDA soil order|Volcanic regions: Java, Japan, Andes|Light, porous|Very high|Coffee, tea, vegetables|Fertile soils formed from volcanic ash.|Andisol
+Spodosols|USDA soil order|Boreal forests|Sandy, acidic|Low|Blueberries, forestry|Acidic forest soils with a bleached layer above iron-rich subsoil.|Spodosol
+Histosols|USDA soil order|Peatlands: Indonesia, Siberia, Canada|Organic (peat)|High when drained|Vegetables, oil palm (damaging)|Organic soils storing about a third of soil carbon on 3% of land.|Histosol
+Gelisols|USDA soil order|Arctic and high mountains|Frozen|Very low|None|Soils with permafrost.|Gelisol
+# Soils of India|🇮🇳
+Alluvial soil|Indian classification|Indo-Gangetic Plain, deltas|Sandy to clayey loam|High|Rice, wheat, sugarcane, jute|India's most widespread and productive soil, deposited by rivers (khadar new, bhangar old).|Alluvium
+Black cotton soil (regur)|Indian classification|Maharashtra, Madhya Pradesh, Gujarat|Clay|High in calcium, potash|Cotton, soybeans, sorghum|Formed from Deccan basalt; holds moisture and self-ploughs by cracking.|Vertisol
+Red soil|Indian classification|Tamil Nadu, Karnataka, Odisha, Chhattisgarh|Sandy to clayey|Low in nitrogen, phosphorus|Millets, groundnut, pulses|Red from iron oxide, formed on ancient crystalline rocks.|Red_soil
+Laterite soil|Indian classification|Western Ghats, Odisha, Kerala|Clayey, porous|Low|Cashew, tea, coffee, rubber|Leached by heavy rain; hardens into building blocks when exposed.|Laterite
+Arid (desert) soil|Indian classification|Rajasthan, Gujarat|Sandy|Low|Bajra, guar|Sandy and saline; productive when irrigated.|Desert_soil
+Saline and alkaline soil (usar)|Indian classification|Punjab, Haryana, UP, coastal Gujarat|Variable|Poor until reclaimed|Salt-tolerant rice, barley|Salt build-up, often from over-irrigation; reclaimed with gypsum.|Soil_salinity
+Peaty and marshy soil|Indian classification|Kerala backwaters, Sundarbans|Organic|High organic matter|Rice|Waterlogged soils rich in organic matter.|Peat
+Forest and mountain soil|Indian classification|Himalaya, Western Ghats|Variable|Variable|Tea, fruit, spices|Thin, organic-rich soils on slopes.|Mountain_soil
+# Other important soils|🌍
+Chernozem|WRB reference soil|Ukraine, Russia, Kazakhstan|Loamy, black|Exceptionally high|Wheat, sunflower|'Black earth' up to a metre thick, among the most fertile soils on Earth.|Chernozem
+Loess|Parent material|Loess Plateau (China), Mississippi valley, Ukraine|Silt|High|Wheat, maize|Wind-blown silt that forms fertile soils but erodes easily.|Loess
+Terra preta|Anthropogenic soil|Amazon|Dark, charcoal-rich|Very high|Manioc, fruit|Fertile 'dark earth' created by Indigenous Amazonians with charcoal and waste over centuries.|Terra_preta
+Podzol|WRB reference soil|Scandinavia, Canada, Siberia|Sandy|Low|Forestry|European name for spodosols.|Podzol
+Calcisol|WRB reference soil|Mediterranean, Middle East|Lime-rich|Moderate|Olives, barley|Soils with accumulated calcium carbonate.|Calcisol
+Gleysol|WRB reference soil|Wetlands, river floodplains|Waterlogged|Variable|Rice|Grey-blue soils saturated by groundwater.|Gleysol
+Nitisol|WRB reference soil|East African highlands|Deep red clay|High|Coffee, tea|Among the most productive tropical soils.|Nitisol
+@file climates.json
+@fields name|code|rainfall_mm|temp|where|vegetation|summary|wiki
+# Tropical climates|🌴
+Tropical rainforest|Af|2000–10000|Hot all year (~27°C)|Amazon, Congo, Indonesia, Kerala hills|Evergreen rainforest|Rain every month, little seasonal change; the richest biome on land.|Tropical_rainforest_climate
+Tropical monsoon|Am|1500–3000|Hot; short dry season|West coast of India, Bangladesh, Myanmar|Monsoon forest|Torrential seasonal rain from monsoon winds.|Tropical_monsoon_climate
+Tropical savanna|Aw|750–1500|Hot; long dry season|Most of peninsular India, Sahel margins, northern Australia|Grassland with scattered trees|Wet summers and long dry winters.|Tropical_savanna_climate
+# Dry climates|🏜
+Hot desert|BWh|< 250|Very hot summers|Sahara, Arabian Desert, Thar|Sparse shrubs|Evaporation far exceeds rainfall; huge daily temperature swings.|Desert_climate
+Cold desert|BWk|< 250|Cold winters|Gobi, Ladakh, Patagonia|Sparse shrubs|Dry rain-shadow or high-altitude deserts with freezing winters.|Desert_climate
+Hot semi-arid (steppe)|BSh|250–750|Hot|Sahel, Deccan interior, Rajasthan fringe|Short grass, thorn scrub|Drought-prone farming zones.|Semi-arid_climate
+Cold semi-arid|BSk|250–500|Cold winters|Great Plains margins, Central Asia|Grassland|Dry continental steppe.|Semi-arid_climate
+# Temperate climates|🌳
+Mediterranean|Csa / Csb|400–900|Hot dry summers, mild wet winters|Mediterranean, California, Cape Town, central Chile, SW Australia|Shrubland, olive and vine|Fire-adapted vegetation; ideal for olives, grapes and citrus.|Mediterranean_climate
+Humid subtropical|Cfa / Cwa|1000–2000|Hot humid summers|SE USA, southern China, northern India (Cwa)|Mixed forest|Monsoon-influenced in Asia; key rice and wheat zones.|Humid_subtropical_climate
+Oceanic|Cfb|600–1500|Mild all year|UK, Western Europe, New Zealand|Deciduous forest, pasture|Moderated by the ocean.|Oceanic_climate
+Subtropical highland|Cwb|1000–2000|Mild|Ethiopian Highlands, Mexico City, Darjeeling|Montane forest, tea|Altitude cools tropical latitudes.|Subtropical_highland_climate
+# Continental, polar & mountain|❄️
+Humid continental|Dfa / Dfb|500–1200|Hot summers, cold winters|US Midwest, Ukraine, NE China|Mixed forest, prairie|Big seasonal temperature swings.|Humid_continental_climate
+Subarctic|Dfc / Dfd|250–500|Very cold winters, short summers|Siberia, Canada, Alaska|Taiga|The boreal forest zone; Oymyakon reached −67.7°C.|Subarctic_climate
+Tundra|ET|150–350|Cold; warmest month 0–10°C|Arctic coasts, high mountains|Mosses, lichens|Permafrost below; treeless.|Tundra_climate
+Ice cap|EF|< 250|Below 0°C all year|Antarctica, Greenland interior|None|Permanent ice; the coldest temperature measured was −89.2°C at Vostok.|Ice_cap_climate
+Alpine / highland|H|Variable|Cools ~6.5°C per km|Himalaya, Andes, Alps|Zones from forest to snow|Climate changes with altitude like latitude.|Alpine_climate
+@file crops.json
+@fields name|scientific|ctype|origin|top_producer|climate|soil|water_mm|summary|wiki
+# Cereals|🌾
+Rice|Oryza sativa|Cereal|Yangtze valley, China (~9,000 years ago)|China, India|Hot, humid|Clayey, waterlogged|1200–2500|The staple of over half of humanity; India is the largest exporter.|Rice
+Wheat|Triticum aestivum|Cereal|Fertile Crescent (~10,000 years ago)|China, India, Russia|Cool growing season|Loamy, well-drained|450–650|The most widely grown crop; the Green Revolution's dwarf varieties transformed Punjab.|Wheat
+Maize|Zea mays|Cereal|Southern Mexico (~9,000 years ago)|USA, China, Brazil|Warm|Fertile, well-drained|500–800|The largest crop by tonnage, used for food, feed and ethanol.|Maize
+Barley|Hordeum vulgare|Cereal|Fertile Crescent|Russia, Australia, France|Cool, dry tolerant|Varied|400–500|One of the first domesticated grains, used for beer and feed.|Barley
+Sorghum (jowar)|Sorghum bicolor|Cereal / millet|Sahel / Ethiopia|USA, Nigeria, India|Hot, dry|Varied|400–600|A drought-tough staple of Africa and India.|Sorghum
+Pearl millet (bajra)|Pennisetum glaucum|Millet|West Africa|India|Hot, arid|Sandy|250–500|Grows where little else can; India is the top producer.|Pearl_millet
+Finger millet (ragi)|Eleusine coracana|Millet|Ethiopian Highlands|India|Semi-arid|Red soils|500–1000|Calcium-rich staple of Karnataka.|Eleusine_coracana
+Oats|Avena sativa|Cereal|Europe / Near East|Canada, Russia|Cool, moist|Varied|500–600|Hardy cereal for food and feed.|Oat
+Rye|Secale cereale|Cereal|Anatolia|Germany, Poland, Russia|Cold|Poor sandy soils|450|Tolerates cold and poor soils.|Rye
+Teff|Eragrostis tef|Cereal|Ethiopia|Ethiopia|Highland|Vertisols|450–550|The tiny grain of Ethiopian injera.|Teff
+Quinoa|Chenopodium quinoa|Pseudocereal|Andes (Lake Titicaca)|Peru, Bolivia|Highland, cool|Poor, salty soils|300–500|A complete-protein Andean grain.|Quinoa
+# Pulses & oilseeds|🫘
+Chickpea (chana)|Cicer arietinum|Pulse|SE Turkey|India|Cool, dry|Loamy|300–400|India grows ~70% of the world's chickpeas.|Chickpea
+Lentil (masoor)|Lens culinaris|Pulse|Fertile Crescent|Canada, India, Australia|Cool|Loamy|300|An ancient protein crop that fixes nitrogen.|Lentil
+Pigeon pea (arhar/tur)|Cajanus cajan|Pulse|India|India|Semi-arid|Red, black soils|600–1000|India's key dal crop.|Pigeon_pea
+Soybean|Glycine max|Oilseed / pulse|NE China|Brazil, USA|Warm|Fertile|450–700|The main protein feed crop; Madhya Pradesh is India's 'soy state'.|Soybean
+Groundnut (peanut)|Arachis hypogaea|Oilseed|Bolivia / Argentina|China, India|Warm, semi-arid|Sandy loam|500–700|Pods form underground.|Peanut
+Mustard / rapeseed|Brassica juncea / napus|Oilseed|Himalayan region|Canada, India, China|Cool|Loamy|250–400|Rabi oilseed of Rajasthan; canola in Canada.|Rapeseed
+Sunflower|Helianthus annuus|Oilseed|North America|Russia, Ukraine|Warm|Chernozem|500–700|Major oil crop of the black-earth steppe.|Sunflower
+Oil palm|Elaeis guineensis|Oilseed|West Africa|Indonesia, Malaysia|Tropical humid|Varied|2000+|The highest-yielding oil crop, linked to deforestation.|Elaeis_guineensis
+Sesame (til)|Sesamum indicum|Oilseed|India|Sudan, Myanmar, India|Hot|Well-drained|300–600|One of the oldest oilseeds.|Sesame
+Coconut|Cocos nucifera|Oilseed / tree|Indo-Pacific|Indonesia, Philippines, India|Tropical coastal|Sandy|1500+|Kerala's 'tree of heaven'.|Coconut
+# Cash, fibre & beverage crops|☕
+Cotton|Gossypium spp.|Fibre|India, Mesoamerica, Africa (independently)|India, China, USA|Hot, sunny|Black soils|700–1300|India is the largest producer; Bt cotton dominates.|Cotton
+Jute|Corchorus spp.|Fibre|Indian subcontinent|India, Bangladesh|Hot, humid|Alluvial|1500|The 'golden fibre' of the Bengal delta.|Jute
+Sugarcane|Saccharum officinarum|Cash|New Guinea|Brazil, India|Hot, humid|Deep loam|1500–2500|A thirsty crop of UP and Maharashtra.|Sugarcane
+Tea|Camellia sinensis|Beverage|SW China / Assam|China, India, Kenya|Cool, wet hills|Acidic, well-drained|1500–2500|Assam and Darjeeling teas are world-famous.|Tea
+Coffee (arabica)|Coffea arabica|Beverage|Ethiopia|Brazil, Vietnam, Colombia|Tropical highland|Volcanic, well-drained|1500–2000|Climate change threatens many growing areas.|Coffea_arabica
+Cocoa|Theobroma cacao|Beverage|Upper Amazon|Côte d'Ivoire, Ghana|Hot, humid|Deep, fertile|1500–2000|Prices hit records in 2024 after West African harvest failures.|Theobroma_cacao
+Rubber|Hevea brasiliensis|Industrial|Amazon|Thailand, Indonesia|Tropical|Laterite|2000+|Kerala grows most of India's rubber.|Hevea_brasiliensis
+Tobacco|Nicotiana tabacum|Cash|Americas|China, India, Brazil|Warm|Light sandy|400–600|Grown in Andhra Pradesh and Gujarat.|Tobacco
+# Roots, tubers & spices|🥔
+Potato|Solanum tuberosum|Tuber|Andes (Peru/Bolivia)|China, India|Cool|Loose, well-drained|500–700|The world's top non-grain food crop.|Potato
+Cassava|Manihot esculenta|Tuber|Amazon|Nigeria, DR Congo, Thailand|Tropical|Poor soils|1000|A drought-hardy staple for ~800 million people.|Cassava
+Sweet potato|Ipomoea batatas|Tuber|Central/South America|China|Warm|Sandy|500|Reached Polynesia before Europeans did.|Sweet_potato
+Yam|Dioscorea spp.|Tuber|West Africa, Asia|Nigeria|Tropical|Loose|1000|Central to West African culture.|Yam_(vegetable)
+Black pepper|Piper nigrum|Spice|Malabar Coast, India|Vietnam, India|Tropical humid|Laterite|2000|The 'king of spices' that drew traders to Kerala.|Black_pepper
+Cardamom|Elettaria cardamomum|Spice|Western Ghats|Guatemala, India|Humid hills|Forest loam|1500–4000|The 'queen of spices'.|Cardamom
+Turmeric|Curcuma longa|Spice|India|India|Hot, humid|Loamy|1500|India grows ~75% of the world's turmeric.|Turmeric
+Saffron|Crocus sativus|Spice|Greece/Iran|Iran, India (Kashmir)|Dry, cold winters|Well-drained|300–400|The world's most expensive spice by weight.|Saffron
+Vanilla|Vanilla planifolia|Spice|Mexico|Madagascar|Tropical|Forest humus|1500–2500|Each flower is hand-pollinated outside Mexico.|Vanilla
+@file fruits.json
+@fields name|scientific|origin|climate|top_producer|season|summary|wiki
+# Tropical fruits|🥭
+Mango|Mangifera indica|NE India / Myanmar|Tropical, dry season for flowering|India|Summer|India grows about 40% of the world's mangoes, with over 1,000 varieties (Alphonso, Dasheri, Langra).|Mango
+Banana|Musa spp.|New Guinea / SE Asia|Tropical humid|India|Year-round|India is the largest producer; most exports are a single variety (Cavendish) threatened by disease.|Banana
+Papaya|Carica papaya|Mesoamerica|Tropical|India|Year-round|Fast-growing, fruiting within a year.|Papaya
+Pineapple|Ananas comosus|Paraguay / Brazil|Tropical|Philippines, Costa Rica|Year-round|A bromeliad that takes ~2 years to fruit.|Pineapple
+Jackfruit|Artocarpus heterophyllus|Western Ghats, India|Tropical humid|India, Bangladesh|Summer|The largest tree-borne fruit (up to ~50 kg).|Jackfruit
+Guava|Psidium guajava|Central America|Tropical/subtropical|India|Winter|Rich in vitamin C; Allahabad guavas are famous.|Guava
+Lychee|Litchi chinensis|Southern China|Subtropical|China, India (Bihar)|Summer|Muzaffarpur shahi lychee has GI status.|Lychee
+Durian|Durio zibethinus|Borneo / Sumatra|Tropical humid|Thailand|Summer|The 'king of fruits', famous for its smell.|Durian
+Coconut fruit|Cocos nucifera|Indo-Pacific|Tropical coastal|Indonesia|Year-round|Seeds float across oceans.|Coconut
+Dragon fruit|Selenicereus undatus|Central America|Tropical arid|Vietnam|Summer|A cactus fruit now grown in Gujarat as 'kamalam'.|Pitaya
+Mangosteen|Garcinia mangostana|Maritime SE Asia|Tropical humid|Thailand, Indonesia|Summer|The 'queen of fruits'.|Mangosteen
+Passion fruit|Passiflora edulis|South America|Subtropical|Brazil|Varies|A vine with intricate flowers.|Passiflora_edulis
+Sapodilla (chikoo)|Manilkara zapota|Mesoamerica|Tropical|India, Mexico|Winter|Its sap, chicle, was the original chewing gum.|Manilkara_zapota
+# Subtropical & Mediterranean|🍊
+Orange|Citrus × sinensis|Southern China / NE India|Subtropical|Brazil|Winter|Brazil dominates orange juice; Nagpur oranges are famous in India.|Orange_(fruit)
+Lemon|Citrus limon|Assam / Myanmar|Subtropical|India, Mexico|Year-round|A hybrid of bitter orange and citron.|Lemon
+Pomegranate|Punica granatum|Iran|Semi-arid|India, Iran|Autumn–winter|Maharashtra's Bhagwa variety is exported worldwide.|Pomegranate
+Fig|Ficus carica|Near East|Mediterranean|Turkey, Egypt|Summer|One of the first cultivated plants (~11,000 years ago).|Common_fig
+Date|Phoenix dactylifera|Arabia / Mesopotamia|Hot desert, irrigated|Egypt, Saudi Arabia|Autumn|The oasis staple.|Date_palm
+Olive|Olea europaea|Eastern Mediterranean|Mediterranean|Spain|Autumn|Trees can live over 2,000 years.|Olive
+Grape|Vitis vinifera|Caucasus / Near East|Mediterranean|China, Italy|Late summer|Nashik is India's grape capital.|Grape
+Avocado|Persea americana|Mexico|Subtropical|Mexico|Year-round|A thirsty crop linked to deforestation in Michoacán.|Avocado
+Kiwifruit|Actinidia deliciosa|China (Yangtze)|Temperate|China, New Zealand|Autumn|Called Chinese gooseberry until 1959.|Kiwifruit
+Watermelon|Citrullus lanatus|NE Africa|Hot, dry|China|Summer|About 92% water.|Watermelon
+Cashew apple|Anacardium occidentale|NE Brazil|Tropical|Côte d'Ivoire, India|Spring|Goa distils the fruit into feni.|Cashew
+Amla (Indian gooseberry)|Phyllanthus emblica|India|Subtropical|India|Winter|Among the richest natural sources of vitamin C.|Phyllanthus_emblica
+Jamun|Syzygium cumini|Indian subcontinent|Tropical|India|Summer|'Jambudvipa', an old name for India, comes from it.|Syzygium_cumini
+Ber (Indian jujube)|Ziziphus mauritiana|India|Arid|India|Winter|A drought-hardy desert fruit tree.|Ziziphus_mauritiana
+# Temperate fruits|🍎
+Apple|Malus domestica|Tian Shan, Kazakhstan|Temperate, needs chilling|China, USA, India (Himachal, Kashmir)|Autumn|Wild apple forests still grow near Almaty.|Apple
+Pear|Pyrus spp.|Caucasus / China|Temperate|China|Autumn|Grown in Punjab and the hills.|Pear
+Cherry|Prunus avium|Anatolia / Caucasus|Temperate|Turkey|Early summer|Kashmir grows most of India's cherries.|Cherry
+Apricot|Prunus armeniaca|Central Asia|Temperate, dry|Turkey|Summer|Ladakh's apricots are famous.|Apricot
+Peach|Prunus persica|China|Temperate|China|Summer|Domesticated ~7,500 years ago.|Peach
+Plum|Prunus domestica|Caucasus|Temperate|China|Summer|Dried as prunes.|Plum
+Strawberry|Fragaria × ananassa|France (hybrid)|Cool temperate|China, USA|Spring|Mahabaleshwar grows most of India's strawberries.|Strawberry
+Blueberry|Vaccinium sect. Cyanococcus|North America|Cool, acidic soil|USA, Peru|Summer|Needs acidic soils.|Blueberry
+Walnut|Juglans regia|Central Asia|Temperate|China, USA|Autumn|Kashmir produces most of India's walnuts.|Walnut
+Almond|Prunus amygdalus|Iran / Levant|Mediterranean|USA (California)|Late summer|California's almonds need large amounts of water.|Almond
+@file disasters.json
+@fields name|dtype|years|region|impact|summary|wiki
+# Droughts & famines|🌵
+Dust Bowl|Drought + soil erosion|1930–1936|US Great Plains|~2.5 million people left the Plains|Ploughing up native grassland plus drought caused massive dust storms; it led to modern soil conservation.|Dust_Bowl
+Great Famine of 1876–1878|Drought + famine|1876–1878|India (Madras, Bombay, Mysore)|~5.5–10 million deaths|A monsoon failure linked to a strong El Niño, worsened by colonial policy.|Great_Famine_of_1876–1878
+Bengal famine of 1943|Famine|1943|Bengal, India|~2–3 million deaths|Caused mainly by wartime policy, hoarding and food diversion rather than drought alone.|Bengal_famine_of_1943
+Sahel droughts|Drought|1968–1985|West Africa (Sahel)|~100,000+ deaths, mass migration|Decades-long rainfall decline; partly linked to Atlantic sea-surface temperatures.|Sahel_drought
+Ethiopian famine|Drought + famine|1983–1985|Ethiopia|Up to ~1 million deaths|Drought combined with conflict.|1983–1985_famine_in_Ethiopia
+Millennium Drought|Drought|1997–2009|SE Australia|Murray–Darling crisis|Led to major water reforms.|Millennium_drought
+Maharashtra 1972 drought|Drought|1972|Maharashtra, India|~25 million affected|Prompted India's Employment Guarantee Scheme.|1972_drought_in_Maharashtra
+Horn of Africa drought|Drought|2020–2023|Somalia, Kenya, Ethiopia|Five failed rainy seasons|The longest drought on record in the region.|2020–2023_Horn_of_Africa_drought
+Southern Africa El Niño drought|Drought|2024|Zambia, Zimbabwe, Malawi|National disasters declared|The worst drought in decades destroyed maize harvests.|2024_Southern_Africa_drought
+Amazon drought|Drought|2023–2024|Amazon basin|Rivers at record lows|Rio Negro at Manaus fell to its lowest level since records began (1902).|2023–2024_Amazon_drought
+India monsoon deficit 2026|Drought / weak monsoon|2026|India|All-India rainfall 87% of normal|The 2026 monsoon delivered 759.4 mm, 87% of the long-period average, with the South Peninsula and East & Northeast at 74–76%.|2026_Indian_monsoon
+# Land degradation & desertification|🏜
+Aral Sea disaster|Water diversion|1960s–present|Kazakhstan / Uzbekistan|Lake lost ~90% of its area|Irrigation for cotton dried the fourth-largest lake into the Aralkum desert.|Aral_Sea
+Lake Chad shrinkage|Lake loss|1963–present|Sahel|Lost ~90% of its area|Drought and irrigation shrank a lake supporting ~30 million people.|Lake_Chad
+Loess Plateau erosion and restoration|Erosion / restoration|1990s–2000s|China|~35,000 km² restored|Terracing and replanting reversed severe erosion.|Loess_Plateau
+Great Green Wall|Restoration programme|2007–present|Sahel (11 countries)|Target 100 million ha by 2030|A mosaic of restored land across Africa.|Great_Green_Wall_(Africa)
+Punjab groundwater depletion|Groundwater loss|1970s–present|Punjab and Haryana, India|Water tables falling ~0.5–1 m/yr|Rice–wheat irrigation is draining aquifers.|Water_scarcity_in_India
+# Floods, fires & landslides|🌊
+Kerala floods|Flood|2018|Kerala, India|~480 deaths|The worst Kerala floods in a century.|2018_Kerala_floods
+Pakistan floods|Flood|2022|Pakistan|One-third of the country under water|Extreme monsoon rain plus glacial melt.|2022_Pakistan_floods
+Wayanad landslides|Landslide|2024|Kerala, India|200+ deaths|Extreme rainfall triggered debris flows.|2024_Wayanad_landslides
+Kedarnath disaster|Flood / glacial lake burst|2013|Uttarakhand, India|~5,700+ deaths|Cloudburst and the Chorabari lake burst.|2013_North_India_floods
+Black Summer bushfires|Wildfire|2019–2020|Australia|~24 million ha burned|Fuelled by record heat and drought.|2019–20_Australian_bushfire_season
+Canada wildfires|Wildfire|2023|Canada|~18 million ha burned|The worst wildfire season in Canada's history.|2023_Canadian_wildfires
+Joshimath land subsidence|Subsidence|2023|Uttarakhand, India|Hundreds of buildings cracked|A town sinking on unstable glacial debris.|Joshimath_sinking

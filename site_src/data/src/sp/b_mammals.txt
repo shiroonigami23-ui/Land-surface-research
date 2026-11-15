@@ -1,0 +1,74 @@
+# Hoofed mammals|🦌
+Blackbuck|Antilope cervicapra|India; Nepal|Grassland|Grass|LC|India's iconic antelope with spiral horns; protected by the Bishnoi community.
+Nilgai|Boselaphus tragocamelus|India; Nepal|Scrub, farmland|Grass, leaves|LC|Asia's largest antelope, the 'blue bull'.
+Chinkara|Gazella bennettii|India; Pakistan; Iran|Desert, scrub|Grass, leaves|LC|The Indian gazelle, state animal of Rajasthan.
+Four-horned antelope|Tetracerus quadricornis|India; Nepal|Dry forest|Grass, leaves|VU|The only wild mammal with four horns.
+Chital|Axis axis|India; Sri Lanka; Nepal|Forest edge, grassland|Grass, leaves|LC|The spotted deer, main prey of tigers.|Shrill alarm barks warning of tigers; stags bellow in the rut.
+Sambar|Rusa unicolor|India; Southeast Asia|Forest|Grass, leaves|VU|The largest Indian deer.|A loud, metallic 'dhonk' alarm call.
+Barasingha|Rucervus duvaucelii|India; Nepal|Swampy grassland|Grass, aquatic plants|VU|The 'swamp deer', saved in Kanha National Park; state animal of Madhya Pradesh.
+Hangul|Cervus hanglu hanglu|India (Kashmir)|Mountain forest|Grass, leaves|CR|Kashmir stag, ~250 left in Dachigam.
+Sangai|Rucervus eldii eldii|India (Manipur)|Floating phumdis of Loktak Lake|Grass|EN|The 'dancing deer' walks on floating vegetation.
+Indian muntjac|Muntiacus muntjak|South and Southeast Asia|Forest|Leaves, fruit|LC|The 'barking deer'.|A dog-like bark repeated for minutes.
+Musk deer|Moschus chrysogaster|Himalaya|Alpine forest|Lichens, leaves|EN|Hunted for its musk gland; has fang-like tusks instead of antlers.
+Red deer|Cervus elaphus|Europe; Western Asia|Forest, moorland|Grass|LC|Stags fight with antlers in the autumn rut.|Deep autumn roars by rutting stags.
+Elk|Cervus canadensis|North America; East Asia|Forest, meadows|Grass|LC|Called wapiti.|High-pitched 'bugles' by bulls in the rut.
+Moose|Alces alces|Northern forests|Taiga, wetlands|Willows, aquatic plants|LC|The largest deer, up to 700 kg.
+Reindeer|Rangifer tarandus|Arctic|Tundra, taiga|Lichens|VU|Domesticated by Sámi and Nenets; their knees click as they walk.|Grunts; knee tendons make a clicking sound.
+Himalayan tahr|Hemitragus jemlahicus|Himalaya|Steep rocky slopes|Grass|NT|A shaggy wild goat.
+Nilgiri tahr|Nilgiritragus hylocrius|India (Western Ghats)|Montane grassland|Grass|EN|State animal of Tamil Nadu; about 3,000 in Eravikulam and nearby.
+Markhor|Capra falconeri|Pakistan; Afghanistan; Central Asia|Mountains|Grass, leaves|NT|Corkscrew horns; national animal of Pakistan.
+Bharal|Pseudois nayaur|Himalaya; Tibet|Alpine cliffs|Grass|LC|The 'blue sheep', main prey of snow leopards.
+Siberian ibex|Capra sibirica|Central Asia; Ladakh|Mountains|Grass|NT|Scales near-vertical cliffs.
+Tibetan antelope|Pantholops hodgsonii|Tibet; Ladakh|High plateau|Grass|NT|Poached for shahtoosh wool; recovered after a ban.
+Kiang|Equus kiang|Tibet; Ladakh|High steppe|Grass|LC|The largest wild ass.
+Indian wild ass|Equus hemionus khur|India (Rann of Kutch)|Salt desert|Grass|NT|Survives only in the Little Rann of Kutch, ~6,000 animals.
+Przewalski's horse|Equus ferus przewalskii|Mongolia; China|Steppe|Grass|EN|Once extinct in the wild, reintroduced to Mongolia.|Neighs and whinnies.
+Plains zebra|Equus quagga|Eastern and southern Africa|Savanna|Grass|NT|Every zebra's stripes are unique.|A bark-like 'kwa-ha' call.
+Blue wildebeest|Connochaetes taurinus|Eastern and southern Africa|Savanna|Grass|LC|~1.3 million migrate around the Serengeti–Mara each year.|A constant grunting 'gnu' chorus during migration.
+Impala|Aepyceros melampus|Eastern and southern Africa|Woodland|Grass, leaves|LC|Leaps up to 3 m high.
+Thomson's gazelle|Eudorcas thomsonii|Kenya; Tanzania|Savanna|Grass|NT|A fast, small gazelle preyed on by cheetahs.
+Springbok|Antidorcas marsupialis|Southern Africa|Dry grassland|Grass|LC|Famous for pronking leaps.
+Gemsbok|Oryx gazella|Southern Africa|Kalahari, Namib|Grass, roots|LC|Survives without drinking for long periods.
+Arabian oryx|Oryx leucoryx|Arabia|Desert|Grass|VU|The first species to go from Extinct in the Wild to Vulnerable.
+Okapi|Okapia johnstoni|DR Congo|Rainforest|Leaves|EN|The 'forest giraffe' with zebra-striped legs.
+Dromedary camel|Camelus dromedarius|North Africa; Middle East; India|Desert|Desert plants|NE|The one-humped camel; India's 'ship of the desert' in Rajasthan.|Gurgles, groans and bellows; males blow out a pink throat sac.
+Bactrian camel|Camelus bactrianus|Mongolia; China|Cold desert|Shrubs|NE|Two-humped camel of the Gobi; a few still graze in Ladakh's Nubra Valley.
+Wild Bactrian camel|Camelus ferus|Mongolia; China|Gobi|Shrubs|CR|A separate species that can drink salty water.
+Llama|Lama glama|Andes|Highland grassland|Grass|NE|Domesticated pack animal of the Inca.|Humming; alarm calls like a braying donkey.
+Vicuña|Vicugna vicugna|Andes|Puna grassland|Grass|LC|Has some of the finest wool in the world.
+Wild boar|Sus scrofa|Eurasia; North Africa|Forest, farmland|Roots, crops|LC|Ancestor of the domestic pig, a common crop raider.|Grunts, squeals and snorts.
+Pygmy hog|Porcula salvania|India (Assam)|Tall grassland|Roots, insects|EN|The smallest pig, rediscovered and bred in Assam.
+Babirusa|Babyrousa celebensis|Indonesia (Sulawesi)|Rainforest|Fruit, leaves|VU|Its upper tusks grow up through the snout.
+Saiga|Saiga tatarica|Kazakhstan; Mongolia|Steppe|Grass|NT|A bulbous nose filters dust and cools air; recovered to over a million.
+# Small mammals|🐿
+Indian giant squirrel|Ratufa indica|India|Deciduous and evergreen forest|Fruit, nuts|LC|A huge maroon-and-cream squirrel, state animal of Maharashtra.|A loud, chattering rattling call.
+Indian palm squirrel|Funambulus palmarum|India; Sri Lanka|Gardens, palms|Seeds, fruit|LC|Its stripes are said in legend to be Rama's finger marks.|Shrill 'chip-chip-chip' alarm calls.
+Indian crested porcupine|Hystrix indica|India; Middle East|Rocky scrub|Roots, bark|LC|Raises and rattles its quills when threatened.
+Indian pangolin|Manis crassicaudata|India; Sri Lanka; Pakistan|Forest, grassland|Ants, termites|EN|Scaly anteater, one of the most trafficked mammals.
+Chinese pangolin|Manis pentadactyla|Northeast India; China; Southeast Asia|Forest|Ants, termites|CR|Rolls into a ball when threatened.
+Indian flying fox|Pteropus medius|India; South Asia|Forest, towns|Fruit, nectar|LC|One of the largest bats, roosting in big colonies.|Loud squabbling squeals at the roost.
+Greater horseshoe bat|Rhinolophus ferrumequinum|Europe; Asia|Caves|Moths, beetles|LC|Echolocates with a horseshoe-shaped nose leaf.
+Himalayan marmot|Marmota himalayana|Himalaya; Tibet|Alpine meadows|Grass|LC|Hibernates for months in burrows.|A sharp whistle warning of eagles and foxes.
+European rabbit|Oryctolagus cuniculus|Europe; Australia (introduced)|Grassland|Grass|EN|Native range shrank from disease, but invasive in Australia.
+Indian hare|Lepus nigricollis|India; Pakistan|Scrub, farmland|Grass|LC|The black-naped hare.
+Hispid hare|Caprolagus hispidus|India; Nepal|Tall grassland|Grass, roots|EN|Rare hare of terai grasslands.
+American pika|Ochotona princeps|North America|Talus slopes|Grass|LC|Gathers 'haypiles' for winter; sensitive to warming.|A sharp 'eek' call and bird-like songs.
+Capybara|Hydrochoerus hydrochaeris|South America|Wetlands|Grass|LC|The largest rodent.|Barks, purrs and whistles.
+Naked mole-rat|Heterocephalus glaber|Kenya; Ethiopia; Somalia|Underground|Tubers|LC|Lives 30+ years and almost never gets cancer.|Chirps that work as colony dialects.
+Hedgehog|Erinaceus europaeus|Europe|Gardens, woodland|Insects, worms|NT|Rolls into a spiny ball.
+Asian house shrew|Suncus murinus|Asia|Homes|Insects|LC|The 'musk shrew' of Indian homes.
+Star-nosed mole|Condylura cristata|North America|Wet soil|Worms|LC|Has 22 touch-sensitive tentacles and the fastest-known foraging.
+Eurasian beaver|Castor fiber|Europe; Asia|Rivers, wetlands|Bark, plants|LC|Builds dams that create wetlands; reintroduced in Britain.
+Prairie dog|Cynomys ludovicianus|North America|Prairie|Grass|LC|Lives in vast 'towns'; their alarm calls describe predators in detail.|Barks and 'jump-yip' calls.
+Red squirrel|Sciurus vulgaris|Europe; Asia|Conifer forest|Seeds|LC|Declining in Britain due to grey squirrels.
+Vampire bat|Desmodus rotundus|Latin America|Caves, forest|Blood|LC|Shares blood meals with roost-mates.
+# Marsupials & monotremes|🦘
+Red kangaroo|Osphranter rufus|Australia|Arid grassland|Grass|LC|The largest marsupial; hops at 50+ km/h.|Grunts, clucks and coughs.
+Koala|Phascolarctos cinereus|Australia|Eucalyptus forest|Eucalyptus leaves|VU|Sleeps up to 20 hours a day.|Males make a deep, snoring bellow, lower than expected for their size.
+Common wombat|Vombatus ursinus|Australia|Forest, grassland|Grass|LC|Produces cube-shaped droppings.
+Tasmanian devil|Sarcophilus harrisii|Tasmania|Forest|Carrion|EN|Devastated by a transmissible facial cancer.|Spine-chilling screeches and growls at carcasses.
+Platypus|Ornithorhynchus anatinus|Australia|Rivers|Insect larvae, crayfish|NT|An egg-laying mammal that senses prey by electricity.
+Short-beaked echidna|Tachyglossus aculeatus|Australia; New Guinea|Varied|Ants, termites|LC|A spiny egg-laying mammal.
+Sugar glider|Petaurus breviceps|Australia; New Guinea|Forest|Sap, insects|LC|Glides up to 50 m.
+Quokka|Setonix brachyurus|Australia (Rottnest Island)|Scrub|Leaves|VU|The 'world's happiest animal' for its apparent smile.
+Virginia opossum|Didelphis virginiana|North America|Forest, towns|Anything|LC|The only marsupial north of Mexico; plays dead.

@@ -1,0 +1,104 @@
+@file continents.json
+@fields name|area_km2|pop_m|countries|highest|lowest|largest_desert|summary|wiki
+# Continents|🗺
+Asia|44580000|4750|48|Mount Everest (8,849 m)|Dead Sea shore (−430 m)|Gobi / Arabian Desert|The largest and most populous continent, holding the highest mountains, the largest plateau (Tibet) and both the wettest (Mawsynram) and some of the driest places.|Asia
+Africa|30370000|1470|54|Kilimanjaro (5,895 m)|Lake Assal (−155 m)|Sahara|The cradle of humanity, with the Sahara, the Sahel, the Congo rainforest and the Great Rift Valley.|Africa
+North America|24710000|600|23|Denali (6,190 m)|Death Valley (−86 m)|Chihuahuan / Great Basin|Spans Arctic tundra to tropical rainforest; the Great Plains are one of the world's breadbaskets.|North_America
+South America|17840000|440|12|Aconcagua (6,961 m)|Laguna del Carbón (−105 m)|Atacama / Patagonian|Home of the Amazon, the Andes (the longest continental range) and the Atacama, the driest non-polar desert.|South_America
+Antarctica|14200000|0|0|Vinson Massif (4,892 m)|Denman Glacier trough (−3,500 m below sea level, under ice)|Antarctic polar desert|The coldest, windiest, driest and highest continent on average; holds ~70% of Earth's fresh water as ice.|Antarctica
+Europe|10180000|745|44|Mount Elbrus (5,642 m)|Caspian shore (−28 m)|None large (Tabernas semi-desert)|A small, densely populated continent with mild Atlantic-influenced climates and some of the most intensively farmed land.|Europe
+Oceania|8600000|46|14|Puncak Jaya (4,884 m)|Lake Eyre (−15 m)|Great Victoria Desert|The driest inhabited continent, with ancient, weathered, nutrient-poor soils and Pacific island nations.|Oceania
+@file landforms.json
+@fields name|ltype|location|country|elevation_m|area_km2|summary|wiki
+# Mountains & peaks|🏔
+Mount Everest|Mountain peak|Himalaya|Nepal / China|8849|-|Earth's highest point above sea level, still rising ~4 mm a year as India pushes into Asia.|Mount_Everest
+K2|Mountain peak|Karakoram|Pakistan / China|8611|-|The second-highest peak and one of the deadliest to climb.|K2
+Kangchenjunga|Mountain peak|Himalaya|India / Nepal|8586|-|The third-highest mountain and the highest in India.|Kangchenjunga
+Nanda Devi|Mountain peak|Garhwal Himalaya|India|7816|-|The highest peak wholly within India, surrounded by a UNESCO biosphere reserve.|Nanda_Devi
+Aconcagua|Mountain peak|Andes|Argentina|6961|-|The highest mountain outside Asia.|Aconcagua
+Denali|Mountain peak|Alaska Range|USA|6190|-|North America's highest peak, with a greater base-to-summit rise than Everest.|Denali
+Kilimanjaro|Volcano|East Africa|Tanzania|5895|-|Africa's highest point; its summit glaciers have lost over 80% of their ice since 1912.|Mount_Kilimanjaro
+Mount Elbrus|Volcano|Caucasus|Russia|5642|-|Europe's highest peak, a dormant volcano.|Mount_Elbrus
+Mont Blanc|Mountain peak|Alps|France / Italy|4806|-|Western Europe's highest mountain.|Mont_Blanc
+Mauna Kea|Volcano|Hawaii|USA|4207|-|Measured from its base on the seafloor (~10,200 m), the tallest mountain on Earth.|Mauna_Kea
+Chimborazo|Volcano|Andes|Ecuador|6263|-|Its summit is the farthest point from Earth's centre because of the equatorial bulge.|Chimborazo
+Vinson Massif|Mountain peak|Ellsworth Mountains|Antarctica|4892|-|Antarctica's highest mountain.|Vinson_Massif
+Mount Kosciuszko|Mountain peak|Great Dividing Range|Australia|2228|-|Mainland Australia's highest point.|Mount_Kosciuszko
+Mount Fuji|Volcano|Honshu|Japan|3776|-|Japan's iconic stratovolcano, last erupted in 1707.|Mount_Fuji
+Anamudi|Mountain peak|Western Ghats|India|2695|-|The highest peak in South India.|Anamudi
+# Mountain ranges|⛰
+Himalaya|Mountain range|South Asia|India / Nepal / Bhutan / China / Pakistan|8849|595000|The youngest and highest range, formed by the India–Asia collision ~50 million years ago; 'water tower of Asia'.|Himalayas
+Andes|Mountain range|Western South America|7 countries|6961|-|The longest continental mountain range (~7,000 km).|Andes
+Alps|Mountain range|Central Europe|8 countries|4806|200000|Europe's great range, losing glacier ice rapidly.|Alps
+Rocky Mountains|Mountain range|Western North America|USA / Canada|4401|-|A 4,800 km range forming the continental divide.|Rocky_Mountains
+Western Ghats|Mountain range|Western India|India|2695|160000|A biodiversity hotspot and monsoon barrier that makes the west coast wet and the Deccan dry.|Western_Ghats
+Aravalli Range|Mountain range|NW India|India|1722|-|One of the oldest fold mountains on Earth (over 1.5 billion years).|Aravalli_Range
+Atlas Mountains|Mountain range|NW Africa|Morocco / Algeria / Tunisia|4167|-|Separate the Mediterranean coast from the Sahara.|Atlas_Mountains
+Ural Mountains|Mountain range|Russia|Russia / Kazakhstan|1895|-|The traditional boundary between Europe and Asia.|Ural_Mountains
+Great Dividing Range|Mountain range|Eastern Australia|Australia|2228|-|Australia's main range.|Great_Dividing_Range
+Appalachian Mountains|Mountain range|Eastern North America|USA / Canada|2037|-|Ancient mountains once as high as the Himalaya.|Appalachian_Mountains
+# Plateaus|🟫
+Tibetan Plateau|Plateau|Central Asia|China / India|4500|2500000|The 'Roof of the World', the highest and largest plateau, and source of Asia's great rivers.|Tibetan_Plateau
+Deccan Plateau|Plateau|Peninsular India|India|600|422000|Built partly from the Deccan Traps flood basalts (~66 million years ago), which weathered into black cotton soil.|Deccan_Plateau
+Chota Nagpur Plateau|Plateau|Eastern India|India|700|65000|India's mineral heartland (coal, iron ore).|Chota_Nagpur_Plateau
+Malwa Plateau|Plateau|Central India|India|500|-|A basalt plateau of black soil growing soybeans and wheat.|Malwa
+Altiplano|Plateau|Andes|Bolivia / Peru|3750|-|A high plateau holding Lake Titicaca and Salar de Uyuni.|Altiplano
+Colorado Plateau|Plateau|SW USA|USA|1600|337000|Home of the Grand Canyon.|Colorado_Plateau
+Ethiopian Highlands|Plateau|East Africa|Ethiopia|2300|-|The 'roof of Africa', source of the Blue Nile.|Ethiopian_Highlands
+Iranian Plateau|Plateau|West Asia|Iran / Afghanistan|1500|3700000|A dry plateau ringed by mountains.|Iranian_plateau
+Columbia Plateau|Plateau|NW USA|USA|600|-|Flood-basalt plateau with fertile loess farmland.|Columbia_Plateau
+Anatolian Plateau|Plateau|Turkey|Turkey|1000|-|Central Turkey's dry upland.|Anatolia
+# Deserts|🏜
+Sahara|Hot desert|North Africa|11 countries|3415|9200000|The largest hot desert; it was green with lakes during the African Humid Period ~11,000–5,000 years ago.|Sahara
+Arabian Desert|Hot desert|Arabian Peninsula|Saudi Arabia and others|-|2330000|Includes the Rub' al Khali, the largest continuous sand sea.|Arabian_Desert
+Gobi|Cold desert|Mongolia / China|Mongolia / China|-|1295000|A rain-shadow desert famous for dinosaur fossils; expanding with desertification.|Gobi_Desert
+Thar Desert|Hot desert|NW India / Pakistan|India / Pakistan|-|200000|One of the most densely populated deserts; the Indira Gandhi Canal irrigates part of it.|Thar_Desert
+Atacama Desert|Coastal desert|Chile|Chile|-|105000|The driest non-polar place; some stations have never recorded rain.|Atacama_Desert
+Namib Desert|Coastal desert|Namibia|Namibia / Angola|-|81000|Possibly the oldest desert (~55–80 million years), with giant red dunes watered by fog.|Namib
+Kalahari|Semi-desert|Southern Africa|Botswana / Namibia / South Africa|-|900000|A semi-arid sand savanna.|Kalahari_Desert
+Great Victoria Desert|Hot desert|Australia|Australia|-|348750|Australia's largest desert.|Great_Victoria_Desert
+Mojave Desert|Hot desert|SW USA|USA|-|124000|Contains Death Valley, where 56.7°C was recorded in 1913.|Mojave_Desert
+Taklamakan|Cold desert|Xinjiang|China|-|337000|A shifting-sand desert ringed by mountains.|Taklamakan_Desert
+Lut Desert|Hot desert|Iran|Iran|-|51800|Satellites measured land surface temperatures above 70°C here.|Lut_Desert
+Antarctic polar desert|Polar desert|Antarctica|Antarctica|-|14200000|The largest desert of all; the McMurdo Dry Valleys have had no rain for millions of years.|Antarctic_Desert
+Rann of Kutch|Salt marsh desert|Gujarat|India / Pakistan|-|30000|A seasonal salt desert that floods in the monsoon; home of the wild ass.|Rann_of_Kutch
+Salar de Uyuni|Salt flat|Altiplano|Bolivia|3656|10582|The largest salt flat, holding much of the world's lithium.|Salar_de_Uyuni
+# Snow, ice & polar regions|❄️
+Antarctic Ice Sheet|Ice sheet|Antarctica|Antarctica|-|14000000|Up to 4.8 km thick; enough ice to raise sea level ~58 m.|Antarctic_ice_sheet
+Greenland Ice Sheet|Ice sheet|Greenland|Denmark|-|1710000|The second-largest ice body, losing ~270 Gt a year.|Greenland_ice_sheet
+Siachen Glacier|Glacier|Karakoram|India|5753|-|One of the longest non-polar glaciers and the highest battlefield.|Siachen_Glacier
+Gangotri Glacier|Glacier|Garhwal Himalaya|India|4000|-|The source of the Ganges (Bhagirathi), retreating for decades.|Gangotri_Glacier
+Perito Moreno Glacier|Glacier|Patagonia|Argentina|-|250|Long one of few stable glaciers; now retreating.|Perito_Moreno_Glacier
+Vatnajökull|Ice cap|Iceland|Iceland|2110|7700|Europe's largest ice cap, over active volcanoes.|Vatnajökull
+Siberian tundra|Tundra|Northern Russia|Russia|-|-|Treeless permafrost plains now thawing and releasing carbon.|Tundra
+Permafrost|Frozen ground|Arctic, Tibet|Russia / Canada / USA / China|-|23000000|Ground frozen for at least two years; covers ~15% of exposed Northern Hemisphere land.|Permafrost
+# Valleys, canyons & rifts|🏞
+Grand Canyon|Canyon|Arizona|USA|-|4926|Carved by the Colorado River, exposing ~2 billion years of rock layers.|Grand_Canyon
+Great Rift Valley|Rift valley|East Africa|Ethiopia to Mozambique|-|-|Where Africa is splitting apart; birthplace of many human ancestors.|Great_Rift_Valley
+Yarlung Tsangpo Grand Canyon|Canyon|Tibet|China|-|-|The deepest canyon on land (~6,000 m).|Yarlung_Tsangpo_Grand_Canyon
+Kali Gandaki Gorge|Gorge|Nepal|Nepal|-|-|Cuts between Dhaulagiri and Annapurna.|Kali_Gandaki_Gorge
+Death Valley|Valley|California|USA|-86|7800|The hottest, driest and lowest place in North America.|Death_Valley
+Dead Sea|Salt lake / depression|Jordan Rift|Israel / Jordan / Palestine|-430|605|The lowest land on Earth, dropping over 1 m a year.|Dead_Sea
+Valley of Flowers|Alpine valley|Uttarakhand|India|3658|87|A UNESCO meadow of hundreds of wildflower species.|Valley_of_Flowers_National_Park
+# Plains, grasslands & wetlands|🌾
+Indo-Gangetic Plain|Alluvial plain|North India / Pakistan / Bangladesh|India|-|700000|One of the most fertile and populous plains on Earth.|Indo-Gangetic_Plain
+Great Plains|Grassland|North America|USA / Canada|-|1300000|The 'breadbasket'; site of the 1930s Dust Bowl.|Great_Plains
+Pampas|Grassland|Argentina / Uruguay|Argentina|-|750000|Deep fertile grasslands of the Southern Cone.|Pampas
+Eurasian Steppe|Grassland|Hungary to Mongolia|Many|-|-|A grassland belt across two continents; home of horse cultures.|Eurasian_Steppe
+Serengeti|Savanna|Tanzania / Kenya|Tanzania|-|30000|Hosts the great wildebeest migration.|Serengeti
+Sundarbans|Mangrove delta|Ganges delta|India / Bangladesh|-|10000|The world's largest mangrove forest.|Sundarbans
+Pantanal|Wetland|Brazil / Bolivia / Paraguay|Brazil|-|170000|The world's largest tropical wetland.|Pantanal
+Okavango Delta|Inland delta|Botswana|Botswana|-|15000|A river that floods the Kalahari instead of reaching the sea.|Okavango_Delta
+Amazon rainforest|Rainforest|South America|9 countries|-|5500000|The largest rainforest; Brazil's 2025–26 deforestation was the lowest since records began.|Amazon_rainforest
+Congo rainforest|Rainforest|Central Africa|6 countries|-|1780000|The second-largest rainforest, with huge peatlands.|Congo_Basin
+Borneo lowland rainforest|Rainforest|Borneo|Indonesia / Malaysia / Brunei|-|-|Among the oldest rainforests (~130 million years).|Borneo_lowland_rain_forests
+Taiga (boreal forest)|Forest|Northern hemisphere|Russia / Canada / Scandinavia|-|17000000|The largest land biome, a vast carbon store.|Taiga
+# Islands, volcanoes & karst|🌋
+Kīlauea|Volcano|Hawaii|USA|1247|-|One of the most active volcanoes.|Kīlauea
+Barren Island|Volcano|Andaman Sea|India|354|8|India's only confirmed active volcano.|Barren_Island_(Andaman_Islands)
+Deccan Traps|Flood basalt|West-central India|India|-|500000|Vast lava flows ~66 million years ago, possibly linked to the dinosaur extinction.|Deccan_Traps
+Greenland|Island|North Atlantic|Denmark|3694|2166086|The largest island (not a continent).|Greenland
+Borneo|Island|SE Asia|Indonesia / Malaysia / Brunei|4095|743330|The third-largest island.|Borneo
+Ha Long Bay karst|Karst|Vietnam|Vietnam|-|1553|Thousands of limestone towers rising from the sea.|Hạ_Long_Bay
+Meghalaya plateau caves|Karst / caves|Meghalaya|India|-|-|Home to India's longest caves and the type site of the Meghalayan Age.|Caves_of_Meghalaya
+Son Doong Cave|Cave|Phong Nha|Vietnam|-|-|The largest known cave passage, with its own jungle.|Hang_Sơn_Đoòng

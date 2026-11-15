@@ -1,0 +1,46 @@
+# Reptiles|🐍
+King cobra|Ophiophagus hannah|India; Southeast Asia|Forest|Snakes|VU|The longest venomous snake (to ~5.5 m); builds a nest for its eggs.|Hisses so deeply it sounds like a growl.
+Indian cobra|Naja naja|India; South Asia|Farmland, forest|Rodents, frogs|LC|One of India's 'big four' snakes behind most snakebite deaths.
+Russell's viper|Daboia russelii|South Asia|Grassland, farmland|Rodents|LC|Causes many of India's ~58,000 annual snakebite deaths.|A loud hiss, among the loudest of any snake.
+Common krait|Bungarus caeruleus|South Asia|Farmland, villages|Snakes, rodents|LC|Bites at night, often while people sleep on the floor.
+Saw-scaled viper|Echis carinatus|South Asia; Middle East|Dry scrub|Rodents, insects|LC|Warns by rasping its scales together.|A sizzling rasp made by rubbing saw-edged scales.
+Indian python|Python molurus|South Asia|Forest|Mammals|NT|A large constrictor.
+Reticulated python|Malayopython reticulatus|Southeast Asia|Rainforest|Mammals|LC|The longest snake (to ~7 m+).
+Green anaconda|Eunectes murinus|South America|Swamps|Capybara, caimans|LC|The heaviest snake (to ~100 kg+).
+Black mamba|Dendroaspis polylepis|Africa|Savanna|Rodents|LC|One of the fastest snakes.
+Rattlesnake (western diamondback)|Crotalus atrox|USA; Mexico|Desert|Rodents|LC|Warns with a tail rattle.|A buzzing rattle of interlocking tail segments.
+Monitor lizard (Bengal)|Varanus bengalensis|South Asia|Forest, farmland|Insects, eggs|LC|A large lizard once used to scale fort walls.
+Komodo dragon|Varanus komodoensis|Indonesia|Dry savanna|Deer, pigs|EN|The largest lizard, with venom glands.
+Indian chameleon|Chamaeleo zeylanicus|India; Sri Lanka|Dry forest|Insects|LC|Changes colour and moves eyes independently.
+Flying lizard|Draco dussumieri|India (Western Ghats)|Forest|Ants|LC|Glides between trees on rib-supported wings.
+Tokay gecko|Gekko gecko|Northeast India; Southeast Asia|Forest, houses|Insects|LC|A large, loud gecko.|A loud 'to-kay' call repeated several times.
+Thorny devil|Moloch horridus|Australia|Desert|Ants|LC|Drinks water wicked through grooves in its skin.
+Green iguana|Iguana iguana|Central and South America|Rainforest|Leaves|LC|A large herbivorous lizard.
+Gila monster|Heloderma suspectum|USA; Mexico|Desert|Eggs|NT|A venomous lizard; its saliva inspired diabetes drugs (exenatide).
+Mugger crocodile|Crocodylus palustris|India; Sri Lanka; Pakistan|Rivers, lakes|Fish, mammals|VU|Has adapted to reservoirs and even city lakes.|Hatchlings chirp; adults growl and bellow.
+Gharial|Gavialis gangeticus|India; Nepal|Rivers|Fish|CR|A thin-snouted fish-eater; most live in the Chambal sanctuary.|Males buzz with a nasal 'ghara' bulb.
+Saltwater crocodile|Crocodylus porosus|India (Bhitarkanika, Sundarbans); Australia|Estuaries|Anything|LC|The largest living reptile.|Deep growls and bellows.
+American alligator|Alligator mississippiensis|USA|Swamps|Fish, mammals|LC|Recovered from near-extinction.|Thundering bellows that make water 'dance'.
+Indian star tortoise|Geochelone elegans|India; Sri Lanka|Dry scrub|Plants|VU|Heavily trafficked for its star pattern.
+Galápagos giant tortoise|Chelonoidis niger|Ecuador (Galápagos)|Volcanic islands|Plants|VU|Can live over 150 years.|Males groan and bellow when mating.
+Aldabra giant tortoise|Aldabrachelys gigantea|Seychelles|Coral islands|Plants|VU|One of the largest tortoises.
+Indian flapshell turtle|Lissemys punctata|South Asia|Ponds|Anything|LC|Covers its legs with skin flaps.
+Desert tortoise|Gopherus agassizii|USA|Mojave Desert|Plants|CR|Spends most of its life in burrows.
+Tuatara|Sphenodon punctatus|New Zealand|Islands|Insects|LC|The last of an ancient reptile order, with a 'third eye'.
+# Amphibians|🐸
+Indian bullfrog|Hoplobatrachus tigerinus|South Asia|Ponds, paddies|Insects, frogs|LC|Males turn bright yellow with blue vocal sacs in the monsoon.|A deep 'wonk-wonk' chorus after monsoon rains.
+Purple frog|Nasikabatrachus sahyadrensis|India (Western Ghats)|Underground|Termites|EN|Lives underground, emerging for a few days a year to breed; its lineage split from relatives ~100 million years ago.|A chicken-like clucking from underground.
+Malabar gliding frog|Rhacophorus malabaricus|India (Western Ghats)|Rainforest|Insects|LC|Glides with webbed feet.
+Indian dancing frog|Micrixalus spp.|India (Western Ghats)|Streams|Insects|EN|Males wave their legs to be seen over noisy streams.
+Common Indian toad|Duttaphrynus melanostictus|Asia|Gardens|Insects|LC|Common around Indian homes.|A long trilling call.
+Cane toad|Rhinella marina|South America; invasive in Australia|Varied|Anything|LC|A toxic invader that spread across Australia.
+American bullfrog|Lithobates catesbeianus|North America|Ponds|Anything|LC|A large invasive frog.|A deep 'jug-o-rum' bellow.
+Poison dart frog (strawberry)|Oophaga pumilio|Central America|Rainforest|Ants|LC|Its skin toxins come from its diet.
+Golden poison frog|Phyllobates terribilis|Colombia|Rainforest|Ants|EN|Enough toxin to kill about 10 people.
+Axolotl|Ambystoma mexicanum|Mexico|Lake Xochimilco|Worms|CR|Stays larval for life and regrows limbs.
+Chinese giant salamander|Andrias davidianus|China|Mountain streams|Fish|CR|The largest amphibian (to ~1.8 m).|Cries like a baby, earning the name 'baby fish'.
+Fire salamander|Salamandra salamandra|Europe|Forest|Insects|VU|Black with yellow warning spots.
+Olm|Proteus anguinus|Slovenia; Croatia|Caves|Invertebrates|VU|A blind cave salamander that lives 100 years.
+Coqui|Eleutherodactylus coqui|Puerto Rico|Forest|Insects|LC|Puerto Rico's national symbol.|A loud, two-note 'ko-KEE'.
+Glass frog|Hyalinobatrachium fleischmanni|Central America|Rainforest|Insects|LC|See-through belly showing its heart.
+Himalayan newt|Tylototriton verrucosus|Eastern Himalaya|Ponds|Insects|NT|India's only newt group, in Darjeeling and the Northeast.

@@ -1,0 +1,37 @@
+# Insects & other invertebrates|🦋
+Monarch butterfly|Danaus plexippus|Americas|Meadows|Milkweed nectar|VU|Migrates up to 4,000 km to Mexico's mountain forests over several generations.
+Southern birdwing|Troides minos|India (Western Ghats)|Forest|Nectar|LC|India's largest butterfly, ~19 cm wingspan.
+Blue Mormon|Papilio polymnestor|India; Sri Lanka|Forest, gardens|Nectar|LC|State butterfly of Maharashtra.
+Common crow butterfly|Euploea core|South Asia; Australia|Gardens|Nectar|LC|Toxic and imitated by other butterflies.
+Atlas moth|Attacus atlas|South and Southeast Asia|Forest|None as adult|NE|One of the largest moths; adults have no mouth.
+Indian moon moth|Actias selene|South Asia|Forest|None as adult|NE|Pale green with long tails.
+Tasar silkmoth|Antheraea mylitta|India|Forest|Leaves (larva)|NE|Its cocoons give wild tussar silk woven in Jharkhand and Odisha.
+Domestic silkmoth|Bombyx mori|China; India (farmed)|Silk farms|Mulberry leaves|NE|Domesticated ~5,000 years ago; Karnataka produces most of India's mulberry silk.
+Western honey bee|Apis mellifera|Worldwide|Gardens, farms|Nectar, pollen|DD|Pollinates crops worth hundreds of billions of dollars a year and dances to share directions.|A steady hum from ~230 wingbeats a second; queens 'pipe'.
+Giant honey bee|Apis dorsata|South and Southeast Asia|Cliffs, tall trees|Nectar|LC|Builds huge single combs; honey hunters collect it.|A rising roar as colonies 'shimmer' to deter hornets.
+Asian giant hornet|Vespa mandarinia|East Asia|Forest|Insects, bees|NE|The largest hornet, raids honeybee nests.
+Leafcutter ant|Atta cephalotes|Central and South America|Rainforest|Fungus|NE|Farms fungus on cut leaves.
+Army ant|Eciton burchellii|Central and South America|Rainforest|Insects|NE|Marches in swarms of up to a million with no fixed nest.
+Weaver ant|Oecophylla smaragdina|Asia; Australia|Trees|Insects|NE|Sews leaves into nests using its larvae's silk; used as natural pest control in orchards.
+Termite (mound-building)|Odontotermes obesus|India|Dry forest, farmland|Wood, fungus|NE|Builds air-conditioned mounds and farms fungus.
+Desert locust|Schistocerca gregaria|Africa; Middle East; South Asia|Desert|Plants|NE|Swarms of billions can strip crops; a big outbreak hit India in 2020.
+Periodical cicada|Magicicada septendecim|USA|Forest|Root sap|NE|Emerges every 17 years in billions.|A deafening chorus up to ~100 dB.
+Field cricket|Gryllus campestris|Europe; Asia|Grassland|Plants, insects|NE|Chirps faster when it is warmer.|Chirps made by rubbing wings together.
+Firefly|Photinus pyralis|North America|Meadows|Insects|NE|Flashes in species-specific patterns; synchronous fireflies also occur in India.
+Dung beetle|Scarabaeus satyrus|Africa|Savanna|Dung|NE|Navigates using the Milky Way.
+Hercules beetle|Dynastes hercules|Central and South America|Rainforest|Fruit|NE|One of the longest beetles.
+Stag beetle|Lucanus cervus|Europe|Oak woodland|Sap|NE|Males fight with antler-like jaws.
+Praying mantis|Mantis religiosa|Worldwide|Grassland|Insects|LC|An ambush predator.
+Orchid mantis|Hymenopus coronatus|Southeast Asia|Rainforest|Insects|NE|Mimics a flower to lure prey.
+Dragonfly (globe skimmer)|Pantala flavescens|Worldwide|Open land|Insects|LC|Crosses the Indian Ocean between India and Africa, the longest insect migration.
+Mosquito (Aedes aegypti)|Aedes aegypti|Tropics|Towns|Blood, nectar|NE|Spreads dengue, Zika and chikungunya.|A high whine from ~500 wingbeats a second.
+Malaria mosquito|Anopheles stephensi|South Asia; Middle East; spreading in Africa|Towns|Blood|NE|India's main urban malaria vector.
+Bird-eating spider|Theraphosa blondi|South America|Rainforest|Insects, frogs|NE|The heaviest spider.|Hisses by rubbing leg hairs (stridulation).
+Indian ornamental tarantula|Poecilotheria regalis|India|Forest|Insects|NE|A colourful tree tarantula.
+Black widow|Latrodectus mactans|North America|Varied|Insects|NE|Its venom is 15× stronger than a rattlesnake's.
+Peacock spider|Maratus volans|Australia|Bush|Insects|NE|Males dance with colourful flaps.
+Indian red scorpion|Hottentotta tamulus|India|Dry land|Insects|NE|One of the world's most dangerous scorpions.
+Giant African land snail|Achatina fulica|East Africa; invasive|Gardens|Plants|NE|A destructive invader in India and the Pacific.
+Earthworm|Lumbricus terrestris|Europe|Soil|Organic matter|NE|Darwin wrote a book on how worms make soil.
+Velvet worm|Euperipatoides rowelli|Australia|Forest|Insects|NE|Shoots sticky slime at prey.
+Giant centipede|Scolopendra gigantea|South America|Rainforest|Insects, bats|NE|Hunts bats from cave ceilings.

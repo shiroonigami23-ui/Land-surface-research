@@ -4,8 +4,8 @@
 
 **An in-depth, sourced encyclopedia of Earth's land.** It covers every country and continent; mountain tops, plateaus, deserts, snow and ice; soils, rainfall and drought; land species; waterfalls, dams, caves and underground cities; national parks; and the crops and fruits each region grows.
 
-[![Live site](https://img.shields.io/badge/live%20site-GitHub%20Pages-2f6b2f?style=for-the-badge)](https://shiroonigami23-ui.github.io/land-surface-research/)
-[![Build](https://img.shields.io/github/actions/workflow/status/shiroonigami23-ui/land-surface-research/validate.yml?style=for-the-badge&label=build)](https://github.com/shiroonigami23-ui/land-surface-research/actions)
+[![Live site](https://img.shields.io/badge/live%20site-GitHub%20Pages-2f6b2f?style=for-the-badge)](https://shiroonigami23-ui.github.io/Land-surface-research/)
+[![Build](https://img.shields.io/github/actions/workflow/status/shiroonigami23-ui/Land-surface-research/validate.yml?style=for-the-badge&label=build)](https://github.com/shiroonigami23-ui/Land-surface-research/actions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-c2a35a?style=for-the-badge)](LICENSE)
 ![Entries](https://img.shields.io/badge/catalog%20entries-3%2C000%2B-7a9a3a?style=for-the-badge)
 
@@ -78,7 +78,7 @@ python -m http.server              # open http://localhost:8000
 
 ## Sources
 
-FAO, UNCCD, IPCC, IMD, INPE, WGMS, Copernicus, ICAR, NCERT, USGS, IUCN, GBIF, Protected Planet and peer-reviewed papers. Each article lists its sources, and [the bibliography page](https://shiroonigami23-ui.github.io/land-surface-research/wiki/sources.html) collects them all.
+FAO, UNCCD, IPCC, IMD, INPE, WGMS, Copernicus, ICAR, NCERT, USGS, IUCN, GBIF, Protected Planet and peer-reviewed papers. Each article lists its sources, and [the bibliography page](https://shiroonigami23-ui.github.io/Land-surface-research/wiki/sources.html) collects them all.
 
 ## License
 

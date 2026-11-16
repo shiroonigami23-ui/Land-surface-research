@@ -1,5 +1,11 @@
 # Changelog
 
+
+## [Unreleased] - 2026-11-17
+### Added
+- In-site reader (`wiki/read.html`): every Wikipedia link now opens the full article inside this site, with images, contents and links that stay in the site; pages we have our own article for open those instead.
+### Fixed
+- Portrait photos no longer crop off people's heads: crops favour the top of the image and tall portraits are shown whole on article pages.
 ## [1.1.0] - 2026-11-15
 ### Added
 - Species expanded from 378 to 2,526: 634 birds, 302 flowers and other plants, 295 insects and other invertebrates, 283 trees, 254 reptiles, plus mammals, amphibians and fungi.

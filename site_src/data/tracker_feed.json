@@ -3,122 +3,122 @@
  "streams": {
   "amazon": [
    {
-    "title": "LLM-agent-based cross-modal retrieval method for detecting clues of ecological environment damage",
-    "date": "2026-11-15",
-    "venue": "Scientific Reports",
-    "url": "https://doi.org/10.1038/s41598-026-80668-x"
+    "title": "Amazon Deforestation and Land Use Emissions: Annual Relationships with Hydroclimate and Agricultural Value Added",
+    "date": "2026-11-01",
+    "venue": "Earth",
+    "url": "https://doi.org/10.3390/earth7060179"
    },
    {
-    "title": "The role of tree cover in enhancing paddock resilience: insights from remote sensing in amazonian silvopastoral systems",
-    "date": "2026-11-14",
-    "venue": "Agroforestry Systems",
-    "url": "https://doi.org/10.1007/s10457-026-01730-1"
+    "title": "Development of a Satellite Imagery Dataset Based on KOMPSAT-3 and Sentinel-2 for Amazon Deforestation Monitoring",
+    "date": "2026-09-04",
+    "venue": "GEO DATA",
+    "url": "https://doi.org/10.22761/gd.2026.0015"
    },
    {
-    "title": "Global Forest Carbon Project Evaluation System",
-    "date": "2026-11-14",
-    "venue": "VNU Journal of Science Policy and Management Studies",
-    "url": "https://doi.org/10.25073/2588-1116/vnupam.4608"
+    "title": "NDVI-Augmented DeepLabV3+ with Dual-Level Attention for Amazon Deforestation Segmentation",
+    "date": "2026-08-20",
+    "venue": "European Journal of Prosthodontics and Restorative Dentistry",
+    "url": "https://doi.org/10.1922/ejprd.v34i13s.2212"
    }
   ],
   "monsoon": [
    {
-    "title": "Contrasting Large‐Scale and Mesoscale Mechanisms of Extreme Rainfall Events in Henan Province: The July 2021 and September 2024 Cases",
-    "date": "2026-11-14",
-    "venue": "Journal of Geophysical Research Atmospheres",
-    "url": "https://doi.org/10.1029/2026jd047491"
+    "title": "Non-stationary oceanic teleconnections and their hierarchical influence on Indian summer monsoon rainfall since the last glacial maximum: insights from the TraCE−21 ka-II transient simulation",
+    "date": "2026-11-04",
+    "venue": "Climate Dynamics",
+    "url": "https://doi.org/10.1007/s00382-026-08435-2"
    },
    {
-    "title": "Emergent-constrained future aridity and drought changes under low-to-moderate emission scenarios with explicit external forcings",
-    "date": "2026-11-14",
-    "venue": "npj Climate and Atmospheric Science",
-    "url": "https://doi.org/10.1038/s41612-026-01593-4"
+    "title": "Differential Indo-Pacific SST warming and its dynamical control on monsoon depression genesis and Indian summer monsoon rainfall",
+    "date": "2026-10-26",
+    "venue": "Journal of Earth System Science",
+    "url": "https://doi.org/10.1007/s12040-026-02999-7"
    },
    {
-    "title": "Covariation Impacts of the Western Pacific and Indian Subtropical Highs on Biomass Burning in the Greater Mekong Subregion",
-    "date": "2026-11-14",
-    "venue": "Journal of Geophysical Research Atmospheres",
-    "url": "https://doi.org/10.1029/2026jd047014"
+    "title": "Observational constraints on global climate projections: An original method applied to changes in Indian summer monsoon rainfall",
+    "date": "2026-10-26",
+    "venue": "Journal of Climate",
+    "url": "https://doi.org/10.1175/jcli-d-26-0153.1"
    }
   ],
   "glaciers": [
    {
-    "title": "Climate-driven spatio-temporal escalation of wet mass-movement disasters and their socio-economic impacts (1970−2024)",
-    "date": "2026-11-14",
-    "venue": "Geohazards & Remediation",
-    "url": "https://doi.org/10.1007/s44517-026-00010-0"
+    "title": "Global-scale variability of glacier velocity and mass loss across terminus environments",
+    "date": "2026-10-23",
+    "venue": "Nature Communications",
+    "url": "https://doi.org/10.1038/s41467-026-78654-y"
    },
    {
-    "title": "Low Frequency Icequakes Generated During Transient Cavity Drainage on a Greenlandic Outlet Glacier",
-    "date": "2026-11-14",
-    "venue": "Geophysical Research Letters",
-    "url": "https://doi.org/10.1029/2026gl125244"
+    "title": "Reduced glacier mass loss rates on the southern Tibetan Plateau during a global warming hiatus",
+    "date": "2026-04-08",
+    "venue": "Global and Planetary Change",
+    "url": "https://doi.org/10.1016/j.gloplacha.2026.105476"
    },
    {
-    "title": "Surface melt variability over the Shackleton Ice Shelf from high-resolution sentinel-1 sar observations during 2015–2023",
-    "date": "2026-11-14",
-    "venue": "International Journal of Digital Earth",
-    "url": "https://doi.org/10.1080/17538947.2026.2744437"
+    "title": "Accelerated Glacier Mass Loss in Alaska Since 2012 and Its Contribution to Global Sea Level Rise",
+    "date": "2025-12-30",
+    "venue": "Korean Science Education Society for the Gifted",
+    "url": "https://doi.org/10.29306/jseg.2025.17.3.546"
    }
   ],
   "unccd": [
    {
-    "title": "Spatiotemporal dynamics of desertification and its influencing factors in Yanchi County",
-    "date": "2026-12-01",
-    "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
-    "url": "https://openalex.org/W7213962320"
+    "title": "Desertification and Land Degradation in North Africa and the Middle East: Evidence, Drivers and Pathways to Restoration",
+    "date": "2026-11-07",
+    "venue": "The Future of Earth & Environment",
+    "url": "https://doi.org/10.37229/fee.v1i1.005"
    },
    {
-    "title": "Non‑carbonate rocks govern sediment transport dynamics in lithologically heterogeneous karst catchments of Southwest China: Evidence from a composite fingerprinting approach",
-    "date": "2026-11-14",
-    "venue": "CATENA",
-    "url": "https://doi.org/10.1016/j.catena.2026.110736"
+    "title": "Geospatial analysis of land degradation and desertification in the semi-arid Shabelle River Basin, Somalia",
+    "date": "2026-10-14",
+    "venue": "Geocarto International",
+    "url": "https://doi.org/10.1080/10106049.2026.2746835"
    },
    {
-    "title": "Natural and anthropogenic factors associated with agricultural productivity in selected Sub-Saharan African countries: The role of water resources",
-    "date": "2026-11-14",
-    "venue": "Agricultural Water Management",
-    "url": "https://doi.org/10.1016/j.agwat.2026.110949"
+    "title": "Spatiotemporal dynamics of land degradation and desertification in a semi-arid region: a cloud-based remote sensing fusion approach for sustainable land management",
+    "date": "2026-10-01",
+    "venue": "Advances in Space Research",
+    "url": "https://doi.org/10.1016/j.asr.2026.09.088"
    }
   ],
   "drought": [
    {
-    "title": "Developing a framework to assess the sustainability of farming systems",
-    "date": "2026-12-27",
-    "venue": "Journal of Agricultural and Food Chemical Engineering",
-    "url": "https://doi.org/10.5281/zenodo.21869141"
+    "title": "Drought Impacts and Recovery Across Agricultural Regions: Evidence on Farm Economic Returns to Labour From a Synthetic Control Analysis",
+    "date": "2026-11-14",
+    "venue": "Journal of Agricultural Economics",
+    "url": "https://doi.org/10.1111/1477-9552.70096"
    },
    {
-    "title": "Reconstruction and Renaissance of Dongbei China:A Multimodal Metaphor Analysis of New Media on Harbin",
-    "date": "2026-12-01",
-    "venue": "Research Explorer (The University of Manchester)",
-    "url": "https://openalex.org/W7130910808"
+    "title": "Climate-induced drought and its impact on economic pressures and psychological distress among farmers in southern Khyber Pakhtunkhwa, Pakistan",
+    "date": "2026-10-05",
+    "venue": "Climate Risk Management",
+    "url": "https://doi.org/10.1016/j.crm.2026.100891"
    },
    {
-    "title": "Balancing Root-Zone Oxygenation and Rhizosphere Stability: The Impact of Aeration and Hypoxia on Hydroponic Plant Growth",
-    "date": "2026-12-01",
-    "venue": "Digital Commons - USU (Utah State University)",
-    "url": "https://openalex.org/W7213377292"
+    "title": "Economic Impacts of Climate Change on Agriculture: Evidence from Drought-Prone Districts of Karnataka",
+    "date": "2026-08-01",
+    "venue": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "url": "https://doi.org/10.55041/ijsrem66776"
    }
   ],
   "soil": [
    {
-    "title": "Wildfire and Fuel Treatments in Utah: A Practical Guide and Outcomes From an Oak-Maple Ecosystem",
-    "date": "2026-12-01",
-    "venue": "Digital Commons - USU (Utah State University)",
-    "url": "https://openalex.org/W7204975185"
+    "title": "Integrating Soil Organic Carbon, Erosion and Land Productivity Dynamics as Composite Soil Health Indicators Under Semiarid Conditions: A Diagnostic Approach Within the Land Degradation Neutrality Framework",
+    "date": "2026-10-01",
+    "venue": "Soil Use and Management",
+    "url": "https://doi.org/10.1111/sum.70313"
    },
    {
-    "title": "Balancing Root-Zone Oxygenation and Rhizosphere Stability: The Impact of Aeration and Hypoxia on Hydroponic Plant Growth",
-    "date": "2026-12-01",
-    "venue": "Digital Commons - USU (Utah State University)",
-    "url": "https://openalex.org/W7213377292"
+    "title": "Long-term storage of air-dried samples compromises water-extractable organic carbon as a soil health indicator",
+    "date": "2026-09-23",
+    "venue": "SOIL",
+    "url": "https://doi.org/10.5194/soil-12-937-2026"
    },
    {
-    "title": "Fibre fineness of olitorius jute: morphological, histochemical, biochemical and molecular perspective",
-    "date": "2026-11-15",
-    "venue": "Revista Brasileira de Botânica",
-    "url": "https://doi.org/10.1007/s40415-026-01179-7"
+    "title": "Synergistic effects of enterprise diversification and organic management on productivity, carbon balance, energy use, and soil health in integrated farming systems",
+    "date": "2026-08-01",
+    "venue": "Journal of Agriculture and Food Research",
+    "url": "https://doi.org/10.1016/j.jafr.2026.103217"
    }
   ]
  }

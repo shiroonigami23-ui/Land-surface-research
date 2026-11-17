@@ -1,0 +1,125 @@
+{
+ "updated": "2026-11-17",
+ "streams": {
+  "amazon": [
+   {
+    "title": "LLM-agent-based cross-modal retrieval method for detecting clues of ecological environment damage",
+    "date": "2026-11-15",
+    "venue": "Scientific Reports",
+    "url": "https://doi.org/10.1038/s41598-026-80668-x"
+   },
+   {
+    "title": "The role of tree cover in enhancing paddock resilience: insights from remote sensing in amazonian silvopastoral systems",
+    "date": "2026-11-14",
+    "venue": "Agroforestry Systems",
+    "url": "https://doi.org/10.1007/s10457-026-01730-1"
+   },
+   {
+    "title": "Global Forest Carbon Project Evaluation System",
+    "date": "2026-11-14",
+    "venue": "VNU Journal of Science Policy and Management Studies",
+    "url": "https://doi.org/10.25073/2588-1116/vnupam.4608"
+   }
+  ],
+  "monsoon": [
+   {
+    "title": "Contrasting Large‐Scale and Mesoscale Mechanisms of Extreme Rainfall Events in Henan Province: The July 2021 and September 2024 Cases",
+    "date": "2026-11-14",
+    "venue": "Journal of Geophysical Research Atmospheres",
+    "url": "https://doi.org/10.1029/2026jd047491"
+   },
+   {
+    "title": "Emergent-constrained future aridity and drought changes under low-to-moderate emission scenarios with explicit external forcings",
+    "date": "2026-11-14",
+    "venue": "npj Climate and Atmospheric Science",
+    "url": "https://doi.org/10.1038/s41612-026-01593-4"
+   },
+   {
+    "title": "Covariation Impacts of the Western Pacific and Indian Subtropical Highs on Biomass Burning in the Greater Mekong Subregion",
+    "date": "2026-11-14",
+    "venue": "Journal of Geophysical Research Atmospheres",
+    "url": "https://doi.org/10.1029/2026jd047014"
+   }
+  ],
+  "glaciers": [
+   {
+    "title": "Climate-driven spatio-temporal escalation of wet mass-movement disasters and their socio-economic impacts (1970−2024)",
+    "date": "2026-11-14",
+    "venue": "Geohazards & Remediation",
+    "url": "https://doi.org/10.1007/s44517-026-00010-0"
+   },
+   {
+    "title": "Low Frequency Icequakes Generated During Transient Cavity Drainage on a Greenlandic Outlet Glacier",
+    "date": "2026-11-14",
+    "venue": "Geophysical Research Letters",
+    "url": "https://doi.org/10.1029/2026gl125244"
+   },
+   {
+    "title": "Surface melt variability over the Shackleton Ice Shelf from high-resolution sentinel-1 sar observations during 2015–2023",
+    "date": "2026-11-14",
+    "venue": "International Journal of Digital Earth",
+    "url": "https://doi.org/10.1080/17538947.2026.2744437"
+   }
+  ],
+  "unccd": [
+   {
+    "title": "Spatiotemporal dynamics of desertification and its influencing factors in Yanchi County",
+    "date": "2026-12-01",
+    "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "url": "https://openalex.org/W7213962320"
+   },
+   {
+    "title": "Non‑carbonate rocks govern sediment transport dynamics in lithologically heterogeneous karst catchments of Southwest China: Evidence from a composite fingerprinting approach",
+    "date": "2026-11-14",
+    "venue": "CATENA",
+    "url": "https://doi.org/10.1016/j.catena.2026.110736"
+   },
+   {
+    "title": "Natural and anthropogenic factors associated with agricultural productivity in selected Sub-Saharan African countries: The role of water resources",
+    "date": "2026-11-14",
+    "venue": "Agricultural Water Management",
+    "url": "https://doi.org/10.1016/j.agwat.2026.110949"
+   }
+  ],
+  "drought": [
+   {
+    "title": "Developing a framework to assess the sustainability of farming systems",
+    "date": "2026-12-27",
+    "venue": "Journal of Agricultural and Food Chemical Engineering",
+    "url": "https://doi.org/10.5281/zenodo.21869141"
+   },
+   {
+    "title": "Reconstruction and Renaissance of Dongbei China:A Multimodal Metaphor Analysis of New Media on Harbin",
+    "date": "2026-12-01",
+    "venue": "Research Explorer (The University of Manchester)",
+    "url": "https://openalex.org/W7130910808"
+   },
+   {
+    "title": "Balancing Root-Zone Oxygenation and Rhizosphere Stability: The Impact of Aeration and Hypoxia on Hydroponic Plant Growth",
+    "date": "2026-12-01",
+    "venue": "Digital Commons - USU (Utah State University)",
+    "url": "https://openalex.org/W7213377292"
+   }
+  ],
+  "soil": [
+   {
+    "title": "Wildfire and Fuel Treatments in Utah: A Practical Guide and Outcomes From an Oak-Maple Ecosystem",
+    "date": "2026-12-01",
+    "venue": "Digital Commons - USU (Utah State University)",
+    "url": "https://openalex.org/W7204975185"
+   },
+   {
+    "title": "Balancing Root-Zone Oxygenation and Rhizosphere Stability: The Impact of Aeration and Hypoxia on Hydroponic Plant Growth",
+    "date": "2026-12-01",
+    "venue": "Digital Commons - USU (Utah State University)",
+    "url": "https://openalex.org/W7213377292"
+   },
+   {
+    "title": "Fibre fineness of olitorius jute: morphological, histochemical, biochemical and molecular perspective",
+    "date": "2026-11-15",
+    "venue": "Revista Brasileira de Botânica",
+    "url": "https://doi.org/10.1007/s40415-026-01179-7"
+   }
+  ]
+ }
+}

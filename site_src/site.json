@@ -1483,42 +1483,48 @@
    "icon": "🌳",
    "name": "Amazon deforestation (Brazil)",
    "status": "3,335 km² Aug 2025–Jul 2026: −41.8%, lowest since 1988 (PRODES)",
-   "next": "Final PRODES figure; Cerrado down ~24%"
+   "next": "Final PRODES figure; Cerrado down ~24%",
+   "query": "Amazon deforestation"
   },
   {
    "id": "monsoon",
    "icon": "🌧",
    "name": "India monsoon 2026",
    "status": "759.4 mm = 87% of long-period average (deficient)",
-   "next": "Rabi sowing and reservoir levels; 2027 forecast in April"
+   "next": "Rabi sowing and reservoir levels; 2027 forecast in April",
+   "query": "Indian summer monsoon rainfall"
   },
   {
    "id": "glaciers",
    "icon": "🏔",
    "name": "Global glacier loss",
    "status": "408 ± 132 Gt lost in 2025; all 19 regions shrank 4th year running",
-   "next": "WGMS 2026 hydrological-year data"
+   "next": "WGMS 2026 hydrological-year data",
+   "query": "global glacier mass loss"
   },
   {
    "id": "unccd",
    "icon": "🏜",
    "name": "Desertification (UNCCD COP17)",
    "status": "COP17 concluded in Mongolia, Aug 2026; up to 40% of land degraded",
-   "next": "2030 restoration targets; Great Green Wall progress"
+   "next": "2030 restoration targets; Great Green Wall progress",
+   "query": "desertification land degradation"
   },
   {
    "id": "drought",
    "icon": "🌵",
    "name": "Drought cost",
    "status": "Land degradation and drought cost ~$878 bn a year",
-   "next": "Drought-resilience financing"
+   "next": "Drought-resilience financing",
+   "query": "drought economic impact"
   },
   {
    "id": "soil",
    "icon": "🟤",
    "name": "Soil health",
    "status": "UN: about a third of soils degraded",
-   "next": "World Soil Day, 5 Dec"
+   "next": "World Soil Day, 5 Dec",
+   "query": "soil health organic carbon"
   }
  ],
  "tracker_page": "data/tracker",
@@ -1552,5 +1558,58 @@
    "title": "Crops"
   }
  ],
- "prompt_style": "Photorealistic documentary photograph, natural light, 16:9, no text or labels"
+ "prompt_style": "Photorealistic documentary photograph, natural light, 16:9, no text or labels",
+ "home_groups": [
+  {
+   "icon": "🗺",
+   "title": "Places & regions",
+   "ids": [
+    "countries",
+    "continents",
+    "regions",
+    "landforms",
+    "places"
+   ]
+  },
+  {
+   "icon": "🌿",
+   "title": "Life on land",
+   "ids": [
+    "species",
+    "protected"
+   ]
+  },
+  {
+   "icon": "🌾",
+   "title": "Soil, climate & food",
+   "ids": [
+    "soils",
+    "climates",
+    "crops",
+    "fruits"
+   ]
+  },
+  {
+   "icon": "⚠",
+   "title": "Hazards",
+   "ids": [
+    "disasters"
+   ]
+  },
+  {
+   "icon": "🔬",
+   "title": "Evidence",
+   "ids": [
+    "papers"
+   ]
+  }
+ ],
+ "search_hints": [
+  "Western Ghats",
+  "Bengal tiger",
+  "Sahara",
+  "Monsoon",
+  "Himalayas",
+  "Amazon rainforest"
+ ]
 }

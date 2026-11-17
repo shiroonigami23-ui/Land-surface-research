@@ -1,6 +1,14 @@
 # Changelog
 
 
+
+## [Unreleased] - 2026-11-17 (homepage and tracker)
+### Changed
+- Homepage catalogs grouped into themed blocks with one-line blurbs; the Browse menu uses the same groups.
+- Bigger hero search with suggested searches.
+### Added
+- Weekly GitHub Action (`update-tracker.yml`) that fetches the newest papers for each live-tracker stream from OpenAlex, adds a 'Latest research' section to the tracker page, updates the tracker date and rebuilds the site.
+
 ## [Unreleased] - 2026-11-17
 ### Added
 - In-site reader (`wiki/read.html`): every Wikipedia link now opens the full article inside this site, with images, contents and links that stay in the site; pages we have our own article for open those instead.
